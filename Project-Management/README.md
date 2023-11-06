@@ -26,7 +26,6 @@ References:
 2. Cioffi, D. F. (2002). Managing Project Integration.
 3. Lawrence. P. R., and Lorsch. J. W (1967). “New Management Job: The Integrator.” Harvard Business Review, 45(6).
 4. Pearson IT Certification Article. Retrieved from https://www.pearsonitcertification.com/articles/article.aspx?p=3178907&seqNum=3
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/0bb1c1ba-ae8d-452e-ae87-09871a541a9a)
 
 # Discussion Topic #1
 
