@@ -5,7 +5,7 @@
 1. The Project Management Institute (PMI) offers a concise definition of project integration management, encompassing "the processes and activities to identify, define, combine, unify, and coordinate the various activities within the project management process groups." (Project Management Institute, 2017). This definition is rooted in the concept expressed in a seminal 1967 paper in the Harvard Business Review, characterizing integration as "the achievement of unity of effort" (Lawrence. P. R., and Lorsch. J. W, 1967).
 
 The essence of integration lies not only in the execution of project plans but also in fostering unity of effort. Notably, a significant portion of integration occurs during the development of the project plan. Incomplete integration implies inadequate project management. Even if managing nearly 100 percent of a project's components, without systematic integration, it remains only partially managed. Effectively managing a project implies embracing integration, involving the harmonization of budget, schedule, scope, stakeholders, and project team dynamics. Neglecting any of these components results in an incomplete integration task (Cioffi, D. F. (2002).
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/0f1bf52a-4e92-439e-b73c-777640cb1d57)
+
 
 2. A stakeholder, defined as "an individual, group, or organization that may affect, be affected, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio". A stakeholder plays a crucial role in project management (Project Management Institute, 2017).
 
