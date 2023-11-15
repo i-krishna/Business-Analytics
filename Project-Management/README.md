@@ -1,6 +1,6 @@
 # Discussion Topic #3
-**
-Understanding Factors Affecting Schedules in Project Management**
+
+**Understanding Factors Affecting Schedules in Project Management by Krishna Damarla**
 
 Numerous elements exert influence on the project schedule, necessitating thorough consideration by the project manager during both the planning and execution phases. Some of the common factors a project manager must consider that could impact project’s schedule are (PMI, 2021):
 
