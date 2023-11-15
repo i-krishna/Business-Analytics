@@ -4,23 +4,15 @@
 
 Benchmarking is the practice of identifying and adopting the best methods in both process and product development and delivery (Wikipedia, n.d). In simpler terms, it involves moving from point A to point B by following industry best practices. Benchmarking is a vital part of organizational maintenance and is widely used as a management tool across various organizations, where products, services, and processes are measured against those of recognized industry leaders. There are nine distinct benchmarking standards, each serving specific purposes (Dembowski, 2013): 
 
- 1.      Internal Benchmarking: Compares within the organization.
-
- 2.     Competitive Benchmarking: Compares against industry competitors.
-
- 3.     Functional Benchmarking: Compares similar functions in different industries.
-
- 4.     Strategic Benchmarking: Focuses on long-term strategies.
-
- 5.     Performance Benchmarking: Evaluates performance metrics.
-
- 6.     Process Benchmarking: Analyzes specific processes.
-
- 7.     Financial Benchmarking: Compares financial metrics.
-
- 8.     Collaborative Benchmarking: Collaborates with other organizations.
-
- 9.     Best-in-Class Benchmarking: Compares against global top performers.
+- Internal Benchmarking: Compares within the organization.
+- Competitive Benchmarking: Compares against industry competitors.
+- Functional Benchmarking: Compares similar functions in different industries.
+- Strategic Benchmarking: Focuses on long-term strategies.
+- Performance Benchmarking: Evaluates performance metrics.
+- Process Benchmarking: Analyzes specific processes.
+- Financial Benchmarking: Compares financial metrics.
+- Collaborative Benchmarking: Collaborates with other organizations.
+- Best-in-Class Benchmarking: Compares against global top performers.
 
 Examples of benchmarking organizations include the American Productivity & Quality Center (APQC), which conducts Open Standards Benchmarking (OSB) assessments, setting global standards for best practices and performance improvement (APQC, n.d). Another instance is the ISO 9001 group, which establishes criteria for quality management systems applicable to diverse industries such as construction management, IT services, automotive manufacturing, and healthcare (Combs, 2017).
 
