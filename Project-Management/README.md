@@ -28,27 +28,27 @@ Numerous elements exert influence on the project schedule, necessitating thoroug
 
 Numerous elements exert influence on the project schedule, necessitating thorough consideration by the project manager during both the planning and execution phases. Some of the common factors a project manager must consider that could impact project’s schedule are (PMI, 2021):
 
- 1.     Resource Availability: Scheduling tasks must align with the availability of essential resources, such as developers, architects, or business analysts, impacting the sequencing of activities.
+ 1. Resource Availability: Scheduling tasks must align with the availability of essential resources, such as developers, architects, or business analysts, impacting the sequencing of activities.
 
-2.     In-House vs. Vendor Decisions: The choice between in-house execution and outsourcing to vendors(make-or-buy analysis), introduces variations in scheduled task performances.
+2. In-House vs. Vendor Decisions: The choice between in-house execution and outsourcing to vendors(make-or-buy analysis), introduces variations in scheduled task performances.
 
-3.     Budget Constraints: Project budget considerations directly influence the scope, raw materials, and resource allocation, potentially prompting schedule adjustments.
+3. Budget Constraints: Project budget considerations directly influence the scope, raw materials, and resource allocation, potentially prompting schedule adjustments.
 
-4.     Risk Factors: Identifying and assessing risks can affect the precision and range of schedule estimates, demanding flexibility in response to potential challenges.
+4. Risk Factors: Identifying and assessing risks can affect the precision and range of schedule estimates, demanding flexibility in response to potential challenges.
 
-5.     Life Cycle Dynamics: The project's life cycle, whether characterized by single or multiple deliveries, tight or rolling deadlines, and predictive or adaptive methodologies, shapes the scheduling approach.
+5. Life Cycle Dynamics: The project's life cycle, whether characterized by single or multiple deliveries, tight or rolling deadlines, and predictive or adaptive methodologies, shapes the scheduling approach.
 
-6.     Employee Capabilities and Availability: Variances in team experience and their availability impact the time required for task completion, influencing project timelines.
+6. Employee Capabilities and Availability: Variances in team experience and their availability impact the time required for task completion, influencing project timelines.
 
-7.     External Business Environment Changes: External factors like regulatory modifications, supply chain disruptions, and geographical considerations introduce dynamic elements affecting the project schedule.
+7. External Business Environment Changes: External factors like regulatory modifications, supply chain disruptions, and geographical considerations introduce dynamic elements affecting the project schedule.
 
-8.     Internal Environment Changes: Organizational alterations, management shifts, and procedural adjustments within the project environment necessitate schedule adaptability.
+8. Internal Environment Changes: Organizational alterations, management shifts, and procedural adjustments within the project environment necessitate schedule adaptability.
 
-9.     Stakeholder-Initiated Changes: Requests for alterations, be it additional requirements or the identification of issues during the project, directly impact the schedule.
+9. Stakeholder-Initiated Changes: Requests for alterations, be it additional requirements or the identification of issues during the project, directly impact the schedule.
 
-10.  Constraints Identified During the Project: Any constraints identified during project execution, encompassing scope, budget, resources, quality, and risk, can impede the established schedule.
+10. Constraints Identified During the Project: Any constraints identified during project execution, encompassing scope, budget, resources, quality, and risk, can impede the established schedule.
 
-11.  Time Management: Effective time management, as highlighted by Kerzner (2009), involves making the most of time through tools such as daily, weekly, and monthly time sheets. Failure to optimize time utilization using these time management forms can impact the project schedule.
+11. Time Management: Effective time management, as highlighted by Kerzner (2009), involves making the most of time through tools such as daily, weekly, and monthly time sheets. Failure to optimize time utilization using these time management forms can impact the project schedule.
 
 12.	Stress Management: Effective stress management, as highlighted by Kerzner (2009), involves skillfully selecting the appropriate conflict resolution method based on the individual, context, and urgency. Proficiently navigating stressful situations requires employing diverse conflict resolution modes, such as withdrawal (disengaging from potential conflict), smoothing (highlighting common ground by emphasizing what people agree on and making the differences seem less important), compromising (willingness to give and take by making concessions), forcing (steering the resolution towards a decisive outcome, win-or-lose), and confrontation (face-to-face meetings for conflict resolution). Stress also includes tiredness, depression, physical and emotional exhaustion, burnout, unhappiness, feeling trapped, worthlessness, resentment, hopelessness, rejection, and anxiety. Although stress isn't always negative and can drive productivity but project manager needs to be conscious of his / her emotions first and later teams.  Because, prolonged stress, can lead to illness. The interconnectedness of the mind, body, and emotions (soul) has to be recognized, and stress management is considered crucial for a project manager to navigate the challenges effectively. Mastering these tactics is key to ensuring project schedules remain unhindered.
 
