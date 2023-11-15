@@ -55,9 +55,6 @@ References
 Project Management Institute, PMI (2021). A Guide to the Project Management Book of Knowledge (PMBOK® Guide, 7th ed).
 
 Kerzner, H (2009). Project Management: A Systems Approach to Planning, Scheduling, and Controlling (10th ed). Wiley Publication. 
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/511e596e-73d0-42b4-9ca7-ec730a8dcbb4)
-
-
 
 
 # Discussion Topic #2
