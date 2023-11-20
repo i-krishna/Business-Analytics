@@ -1,3 +1,5 @@
+Communication Fitness image retrieved from www.StrategySkills.com
+
 # Discussion Topic #3
 
 **Benchmarking and Standard Operating Procedures by Krishna Damarla**
