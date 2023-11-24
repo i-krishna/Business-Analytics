@@ -55,8 +55,6 @@ References
 Horine, G. M., Haque, A. E.  (2023). Project Management Professional (PMP)® Cert Guide. 
 
 Google Career Certificates. (2021). Create a Project Communication Plan. Retrieved from https://www.youtube.com/watch?v=W_n0GYdW7DM 
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/3a4b25d3-89c0-446b-8f49-722d61f58d40)
-
 
 # Discussion Topic #3
 
