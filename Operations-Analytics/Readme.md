@@ -55,33 +55,36 @@ The Capgemini Consulting Approach (2018). Process and Supply Chain Analytics. ht
 **Strategic and Operational Goals by Krishna Damarla**
 
 Understanding the below mentioned key distinctions between operational goals and strategic goals is crucial for organizations to ensure a balanced approach to goal-setting, addressing both immediate operational needs and long-term strategic objectives.
-1.     Purpose:
-·       Operational Goal: Aims at refining and optimizing existing processes, focusing on incremental enhancements.
-·       Strategic Goal: Involves a more transformative purpose, necessitating innovation and a departure from current practices.
-2.     Time Horizon:
-·       Operational Goal: Geared towards short-term improvements, typically within weeks, months, or quarters.
-·       Strategic Goal: Encompasses a long-term perspective, often spanning 2-4 years or more.
-3.     Alignment:
-·       Operational Goal: Aligned with immediate, tangible outcomes and established best practices.
-·       Strategic Goal: Aligned with the overarching mission and vision of the organization, providing a guiding direction for the future.
-4.     Management Level:
-·       Operational Goal: Primarily falls under the purview of line managers, addressing day-to-day operational activities.
-·       Strategic Goal: Primarily the concern of top-level management, shaping the overall trajectory of the organization.
-5.     Impact and Results:
-·       Operational Goal: Focuses on incremental improvements and achieving short-term profitability.
-·       Strategic Goal: Aims for sustainable advantages, long-term profitability, and significant, often qualitative, impacts.
-6.     Nature of Change:
-·       Operational Goal: Centers on optimizing current processes, ensuring efficiency in execution.
-·       Strategic Goal: Requires a shift towards new approaches, often involving substantial changes, innovation, and reimagining business paradigms.
-7.     Checklist Criteria:
-·       Operational Goal: Assessed against criteria like refining existing processes, short-term focus, and alignment with strategic goals.
-·       Strategic Goal: Evaluated based on criteria such as introducing novel approaches, long-term perspective, and alignment with the organization's mission and vision.
-8.     Risk and Innovation:
-·       Operational Goal: Typically associated with lower risk, focusing on improvements within existing frameworks.
-·       Strategic Goal: Inherently involves a higher level of risk and demands a more innovative approach to navigate uncertainty.
-9.     Measurability:
-·       Operational Goal: Often lends itself to straightforward, easily measurable metrics with tangible, short-term results.
-·       Strategic Goal: May involve more qualitative measures, especially in the early stages, and necessitates a nuanced combination of leading and lagging indicators.
+
+1.	Purpose:
+a.	Operational Goal: Aims at refining and optimizing existing processes, focusing on incremental enhancements.
+b.	Strategic Goal: Involves a more transformative purpose, necessitating innovation and a departure from current practices.
+2.	Time Horizon:
+a.	Operational Goal: Geared towards short-term improvements, typically within weeks, months, or quarters.
+b.	Strategic Goal: Encompasses a long-term perspective, often spanning 2-4 years or more.
+3.	Alignment:
+a.	Operational Goal: Aligned with immediate, tangible outcomes and established best practices.
+b.	Strategic Goal: Aligned with the overarching mission and vision of the organization, providing a guiding direction for the future.
+4.	Management Level:
+a.	Operational Goal: Primarily falls under the purview of line managers, addressing day-to-day operational activities.
+b.	Strategic Goal: Primarily the concern of top-level management, shaping the overall trajectory of the organization.
+5.	Impact and Results:
+a.	Operational Goal: Focuses on incremental improvements and achieving short-term profitability.
+b.	Strategic Goal: Aims for sustainable advantages, long-term profitability, and significant, often qualitative, impacts.
+6.	Nature of Change:
+a.	Operational Goal: Centers on optimizing current processes, ensuring efficiency in execution.
+b.	Strategic Goal: Requires a shift towards new approaches, often involving substantial changes, innovation, and reimagining business paradigms.
+7.	Checklist Criteria:
+a.	Operational Goal: Assessed against criteria like refining existing processes, short-term focus, and alignment with strategic goals.
+b.	Strategic Goal: Evaluated based on criteria such as introducing novel approaches, long-term perspective, and alignment with the organization's mission and vision.
+8.	Risk and Innovation:
+a.	Operational Goal: Typically associated with lower risk, focusing on improvements within existing frameworks.
+b.	Strategic Goal: Inherently involves a higher level of risk and demands a more innovative approach to navigate uncertainty.
+9.	Measurability:
+a.	Operational Goal: Often lends itself to straightforward, easily measurable metrics with tangible, short-term results.
+b.	Strategic Goal: May involve more qualitative measures, especially in the early stages, and necessitates a nuanced combination of leading and lagging indicators.
+![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/ab78a3d7-908d-4108-8257-7017c78b6bc8)
+
 
 # Discussion Topic #3
 
