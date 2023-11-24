@@ -57,11 +57,11 @@ The Capgemini Consulting Approach (2018). Process and Supply Chain Analytics. ht
 Understanding the below mentioned key distinctions between operational goals and strategic goals is crucial for organizations to ensure a balanced approach to goal-setting, addressing both immediate operational needs and long-term strategic objectives.
 
 1.	Purpose:
-a.	Operational Goal: Aims at refining and optimizing existing processes, focusing on incremental enhancements.
-b.	Strategic Goal: Involves a more transformative purpose, necessitating innovation and a departure from current practices.
+  a.	Operational Goal: Aims at refining and optimizing existing processes, focusing on incremental enhancements.
+  b.	Strategic Goal: Involves a more transformative purpose, necessitating innovation and a departure from current practices.
 2.	Time Horizon:
-a.	Operational Goal: Geared towards short-term improvements, typically within weeks, months, or quarters.
-b.	Strategic Goal: Encompasses a long-term perspective, often spanning 2-4 years or more.
+  a.	Operational Goal: Geared towards short-term improvements, typically within weeks, months, or quarters.
+  b.	Strategic Goal: Encompasses a long-term perspective, often spanning 2-4 years or more.
 3.	Alignment:
 a.	Operational Goal: Aligned with immediate, tangible outcomes and established best practices.
 b.	Strategic Goal: Aligned with the overarching mission and vision of the organization, providing a guiding direction for the future.
@@ -83,7 +83,7 @@ b.	Strategic Goal: Inherently involves a higher level of risk and demands a more
 9.	Measurability:
 a.	Operational Goal: Often lends itself to straightforward, easily measurable metrics with tangible, short-term results.
 b.	Strategic Goal: May involve more qualitative measures, especially in the early stages, and necessitates a nuanced combination of leading and lagging indicators.
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/ab78a3d7-908d-4108-8257-7017c78b6bc8)
+
 
 
 # Discussion Topic #3
