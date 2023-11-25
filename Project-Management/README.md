@@ -1,8 +1,8 @@
 # Discussion Topic #4
 
-**Stakeholder Communication and Quality Management by Krishna Damarla**
+## Stakeholder Communication and Quality Management by Krishna Damarla
 
-Ensuring Stakeholder Information Needs in Project Communication
+**Ensuring Stakeholder Information Needs in Project Communication**
 
 Effective project management hinges on robust communication that keeps all stakeholders well-informed and aligned with project objectives. The consequences of project breakdowns in the professional arena underscore the urgency for project managers to proactively navigate communication challenges.
 
