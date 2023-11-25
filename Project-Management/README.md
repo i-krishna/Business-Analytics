@@ -56,6 +56,9 @@ Horine, G. M., Haque, A. E.  (2023). Project Management Professional (PMP)® Cer
 
 Google Career Certificates. (2021). Create a Project Communication Plan. Retrieved from https://www.youtube.com/watch?v=W_n0GYdW7DM 
 
+<img width="1208" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/6c9d5b6b-76da-41df-9085-f55214ff2805">
+
+
 # Discussion Topic #3
 
 **Understanding Factors Affecting Schedules in Project Management by Krishna Damarla**
