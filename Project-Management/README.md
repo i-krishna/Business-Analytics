@@ -13,10 +13,9 @@ Furthermore, the communication plan should detail communication methods, conside
 
 Centralizing project plans in an accessible location ensures swift access to pertinent information, promoting continuity in unforeseen circumstances. Safeguarding sensitive data and sharing only relevant information with respective stakeholders is equally critical. In conclusion, effective project communication, facilitated by a comprehensive communication plan, empowers project managers to keep stakeholders informed, address potential issues promptly, and propel the project smoothly toward its goals (Google Career Certificates, 2021).
 
+**Procedures for Quality Assurance and Quality Control**
 
-Procedures for Quality Assurance and Quality Control
-
-Quality assurance (or quality management), entails ensuring teams adhere to quality standards, policies, and procedures. This safeguards against process failures, identifying areas for improvement to enhance efficiency, effectiveness, and stakeholder satisfaction (Horine et al, 2023).
+**Quality assurance** (or quality management), entails ensuring teams adhere to quality standards, policies, and procedures. This safeguards against process failures, identifying areas for improvement to enhance efficiency, effectiveness, and stakeholder satisfaction (Horine et al, 2023).
 
 Tools for Quality Assurance are:
 
@@ -26,7 +25,7 @@ Tools for Quality Assurance are:
 
 3.	Design for X: A systematic approach to achieve objectives considering variables like cost, reliability, and quality.
 
-Quality control, also known as testing or product evaluation, involves the team testing deliverables to ensure they meet requirements. This verification occurs throughout the project to guarantee each stage's deliverable aligns with requirements (Horine et al, 2023).
+**Quality control**, also known as testing or product evaluation, involves the team testing deliverables to ensure they meet requirements. This verification occurs throughout the project to guarantee each stage's deliverable aligns with requirements (Horine et al, 2023).
 
 Tools for Quality Control are:
 
@@ -50,7 +49,7 @@ Tools for Quality Control are:
 
 Implementing these quality assurance and control measures ensures project outcomes align with expectations, fostering stakeholder satisfaction and project success.
 
-References
+**References**
 
 Horine, G. M., Haque, A. E.  (2023). Project Management Professional (PMP)® Cert Guide. 
 
