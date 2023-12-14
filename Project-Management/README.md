@@ -17,9 +17,6 @@ The ability to make well-timed and sound ethical decisions (also, profitable to 
 
 In conclusion, the commendable role of project managers lies in their versatility and adaptability to specific project, industry, and size circumstances. Excelling in overseeing project schedules amidst internal and external factors is a testament to their capabilities.
 
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/6addce78-f534-4401-ae47-9f95e7ede451)
-
-
 # Discussion Topic #4
 
 ## Stakeholder Communication and Quality Management by Krishna Damarla
