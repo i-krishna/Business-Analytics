@@ -18,23 +18,14 @@ summary(data)
 
 # R variable types and Data types
 
-*Numeric—values are numerical (e.g., 3, −1.5, 4,000),
-
-Character—values are character strings (text) (e.g., “frost”, “rain”),
-
-Logical—true or false values, and
-
-Date—values represent calendar dates (e.g., 1978-12-16)*
+1. Numeric—values are numerical (e.g., 3, −1.5, 4,000),
+2. Character—values are character strings (text) (e.g., “frost”, “rain”),
+3. Logical—true or false values, and
+4. Date—values represent calendar dates (e.g., 1978-12-16)
 
 Data of these variable types can then be stored in one of the following data objects:
-
-*Vector—an ordered sequence of values of the same type (e.g., numeric, character, logical),
-
-Factor—vector of values to be treated as nominal variables (unordered categories),
-
-Ordered—vector of values to be treated as ordinal variables (ordered categories),
-
-List—ordered collection of objects of possibly different types, and
-
-Data frame—a two-dimensional array consisting of rows and columns; different columns can have different variable types.*
-
+1. Vector—an ordered sequence of values of the same type (e.g., numeric, character, logical),
+2. Factor—vector of values to be treated as nominal variables (unordered categories),
+3. Ordered—vector of values to be treated as ordinal variables (ordered categories),
+4. List—ordered collection of objects of possibly different types, and
+5. Data frame—a two-dimensional array consisting of rows and columns; different columns can have different variable types.
