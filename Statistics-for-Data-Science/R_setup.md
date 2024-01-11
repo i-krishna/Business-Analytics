@@ -29,3 +29,7 @@ Data of these variable types can then be stored in one of the following data obj
 3. Ordered—vector of values to be treated as ordinal variables (ordered categories),
 4. List—ordered collection of objects of possibly different types, and
 5. Data frame—a two-dimensional array consisting of rows and columns; different columns can have different variable types.
+
+**Reference**
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
