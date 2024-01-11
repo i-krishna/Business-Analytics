@@ -7,3 +7,5 @@ Download R & Studio from https://cran.r-project.org/ & https://posit.co/download
 2. ggplot2, which provides a set of commands for data visualization; and
 
 3. forecast, which provides a set of commands to generate forecasts using time-series methods.
+
+'install.packages("dplyr")'
