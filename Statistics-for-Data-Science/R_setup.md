@@ -13,7 +13,6 @@ Download R & Studio from https://cran.r-project.org/ & https://posit.co/download
 install.packages("dplyr")
 library(dplyr)
 data <- read.csv("data.csv")
-summary(data)
 ```
 
 # R variable types and Data types
