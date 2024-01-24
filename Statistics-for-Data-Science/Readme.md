@@ -5,8 +5,7 @@ Descriptive statistics is a method focused on summarizing and structuring data i
 
 For example, an analysis of daily energy levels on a scale of 1 to 5 might reveal an average (mean) of 3.2, suggesting a generally moderate energy level. Mean is usually used for data with repetitive patterns. The median is used in scenarios where data has more extreme values, like income range from $20,000 to $200,000. Finding the middle value, offers a more accurate version of the 'average' in such scenarios. Similarly, for a retail business like a shoe store, identifying the most frequently sold shoe size of 8 (mode) can be crucial for inventory management (Learning Puree, 2019).
 
-**Summary of Business Problem
-**
+**Summary of Business Problem**
 The primary issue faced by a health insurance company, such as Humana (Morse, 2020), involves the efficient handling of a varied and extensive array of claims while maintaining accuracy, reducing processing duration, and enhancing customer satisfaction. These claims differ in complexity and occurrence rate, necessitating timely and fair treatment for insured individuals.
 
 **Descriptive Statistics in Addressing the Challenge**
