@@ -1,4 +1,7 @@
 
+# Optimizing Claim Management with Descriptive Statistics by Krishna Damarla
+
+
 **Descriptive Statistics: Definition and Examples**
 
 Descriptive statistics is a method focused on summarizing and structuring data in formats that are straightforward and easily understandable / accessible, such as tables, graphs, numerical reports. This approach typically encompasses calculations of the mean (average), median (middle value), mode (most common value), as well as indicators of data spread like the range and standard deviation (Anderson et al., 2020).
@@ -26,6 +29,7 @@ Implementing tools like Excel’s descriptive statistics, combined with the grap
 These statistical insights, ideally showcased in a comprehensive dashboard or report, empower the insurance company to make informed decisions for streamlining operations, elevating customer satisfaction, and achieving more efficient claim management.
 
 **References**
+
 Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
 
 Learning Puree. (2019). What is Descriptive Statistics [Examples and Concept - Mean Median Mode]. YouTube. https://www.youtube.com/watch?v=B_kWOlxxQYo 
