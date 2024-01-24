@@ -27,6 +27,8 @@ These statistical insights, ideally showcased in a comprehensive dashboard or re
 
 **References**
 Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
 Learning Puree. (2019). What is Descriptive Statistics [Examples and Concept - Mean Median Mode]. YouTube. https://www.youtube.com/watch?v=B_kWOlxxQYo 
-Morse, S. (2020). Humana is expediting claims processing and prior authorization during COVID-19 pandemic. Healthcare finance. https://www.healthcarefinancenews.com/news/humana-expediting-claims-processing-and-prior-authorization-during-covid-19-pandemic 
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/6b7dbb43-2523-442b-abd4-008bbfdf02f8)
+
+Morse, S. (2020). Humana is expediting claims processing and prior authorization during COVID-19 pandemic. Healthcare finance. 
+https://www.healthcarefinancenews.com/news/humana-expediting-claims-processing-and-prior-authorization-during-covid-19-pandemic 
