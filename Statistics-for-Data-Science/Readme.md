@@ -1,3 +1,36 @@
+# Discrete Vs Continuous Probabilities by Krishna Damarla
+
+**Infographic**
+
+https://www.canva.com/design/DAF6SRZAAIo/foyXGe6LM_y1sfWuI0udGg/edit?utm_content=DAF6SRZAAIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Infographic Explanation**
+
+Above infographic offers a comprehensive exploration of discrete and continuous probabilities, which are fundamental concepts in probability and statistics for analyzing different types of data. Discrete probabilities, which deal with countable outcomes, utilize a probability function f(x) to enumerate all possible outcomes, typically involving summation in their calculations. In contrast, continuous probabilities cover a range of values and use integration in their calculations, with the probability density function (PDF) determining probabilities as areas under a curve. Both types of probabilities consider mean and variance as crucial statistical metrics, calculated in distinct ways as depicted in the infographic. The infographic further highlights key distributions in discrete probability such as Binomial distribution, which is often used in survey analysis; the Hypergeometric distribution, crucial in quality control; and the Poisson distribution, applied in traffic analysis. For continuous probabilities, the Uniform distribution is key for random time selection, while the Normal (Gaussian) distribution is widely used in analyzing stock market trends, and the Exponential distribution is crucial for lifespan predictions.
+
+**References**
+
+Akshay Pachaar. (2023). Discrete & continuous random variables. https://twitter.com/akshay_pachaar/status/1668234250343305216/photo/1. Twitter. 
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+CalcWorkshop (2020). Expected Value & Variance of Continuous Random Variable. https://calcworkshop.com/continuous-probability-distribution/expected-value-variance-continuous-random-variable/ ;
+
+Genengnews. (2017). 16 Biomarkers May Predict Human Lifespan. https://www.genengnews.com/news/16-biomarkers-may-predict-human-lifespan/ ;
+
+Learn Something. (2015). Discrete Probability Distributions. YouTube. https://www.youtube.com/watch?v=m9U4UelWLFs
+
+Seema Singh. (2019). Probability Distributions: Discrete and Continuous. https://medium.com/@seema.singh/probability-distributions-discrete-and-continuous-7a94ede66dc0 ;
+
+Sentiment analysis concept icon. (n.d). https://www.alamy.com/sentiment-analysis-concept-icon-client-satisfaction-survey-idea-thin-line-illustration-customer-reviews-feedback-service-rating-content-analysis-image340602884.html ;
+
+Skills Factory. (2023). Canva - Tutorial for Beginners in 13 Minutes. YouTube. https://www.youtube.com/watch?v=6M8axhCQP7M
+
+The Organic Chemistry Tutor. (2019). Continuous Probability Distributions - Basic Introduction. YouTube. https://www.youtube.com/watch?v=QxqxdQ_g2uw
+
+Venngage - Visualize your ideas. (2018). The 9 Types of Infographics [TIPS AND EXAMPLES]. YouTube. https://www.youtube.com/watch?v=tN8_85gKOTc
+
+
+
 
 # Optimizing Claim Management with Descriptive Statistics by Krishna Damarla
 
