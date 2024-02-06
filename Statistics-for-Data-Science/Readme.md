@@ -1,3 +1,68 @@
+# Sampling distributions, interval estimation & hypothesis testing
+
+**Infograph **
+https://www.canva.com/design/DAF68mqg1GE/ZkRy4_shfKg-aoeXjJv2jg/edit?utm_content=DAF68mqg1GE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Infograph Explanation**
+
+The Infograph illustrates three key statistical concepts, each with a specific example as discussed below.
+
+**Sampling Distributions**
+Context: Analyzing the heights of basketball players.
+
+1.	Population Distribution: Illustrated by the violet graph, it showcases basketball players' heights with a mean (μ) of 63 inches and standard deviation (σ) of 2.165 inches.
+2.	Sample Means Distribution: Displayed in orange and green graphs, this demonstrates how the distribution of sample means progressively normalizes as sample size increases from n=2 to n=30, in accordance with the Central Limit Theorem.
+3.	Standard Error: Highlighted as 2.165 / √n, it underscores how standard error diminishes as sample size grows.
+
+**Interval Estimation**
+Scenario: Determining the average weight of apples in an orchard.
+
+1.	Interval Estimate: A sample mean weight of 150 grams, with a 10-gram margin of error, at a 95% confidence interval ranges from 140g to 160g. Interval = Point estimate ± Margin of Error = 150 ± 10= [140, 160]
+2.	Influencing Factors: The interval's width is influenced by the variability in apple weights and the size of the sample. It also depends on the known (z-score) or unknown (t-score) status of the population's standard deviation, and on the selected confidence level, whether it’s 95% or 99%.
+
+**Hypothesis Testing**
+Example: Evaluating the effectiveness of a new drug versus an existing drug by a pharmaceutical company.
+
+1.	Hypothesis Formulation: The null hypothesis (H0) suggests no enhanced efficacy for the new drug, while the alternative hypothesis (H1) supports increased effectiveness.
+2.	P-Value & Test Statistic Calculation: Employed to gauge the evidence against H0.
+3.	Interpreting Results: A p-value below 0.05 leads to rejecting H0, implying the new drug’s superior effectiveness. Conversely, a higher p-value indicates inadequate evidence to assert the new drug's superiority.
+
+**References**
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+ 
+Dr Nic's Maths and Stats. (2013). Hypothesis testing: step-by-step, p-value, t-test for difference of two means - Statistics Help. YouTube. https://www.youtube.com/watch?v=0zZYBALbZgg
+
+Dr Nic's Maths and Stats. (2013). Understanding Confidence Intervals: Statistics Help. YouTube. https://www.youtube.com/watch?v=tFWsuO9f74o
+
+Emmanuel, J. (2016). Sampling Distribution - Central Limit Theorem - Normal Distribution. YouTube. https://www.youtube.com/watch?v=hqiMcHqlZ4s
+
+Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55
+Venngage - Visualize your ideas. (2018). The 9 Types of Infographics [TIPS AND EXAMPLES]. YouTube. https://www.youtube.com/watch?v=tN8_85gKOTc
+
+** Comments **
+significance level, denoted by alpha (α) is a critical value to determine the threshold at which you reject the null hypothesis (H0), setting context to discuss further about the 3 key questions Dr. Allua Mam has posed.
+
+1. What factors should be considered when assigning the alpha level?
+
+The choice of α depends on sample size, the researcher's judgment, specific requirements, nature, and goals of the study. Selecting an alpha level may also need to align with the power of test, established standards in certain industries / fields as it involves a trade-off between the risks of Type I and Type II errors (Kim, 2015).
+
+When conducting hypothesis testing, we usually set ‘α’ to define the probability of making a Type I error (rejecting a null hypothesis). At 95% confidence level, α = 1 – 0.95 = 0.05. Commonly used significance levels (α ) are 0.05, 0.01, or 0.10 (PennState Eberly College of Science, 2023a). 
+
+
+2. What implications does a more stringent have on the results?
+
+Larger samples may allow for more stringent alpha levels (e.g., 0.01 at 99% confidence level) with the following implications (Marcos, n.d).
+
+1. Reduces the likelihood of Type I errors (false positives).
+2. Increases the risk of Type II errors (false negatives).
+3. Requires stronger evidence to reject the null hypothesis.
+
+3. What situations would one use a more stringent vs a less stringent alpha level?
+
+More stringent alpha level is critical in situations with high stakes or serious consequences for Type I errors (e.g., medical research) and when demanding a higher level of confidence in results. Less stringent alpha level is appropriate in exploratory studies or situations where Type II errors are less critical and a balance between Type I and Type II errors is acceptable (PennState Eberly College of Science, 2023b).
+
+
 # Discrete Vs Continuous Probabilities by Krishna Damarla
 
 **Infographic**
