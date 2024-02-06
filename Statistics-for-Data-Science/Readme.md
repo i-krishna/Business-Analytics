@@ -41,7 +41,7 @@ Emmanuel, J. (2016). Sampling Distribution - Central Limit Theorem - Normal Dist
 Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55
 Venngage - Visualize your ideas. (2018). The 9 Types of Infographics [TIPS AND EXAMPLES]. YouTube. https://www.youtube.com/watch?v=tN8_85gKOTc
 
-** Comments **
+**Comments**
 significance level, denoted by alpha (α) is a critical value to determine the threshold at which you reject the null hypothesis (H0), setting context to discuss further about the 3 key questions Dr. Allua Mam has posed.
 
 1. What factors should be considered when assigning the alpha level?
