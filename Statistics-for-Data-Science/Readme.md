@@ -1,6 +1,7 @@
 # Sampling distributions, interval estimation & hypothesis testing
 
-**Infograph **
+**Infograph**
+
 https://www.canva.com/design/DAF68mqg1GE/ZkRy4_shfKg-aoeXjJv2jg/edit?utm_content=DAF68mqg1GE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Infograph Explanation**
