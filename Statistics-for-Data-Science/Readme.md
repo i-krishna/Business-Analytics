@@ -1,3 +1,37 @@
+# Simple Linear Regression
+
+## Infographic 
+
+https://www.canva.com/design/DAF8QfkZUA8/C67-IMhT3tOYeVBH9DFSLQ/edit?utm_content=DAF8QfkZUA8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+The above infographic defines simple linear regression as a statistical method to model the linear relationship between two continuous variables (Anderson et al., 2020) and explains its principles with an example of predicting the price of used cars based on an odometer reading.
+
+Here's the summary of the design (Jalayer Academy, 2019):
+
+Step1: Understand Data: A scatterplot was built on the sample data to visualize the strong negative correlation between used car prices and odometer readings. The scatterplot shows that the price (dependent variable / Y-axis ) changes based on the odometer (independent variable / X-axis) reading.
+
+Step 2: Train Model: Model was trained on the sample data from step 1 and regression statistics were computed in Excel. This step involved determining the slope, y-intercept of the regression line, as well as assessing the R-squared value to evaluate the model's reliability for prediction.
+
+Step 3: Make Predictions: The linear regression equation derived from the model in step 2 is used for predictions of used car prices. For example, the predicted price of a used car with an odometer reading of 30,000 miles was calculated as approximately $15,855 with a margin of error of $1,482.72 (PennState Eberly College of Science, 2023). 
+ 
+Used_car_price = 17160 + (-0.087) * odometer ± Standard_Error
+
+Where,
+Used_car_price is the value to be predicted based on given odometer reading.
+17160 is the y-intercept of the estimated regression line.
+-0.087 is the slope of the estimated regression line.
+Standard error as depicted in the infographic is used to measure the accuracy of the estimated regression coefficients, such as the slope and the intercept. A smaller standard error suggests that the regression line is a better fit for the data and provides reliable predictions (Anderson et al., 2020).
+Conclusion: As mileage increases, the price of the used car decreases. This is also supported by the negative slope / correlation between price and odometer readings seen in the scatterplot.
+
+## References
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
+Jalayer Academy. (2019). Simple Linear Regression Example. YouTube. https://www.youtube.com/watch?v=apRkIy73sxg
+
+PennState Eberly College of Science. (2023). Regression Methods. https://online.stat.psu.edu/stat501/lesson/1
+
+
 # Chi-Square Fitness and Independence Test
 
 Chi-Square Goodness of Fit and Independence tests are designed for categorical data based on a single sample from a single population.
