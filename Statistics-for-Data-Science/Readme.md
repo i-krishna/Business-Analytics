@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# Simple Linear Regression by Krishna Damarla
 
 ## Infographic 
 
@@ -32,7 +32,7 @@ Jalayer Academy. (2019). Simple Linear Regression Example. YouTube. https://www.
 PennState Eberly College of Science. (2023). Regression Methods. https://online.stat.psu.edu/stat501/lesson/1
 
 
-# Chi-Square Fitness and Independence Test
+# Chi-Square Fitness and Independence Test by Krishna Damarla
 
 Chi-Square Goodness of Fit and Independence tests are designed for categorical data based on a single sample from a single population.
 
@@ -61,7 +61,7 @@ The chi-square test statistic has k−1 degrees of freedom, where k is the numbe
 
 4. Conclusion: Rejection of null hypothesis (H0) shows that the new product will likely alter historical market shares.
 
-## Chi-Square Test of Independence
+## Chi-Square Test of Independence by Krishna Damarla
 
 1. Definition: Determine the independence of two categorical variables from the same population (Anderson et al., 2020).
 
@@ -99,7 +99,7 @@ The Organic Chemistry Tutor. (2019b). Hypothesis Testing - Difference of Two Mea
 
 <img width="1110" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/d609d2b3-1e5b-49eb-ab78-9d63d014f6e3">
 
-# Sampling distributions, interval estimation & hypothesis testing
+# Sampling distributions, interval estimation & hypothesis testing by Krishna Damarla
 
 **Infograph**
 
