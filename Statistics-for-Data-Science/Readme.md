@@ -23,7 +23,7 @@ Used_car_price is the value to be predicted based on given odometer reading.
 Standard error as depicted in the infographic is used to measure the accuracy of the estimated regression coefficients, such as the slope and the intercept. A smaller standard error suggests that the regression line is a better fit for the data and provides reliable predictions (Anderson et al., 2020).
 Conclusion: As mileage increases, the price of the used car decreases. This is also supported by the negative slope / correlation between price and odometer readings seen in the scatterplot.
 
-## References
+**References**
 
 Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
 
@@ -86,7 +86,7 @@ The Excel formula of CHISQ.TEST(actual_range, expected_range) can also be used t
 
 4. Conclusion: There is a relationship between beer preference and gender.
 
-## References
+**References**
 
 Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
 
