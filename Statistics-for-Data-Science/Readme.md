@@ -1,3 +1,67 @@
+# Chi-Square Goodness of Fit and Independence tests are designed for categorical data based on a single sample from a single population.
+
+## Chi-Square Goodness of Fit
+
+1. Definition: Determines whether a variable meets a specific probability distribution (Anderson et al., 2020).
+
+2. Importance / Application: Test whether the frequency distribution of categorical data follows the assumption of hypothesized distribution. It is widely used in business research, and quality control to determine if the observed frequencies match with expected frequencies and to detect any deviations from the expected distribution.
+
+3. Example: Research study, testing historical market shares of three companies (A, B, and C) based on new product introduction by Company C (Anderson et al., 2020).
+
+3a. Hypotheses (The Organic Chemistry Tutor, 2019a):
+• Null Hypothesis (H0): The introduction of new product will not alter shares.
+• Alternative Hypothesis (Ha): The introduction of new product will alter shares.
+
+3b. Test Statistic: Test involve comparing observed and expected frequencies using the chi-square test statistic formula as shown below (Anderson et al., 2020).
+
+Formula 
+
+The chi-square test statistic has k−1 degrees of freedom, where k is the number of categories (3 in this case). f is the observed frequency of category i and e is the expected frequency of category i
+
+3c. P-value: If p-value falls between 0.05 and 0.025 at a significance level (α) of 0.05, and if P < α, we reject the null hypothesis.
+
+3c. Critical Region: Instead of P-value, we can also use critical region to decide. Based on the data at hand, the critical area is between 5.991 to 7.378, i.e., >= chi-square test statistic 5.991. So, we reject the null hypothesis.
+
+4. Conclusion: Rejection of null hypothesis (H0) shows that the new product will likely alter historical market shares.
+
+## Chi-Square Test of Independence
+
+1. Definition: Determine the independence of two categorical variables from the same population (Anderson et al., 2020).
+
+2. Importance / Use: Determines whether the observed frequencies differ from expected frequencies under the assumption of independence. It is widely used in industries such as social sciences, marketing, and medicine, to investigate the relationship between categorical variables and make decisions based on observed data.
+
+3. Example: A beer industry conducts survey on beer preferences (mild, regular, strong) by gender (male, female), to determine if preferences are independent (Anderson et al., 2020).
+
+3a. Hypotheses (The Organic Chemistry Tutor, 2019b):
+• Null Hypothesis (H0): Beer preference has nothing to do with gender.
+• Alternative Hypothesis (Ha): There is a relationship between beer preference and gender.
+
+3b. Test Statistic: The test is based on comparison of observed and expected frequencies in a contingency table. Formula is as shown below (Anderson et al., 2020).
+
+Formula
+
+Where, fij represents the observed frequency in the ith row and jth column, and eij
+denotes the expected frequency in the ith row and jth column. The degrees of freedom of chi-square test statistic is given by (r−1)(c−1),and are determined by the number of rows (r) and columns (c). In this case, there are three beer preferences (r=3) and two genders (c=2), with degrees of freedom (3−1)(2−1).
+
+The Excel formula of CHISQ.TEST(actual_range, expected_range) can also be used to determine the Chi-Square test of independence (Microsoft, n.d).
+
+3c. P-Value: Based on statistic test, we determine that P < α. Therefore, we reject the null hypothesis.
+
+4. Conclusion: There is a relationship between beer preference and gender.
+
+## References
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
+Microsoft. (n.d). CHISQ.TEST function. https://support.microsoft.com/en-gb/office/chisq-test-function-2e8a7861-b14a-4985-aa93-fb88de3f260f
+
+The Organic Chemistry Tutor. (2019a). Chi Square Test. YouTube.
+
+
+The Organic Chemistry Tutor. (2019b). Hypothesis Testing - Difference of Two Means - Student's -Distribution & Normal Distribution. YouTube.
+
+<img width="1110" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/d609d2b3-1e5b-49eb-ab78-9d63d014f6e3">
+
 # Sampling distributions, interval estimation & hypothesis testing
 
 **Infograph**
