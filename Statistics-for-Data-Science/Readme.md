@@ -16,7 +16,8 @@ Chi-Square Goodness of Fit and Independence tests are designed for categorical d
 
 3b. Test Statistic: Test involve comparing observed and expected frequencies using the chi-square test statistic formula as shown below (Anderson et al., 2020).
 
-Formula 
+Formula <img width="181" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/75c93b85-46e4-43c7-a1f2-9062ee9435cf">
+
 
 The chi-square test statistic has k−1 degrees of freedom, where k is the number of categories (3 in this case). f is the observed frequency of category i and e is the expected frequency of category i
 
@@ -40,7 +41,7 @@ The chi-square test statistic has k−1 degrees of freedom, where k is the numbe
 
 3b. Test Statistic: The test is based on comparison of observed and expected frequencies in a contingency table. Formula is as shown below (Anderson et al., 2020).
 
-Formula
+Formula <img width="193" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/ded0efce-48fe-4d6a-a152-4711faf3240c">
 
 Where, fij represents the observed frequency in the ith row and jth column, and eij
 denotes the expected frequency in the ith row and jth column. The degrees of freedom of chi-square test statistic is given by (r−1)(c−1),and are determined by the number of rows (r) and columns (c). In this case, there are three beer preferences (r=3) and two genders (c=2), with degrees of freedom (3−1)(2−1).
