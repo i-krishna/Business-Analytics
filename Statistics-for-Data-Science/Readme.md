@@ -1,4 +1,6 @@
-# Chi-Square Goodness of Fit and Independence tests are designed for categorical data based on a single sample from a single population.
+# Chi-Square Fitness and Independence Test
+
+Chi-Square Goodness of Fit and Independence tests are designed for categorical data based on a single sample from a single population.
 
 ## Chi-Square Goodness of Fit
 
