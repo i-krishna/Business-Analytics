@@ -239,6 +239,6 @@ https://www.healthcarefinancenews.com/news/humana-expediting-claims-processing-a
 
 
 Tools:
-Excel Data Analysis Toolpak
-R
-https://www.palisade.com/decisiontools_suite/
+- Excel Data Analysis Toolpak
+- R
+- https://www.palisade.com/decisiontools_suite/
