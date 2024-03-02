@@ -1,5 +1,3 @@
-https://www.palisade.com/decisiontools_suite/.
-
 # Simple Linear Regression by Krishna Damarla
 
 ## Infographic 
@@ -238,3 +236,9 @@ Learning Puree. (2019). What is Descriptive Statistics [Examples and Concept - M
 
 Morse, S. (2020). Humana is expediting claims processing and prior authorization during COVID-19 pandemic. Healthcare finance. 
 https://www.healthcarefinancenews.com/news/humana-expediting-claims-processing-and-prior-authorization-during-covid-19-pandemic 
+
+
+Tools:
+Excel Data Analysis Toolpak
+R
+https://www.palisade.com/decisiontools_suite/
