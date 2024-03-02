@@ -1,3 +1,5 @@
+https://www.palisade.com/decisiontools_suite/.
+
 # Simple Linear Regression by Krishna Damarla
 
 ## Infographic 
