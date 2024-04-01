@@ -1,3 +1,32 @@
+The following is a summary of wine ratings analysis extracted from the [/Statistics/Regression_WineRatingsAnalysis.xlsx](Excel), where each of the eight worksheets in the file corresponds to the eight points outlined below.
+
+1. Table (Anderson et al., 2020): A pivot table was created to calculate the average wine price, score, and count of wine bottles per rating category. The analysis reveals a clear relationship between price and rating score, indicating that higher scores generally correspond to higher wine prices. Upon conducting initial summary and descriptive statistics, it was observed that classic wine has the highest average price among all categories, standing at $269.57, with an average score of 96.4. Further, most wine bottles are concentrated in the outstanding (40 bottles) and very good (45 bottles) categories, with average prices of $73 and $30.4, respectively. Notably, the mediocre category includes only one wine bottle priced at $21, which also exhibits the lowest rating score of 78.
+ 
+2. Scatter Diagram: Correlation analysis demonstrated through a scatterplot, revealed a positive linear correlation between price (horizontal x-axis) and Wine rating score (vertical y-axis), indicated by the upward trendline.
+
+3. Linear Regression Model (Anderson et al., 2020): Employing linear regression analysis in Excel, linear regression equation of y = 87.763 + 0.028 * x was derived to predict the wine rating score (y) based on the price of the wine (x).
+
+4. Second-Order Regression Model (Foltz, 2013): Further, a second-order model regression equation was formulated as y = 86.1659 + 0.0713 * x - 0.0001 * x^2 to forecast the wine rating score (y) considering the price of the wine (x).
+
+5. Comparison of Linear and Second-order Regression Models: Evaluation of R^2 (coefficient of determination) results indicates that the second-order model is a superior fit for predictions, attributed to its higher R^2 value in comparison to the linear model.
+
+6. Logarithmic Regression Model (Foltz, 2020): A logarithmic regression equation with natural logarithm of price as the independent variable was developed: y = 77.731 + 3.156 * ln(x), presenting a potentially better fit (˜57.6% model reliability for prediction) than the second-order model.
+
+7. Conclusion: Analysis conclude that spending more price for a bottle of wine will provide a better wine quality, supported by the Logarithmic regression model test statistics with a P-value of 5.89783E-20 at a 95% confidence interval (P <= Alpha).
+ 
+8. Prediction (Sanderson, 2023): Considering a maximum budget of $30 for a bottle of wine, the prediction interval indicates that investing closer to the upper price limit does not guarantee a superior wine quality compared to a significantly lower price, highlighting the wider prediction interval.
+
+References
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
+Foltz, B. (2013). Statistics 101: Multiple Linear Regression, The Very Basics. YouTube. 
+
+Foltz, B. (2020). Statistics 101: Model Building, GLM Relationships Between ANOVA and Linear Regression. . YouTube.
+
+Sanderson, S. (2023). Logarithmic Regression in R: A Step-by-Step Guide with Prediction Intervals. R bloggers. https://www.r-bloggers.com/2023/11/logarithmic-regression-in-r-a-step-by-step-guide-with-prediction-intervals/
+
+
 # Simple Linear Regression by Krishna Damarla
 
 ## Infographic 
