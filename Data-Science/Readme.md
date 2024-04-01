@@ -31,6 +31,9 @@ Jalayer Academy. (2019). Simple Linear Regression Example. YouTube. https://www.
 
 PennState Eberly College of Science. (2023). Regression Methods. https://online.stat.psu.edu/stat501/lesson/1
 
+<img width="920" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/5fdd369e-f707-4bcb-8930-97c0e8055bf9">
+
+<img width="902" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/586dd641-6e09-4e25-a975-941922c235cc">
 
 # Chi-Square Fitness and Independence Test by Krishna Damarla
 
