@@ -28,6 +28,10 @@ Foltz, B. (2020). Statistics 101: Model Building, GLM Relationships Between ANOV
 
 Sanderson, S. (2023). Logarithmic Regression in R: A Step-by-Step Guide with Prediction Intervals. R bloggers. https://www.r-bloggers.com/2023/11/logarithmic-regression-in-r-a-step-by-step-guide-with-prediction-intervals/
 
+<img width="1098" alt="image" src="https://github.com/i-krishna/Business-Analytics/assets/114757733/259a82a7-1905-4009-ab51-d1b08c1286c1">
+
+![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/15b9fa92-881a-45d5-ab22-1e157c551798)
+
 
 # Simple Linear Regression by Krishna Damarla
 
