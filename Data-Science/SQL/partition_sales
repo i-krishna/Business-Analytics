@@ -1,0 +1,9 @@
+-- Create partitioned table by date
+
+CREATE TABLE sales (
+    sale_id SERIAL PRIMARY KEY,
+    customer_id INT,
+    product_id INT,
+    sale_date DATE,
+    amount DECIMAL(10, 2)
+) PARTITION BY RANGE (sale_date);
