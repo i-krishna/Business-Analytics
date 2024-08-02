@@ -16,15 +16,15 @@ The 2D map of a city transportation may seem complex at first. However with a ba
 
 References
 
-Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/track/tube
-
 Anselin, L. (2020). Week 1a: What is spatial analysis? (Introduction to Spatial Data Science). University of Chicago. Retrieved from https://www.youtube.com/watch?v=JwHxJsesG2Y&t=2s 
-
-Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data Scientists. Retrieved from https://geographicdata.science/book/notebooks/01_geo_thinking.html
 
 Delta Air Lines. (2022). The PARALLEL REALITY™ experience. Delta News Hub. https://news.delta.com/mediakit/parallel-realitytm-experience https://news.delta.com/mediakit/parallel-realitytm-experience 
 
-https://www.datatopia.be/en/home-en  
+Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data Scientists. Retrieved from https://geographicdata.science/book/notebooks/01_geo_thinking.html
+
+Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/track/tube
+
+
 
 # Wine Rating Analysis by Krishna Damarla
 
@@ -297,6 +297,8 @@ These statistical insights, ideally showcased in a comprehensive dashboard or re
 **References**
 
 Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
+Datatopia. (2023). Retrieved from https://www.datatopia.be/en/home-en  
 
 Learning Puree. (2019). What is Descriptive Statistics [Examples and Concept - Mean Median Mode]. YouTube. https://www.youtube.com/watch?v=B_kWOlxxQYo 
 
