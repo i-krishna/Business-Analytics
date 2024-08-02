@@ -22,6 +22,8 @@ Anselin, L. (2020). Week 1a: What is spatial analysis? (Introduction to Spatial 
 
 Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data Scientists. Retrieved from https://geographicdata.science/book/notebooks/01_geo_thinking.html
 
+https://www.datatopia.be/en/home-en  
+
 # Wine Rating Analysis by Krishna Damarla
 
 The following is a summary of wine ratings analysis extracted from the [Excel](https://github.com/i-krishna/Business-Analytics/blob/main/Data-Science/Statistics/Regression_WineRatingsAnalysis.xlsx), where each of the eight worksheets in the file corresponds to the eight points outlined below.
