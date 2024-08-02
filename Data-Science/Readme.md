@@ -26,7 +26,7 @@ Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/t
 
 # Collective Intelligence in Predictive Analytics by Krishna Damarla
 
-The concept of the wisdom of crowds can best be understood from the popular TV show – Who Wants to Be a Millionaire ? In this show, player can choose to answer the final question by calling an expert friend or by asking audience for help. Research shows that audience votes help player win the game with an 89% accuracy rate. So, approximately 1337 times answers were accurate on audience poll, with only 147 times being incorrect. Calling a friend, on the other hand, is only 54% accurate, which is almost same as tossing coin (StoryWorks, 2024). 
+The concept of the wisdom of crowds (aka, collective intelligence) can best be understood from the popular TV show – Who Wants to Be a Millionaire ? In this show, player can choose to answer the final question by calling an expert friend or by asking audience for help. Research shows that audience votes help player win the game with an 89% accuracy rate. So, approximately 1337 times answers were accurate on audience poll, with only 147 times being incorrect. Calling a friend, on the other hand, is only 54% accurate, which is almost same as tossing coin (StoryWorks, 2024). 
 
 In predictive analysis, we can use existing bigdata to train AI models to make predictions. One of the disadvantages of this type of prediction is that we need clean data or spend time cleaning bad data or have only limited data. Sometimes we need to predict uncertain events, such as epidemics and elections, without sufficient data. In those cases, where AI stops, crowd prediction begins (Smarter Together, 2023). 
 
