@@ -46,11 +46,15 @@ Smarter Together. (2023). Crowd Forecasting: how Johns Hopkins harnessed the wis
 
 # Kaggle Overview and Competition Submission by Krishna Damarla
 
+Kaggle Overview 
+
 Kaggle is a platform for data science enthusiasts to improve their prediction skills through building ML (Machine Learning) models, and visualizing data, while contributing to the community. My Kaggle homepage highlights the three main features of the platform: 
 1.	Search for competitions, explore datasets and understand models.
 2.	Learn programming and ML through notebooks, courses, and peer discussions.
 3.	Measure progress through contributions and user ranking.
 Other features include hosting competitions, mentorship, and an introduction to Kaggle's CEO (formerly from Google Brain) and his crew.
+
+ 
 
 
 Competitions
@@ -63,24 +67,30 @@ Before entering the competition, it's important to understand six points (Rashed
 5.	Leaderboard: The winners are determined by public score of candidate’s based on their submissions.
 6.	Rules: Maximum of 5 submissions per day, and teams cannot exceed 5 people. The prize distribution are as follows. 
 
+ 
 
 Submissions to Competition
 
 In this section, I will explain how to submit prediction’s to the famous “Titanic Disaster Survival” competition. 
 
 1. Search for the competition: Search by keyword “Titanic” from Host: Kaggle (Knowledge category instead of Kudos)
-2. Submit prediction: We can submit as a CSV file or as a Zip pf CSV’s. There are two ways to submit. 
-  1.	Direct upload via GUI (I chose this option): Based on the Titanic disaster survival input dataset, the prediction results from our presentation are as follows:
-  •	Titanic_Gender.csv:  The public score that only female passengers will survive is around 0. 76. 
-  •	Titanic_Perfect.csv: The public score of survival with a perfect dataset is 1.00
-  •	Titanic_Random.csv: The public sore of survival with randomly selected dataset is around 0.51.
-  2.	Command line 
 
+ 
+
+2. Submit prediction: We can submit as a CSV file or as a Zip pf CSV’s. There are two ways to submit. 
+1.	Direct upload via GUI (I chose this option): Based on the Titanic disaster survival input dataset, the prediction results from our presentation are as follows:
+•	Titanic_Gender.csv:  The public score that only female passengers will survive is around 0. 76. 
+•	Titanic_Perfect.csv: The public score of survival with a perfect dataset is 1.00
+•	Titanic_Random.csv: The public sore of survival with randomly selected dataset is around 0.51.
+2.	Command line 
+
+ 
 
 Reference
 
 Rashed, A. (2021). Making a submission to Kaggle competitions. YouTube.  https://www.youtube.com/watch?v=3oRFyuj4udI&t=2s 
-![image](https://github.com/user-attachments/assets/d74d4fdf-bf4f-4aab-bd24-cff1c9544628)
+![image](https://github.com/user-attachments/assets/4efc9a16-c9b0-4e8a-8dec-cf6a377f3cad)
+
 
 
 # Wine Rating Analysis by Krishna Damarla
