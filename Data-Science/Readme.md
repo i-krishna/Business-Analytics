@@ -10,7 +10,7 @@ The below map is a graphical representation of the London underground transport 
 
 4. Landmarks: The map additionally consists of important landmarks, like stations with connections to other transportation modes, along with country wide rail offerings and airports (see entire list of symbols utilized at the bottom left of the map).
 
-The 2D map of a city transportation may seem complex at first. However with a background in data science and design, I aim to go beyond conventional mapping techniques. By integrating principles of spatial data analysis into interactive digital maps combined with computer graphics, AR (Augmented Reality), and parallel reality, I create personalized travel experiences for passengers selected routes. Many major airlines already have such projects in place, enhancing their passengers journey experience as they travel from Gate A to Gate Z within airport area. Such projects can provide foundations for wider use in creating digital neighborhoods and entire digital cities (Anselin,  2020).
+The 2D map of a city transportation may seem complex at first. However with a background in data science and design, I aim to go beyond conventional mapping techniques. By integrating principles of spatial data analysis into interactive digital maps combined with computer graphics, AR (Augmented Reality), and parallel reality, I create personalized travel experiences for passengers selected routes. Major airlines (Delta Air Lines, 2022) already have such projects in place, enhancing their passengers journey experience as they travel from Gate A to Gate Z within airport area. Such projects can provide foundations for wider use in creating digital neighborhoods and entire digital cities (Anselin,  2020).
 
 ![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/93ad3b40-3c67-489c-8814-786e4b607715)
 
@@ -22,9 +22,9 @@ Anselin, L. (2020). Week 1a: What is spatial analysis? (Introduction to Spatial 
 
 Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data Scientists. Retrieved from https://geographicdata.science/book/notebooks/01_geo_thinking.html
 
-https://www.datatopia.be/en/home-en  
+Delta Air Lines. (2022). The PARALLEL REALITY™ experience. Delta News Hub. https://news.delta.com/mediakit/parallel-realitytm-experience https://news.delta.com/mediakit/parallel-realitytm-experience 
 
-https://news.delta.com/mediakit/parallel-realitytm-experience 
+https://www.datatopia.be/en/home-en  
 
 # Wine Rating Analysis by Krishna Damarla
 
