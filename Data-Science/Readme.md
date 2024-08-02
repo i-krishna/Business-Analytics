@@ -54,8 +54,7 @@ Kaggle is a platform for data science enthusiasts to improve their prediction sk
 3.	Measure progress through contributions and user ranking.
 Other features include hosting competitions, mentorship, and an introduction to Kaggle's CEO (formerly from Google Brain) and his crew.
 
- 
-
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c517b583-d026-43bf-b3ab-c0a5f7129c11">
 
 Competitions
 
@@ -67,7 +66,7 @@ Before entering the competition, it's important to understand six points (Rashed
 5.	Leaderboard: The winners are determined by public score of candidate’s based on their submissions.
 6.	Rules: Maximum of 5 submissions per day, and teams cannot exceed 5 people. The prize distribution are as follows. 
 
- 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/8f2f0024-1103-4523-b46a-873d84d74c13">
 
 Submissions to Competition
 
@@ -75,16 +74,17 @@ In this section, I will explain how to submit prediction’s to the famous “Ti
 
 1. Search for the competition: Search by keyword “Titanic” from Host: Kaggle (Knowledge category instead of Kudos)
 
- 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/44a93555-642b-418d-beb2-93a64140fda6">
 
-2. Submit prediction: We can submit as a CSV file or as a Zip pf CSV’s. There are two ways to submit. 
+2. Submit prediction: We can submit as a CSV file or as a Zip pf CSV’s. There are two ways to submit.
+ 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/36f53097-2774-4570-a5f4-65e8f3b04bd2">
+
 1.	Direct upload via GUI (I chose this option): Based on the Titanic disaster survival input dataset, the prediction results from our presentation are as follows:
 •	Titanic_Gender.csv:  The public score that only female passengers will survive is around 0. 76. 
 •	Titanic_Perfect.csv: The public score of survival with a perfect dataset is 1.00
 •	Titanic_Random.csv: The public sore of survival with randomly selected dataset is around 0.51.
 2.	Command line 
-
- 
 
 Reference
 
