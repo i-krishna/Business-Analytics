@@ -26,7 +26,7 @@ Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/t
 
 # Collective Intelligence in Predictive Analytics by Krishna Damarla
 
-The concept of the wisdom of crowds (aka, collective intelligence) can best be understood from the popular TV show – Who Wants to Be a Millionaire ? In this show, player can choose to answer the final question by calling an expert friend or by asking audience for help. Research shows that audience votes help player win the game with an 89% accuracy rate. So, approximately 1337 times answers were accurate on audience poll, with only 147 times being incorrect. Calling a friend, on the other hand, is only 54% accurate, which is almost same as tossing coin (StoryWorks, 2024). 
+The concept of the wisdom of crowds (aka, collective intelligence) can best be understood from the popular TV show – Who Wants to Be a Millionaire ? In this show, player can choose to answer the final question by calling an expert friend or by asking audience for help. Research shows that audience votes help player win the game with an 89% accuracy rate (HyperMind, 2021). So, approximately 1337 times answers were accurate on audience poll, with only 147 times being incorrect. Calling a friend, on the other hand, is only 54% accurate, which is almost same as tossing coin (StoryWorks, 2024). 
 
 In predictive analysis, we can use existing bigdata to train AI models to make predictions. One of the disadvantages of this type of prediction is that we need clean data or spend time cleaning bad data or have only limited data. Sometimes we need to predict uncertain events, such as epidemics and elections, without sufficient data. In those cases, where AI stops, crowd prediction begins (Smarter Together, 2023). 
 
@@ -37,6 +37,8 @@ Let’s consider a case study of Johns Hopkins Center for Health Security, which
 The 2 groups mentioned above were asked to enter their answers into a central platform with questions to assess the severity of the outbreak. Sample question looked like: How many states report over 1000 infectious cases by March end. The outcomes could help governments create better policies or make more informed decisions. The results showed good forecasters are more likely to be open-minded, prone to criticism / negative views (Smarter Together, 2023). Using crowd intelligence to improve predictions go beyond policymaking to understanding operations, disaster management, global economics, and geopolitics.
 
 References
+
+HyperMind. (2021). The Wisdom of Crowds: The Science of Getting Smarter Together. YouTube. https://www.youtube.com/watch?v=HNQ3GccCAI0 
 
 StoryWorks. (2024). E80 - The Wisdom of Crowds. YouTube. https://www.youtube.com/watch?v=jvgPPiWN7yU 
 
