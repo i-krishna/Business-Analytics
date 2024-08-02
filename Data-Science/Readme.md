@@ -89,9 +89,6 @@ In this section, I will explain how to submit prediction’s to the famous “Ti
 Reference
 
 Rashed, A. (2021). Making a submission to Kaggle competitions. YouTube.  https://www.youtube.com/watch?v=3oRFyuj4udI&t=2s 
-![image](https://github.com/user-attachments/assets/4efc9a16-c9b0-4e8a-8dec-cf6a377f3cad)
-
-
 
 # Wine Rating Analysis by Krishna Damarla
 
