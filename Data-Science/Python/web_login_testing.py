@@ -1,4 +1,4 @@
-# Performing Administrative Tasks in Web Environments using Selenium
+# Testing Web Applications
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
