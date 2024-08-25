@@ -1,3 +1,5 @@
+# Performing Administrative Tasks in Web Environments using Selenium
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -5,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 # Set up the WebDriver
 driver = webdriver.Chrome()
 
-# Open the web application
+# Navigate to login dashboard and open the web application
 driver.get("https://example.com/login")
 
 # Find the username and password fields and enter data
