@@ -10,7 +10,7 @@ In this project, I compared various business intelligence (BI) tools from major 
 
 Future Outlook
 
-I am interested in learning about integrating generative artificial intelligence (GenAI) into reporting and dashboard creation (Raghupathi & Raghupathi, 2021). For instance, enabling users to create reports with natural language commands like, "Create an interactive bar chart from recent sales data," which would then be converted into an SQL/NoSQL query. Such a query verified by developers would then pull information from the database, generate a creative report, and present it to the user for visual analysis. This type of innovation is cost-effective for non-technical clients, allowing them to save valuable time while enhancing their decision-making capabilities.
+I am interested in learning about various techniques in integrating generative artificial intelligence (GenAI) into reporting and dashboard creation (Raghupathi & Raghupathi, 2021). For instance, enabling users to create reports with natural language commands like, "Create an interactive bar chart from recent sales data," which would then be converted into an SQL/NoSQL query. Such a query verified by developers would then pull information from the database, generate a creative report, and present it to the user for visual analysis. This type of innovation is cost-effective for non-technical clients, allowing them to save valuable time while enhancing their decision-making capabilities.
 
 References
 
