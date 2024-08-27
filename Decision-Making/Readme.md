@@ -1,4 +1,4 @@
-# Insurance Analytics Experience by Krishna Damarla
+# Healthinsurance Analytics Experience by Krishna Damarla
 
 Project Experience
 
