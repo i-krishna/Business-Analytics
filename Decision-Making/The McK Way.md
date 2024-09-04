@@ -32,6 +32,8 @@ https://www.mckinsey.com/careers/interviewing/getting-ready-for-your-interviews
 
 https://www.youtube.com/watch?v=IAThTjf31S0&t=2521s
 
+https://prepmatter.com/online/mckinsey-problem-solving-game
+
 # McK Core Values
 
 https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values
