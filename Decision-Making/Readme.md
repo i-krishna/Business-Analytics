@@ -57,6 +57,7 @@ Previously, I focused more on creating technical solutions, than clustering user
 I learned that automation is key for timely and accurate data extraction. Tableau Prep Conductor can be used to schedule data workflows (or) Hyper API to extract with ETL script (Ngwena, 2022).
 
 **4. IT Infrastructure Management**
+
 I learned the value of focusing on the business’s priorities and re-using existing IT infrastructure rather than building it from scratch. For Landon Hotels, choosing Tableau Cloud and to outsource IT infrastructure management to Red30 (Ngwena, 2022) can reduce the need for in-house expertise and save time.
 
 **5. Adaptability to growth and Integration**
@@ -74,6 +75,7 @@ Salesforce. (n.d.). Tableau analytics: Make better, faster decisions with enterp
 Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https://help.tableau.com/current/pro/desktop/en-us/r_connection_manage.htm
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/4e04d179-bb60-42ef-bd21-cf04c339dd8a">
+
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
 
