@@ -1,6 +1,4 @@
-# CAse Study 1: Transforming a national education system
-
-Ref: https://www.mckinsey.com/careers/interviewing/national-education
+# Case Study 1
 
 <img width="435" alt="image" src="https://github.com/user-attachments/assets/df28bb9d-9569-4ab9-8d0e-cbd5aaf6886a">
 
@@ -22,7 +20,13 @@ Ref: https://www.mckinsey.com/careers/interviewing/national-education
 
 <img width="718" alt="image" src="https://github.com/user-attachments/assets/85590950-6ee7-4759-884c-703597c620c5">
 
-6 other Case Studies: https://www.mckinsey.com/careers/interviewing/getting-ready-for-your-interviews
+# Case Study 2: Transforming a national education system
+
+https://www.mckinsey.com/careers/interviewing/national-education
+
+# 6 other Case Studies
+
+https://www.mckinsey.com/careers/interviewing/getting-ready-for-your-interviews
 
 
 
