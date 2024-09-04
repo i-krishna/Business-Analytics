@@ -1,4 +1,4 @@
-# Health Insurance Analytics Experience by Krishna Damarla
+# 1. Health Insurance Analytics Experience by Krishna Damarla
 
 Project Experience
 
@@ -22,7 +22,7 @@ Raghupathi, W., & Raghupathi, V. (2021). Contemporary business analytics: An ove
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/34f59064-a8af-4b01-9a50-0c7bc27b100d">
 
-# Healthcare Analytics Experience by Krishna Damarla
+# 2. Healthcare Analytics Experience by Krishna Damarla
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/c293fe49-0909-4ae2-a260-37a3738894b3">
 
@@ -30,7 +30,7 @@ Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python
 
 Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
 
-# Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
+# 3. Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
 
 ## Issue
 
