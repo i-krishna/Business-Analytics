@@ -1,3 +1,5 @@
+AI vs ML: Artificial Intelligence (AI) refers to machines that can simulate human intelligence to sense, reason, act, empathize, or adapt like a human. Examples include Apple's vision technology, Amazon Alexa, and Meta’s Code LIama. Machine Learning (ML) refers to a subset of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data.
+
 # Spatial Data Science by Krishna Damarla
 
 The below map is a graphical representation of the London underground transport system (commonly known as the Tube). To explain it to a transportation manager with no technical background on spatial data analysis (Rey, et al., 2020), I will use the following points: 
