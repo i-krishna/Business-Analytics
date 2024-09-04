@@ -28,8 +28,9 @@ https://www.mckinsey.com/careers/interviewing/national-education
 
 https://www.mckinsey.com/careers/interviewing/getting-ready-for-your-interviews
 
+# McK Core Values
 
-
+https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values
 
 
 
