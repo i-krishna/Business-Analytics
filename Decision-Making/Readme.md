@@ -42,7 +42,7 @@ To address these issues, Landon Hotels plan to use Tableau to transition from st
 
 ## Key Lessons Learned and Reevaluations
 
-**1. Strategic Planning **
+**1. Strategic Planning**
 
 I learned to create a clear plan for successful delivery. Using Tableau Blueprint (Baldwin, 2016) can further help align projects with company goals and create KPIs to track progress. This study also taught me that planning is as important as implementation. And, to consider the impact of external influences throughout all the phases of project from deployment to maintenance.
 
@@ -52,19 +52,18 @@ I learned that to determine the appropriate Tableau licenses, I needed to unders
 
 Previously, I focused more on creating technical solutions, than clustering user groups. This business case taught me that users should be assigned different types of licenses to avoid unnecessary costs and to ensure that all users have access to the right tools.
 
-**3. Data pipeline Automation **
+**3. Data pipeline Automation**
 
 I learned that automation is key for timely and accurate data extraction. Tableau Prep Conductor can be used to schedule data workflows (or) Hyper API to extract with ETL script (Ngwena, 2022).
 
-**4. IT Infrastructure Management 
-**
+**4. IT Infrastructure Management**
 I learned the value of focusing on the business’s priorities and re-using existing IT infrastructure rather than building it from scratch. For Landon Hotels, choosing Tableau Cloud and to outsource IT infrastructure management to Red30 (Ngwena, 2022) can reduce the need for in-house expertise and save time.
 
 **5. Adaptability to growth and Integration**
 
 I learned to develop solutions with future growth in mind. Continuous learning and the ability to integrate with other platforms like R and Salesforce (including CRM Analytics, formerly Tableau CRM and the Einstein One for AI model deployment), allow BI tools like Tableau to expand its capabilities and adapt to evolving customer needs (Salesforce, n.d.)
 
-**##References**
+**References**
 
 Baldwin, D. (2016). Mastering Tableau: Smart business intelligence techniques to get maximum insights from your data. Packt Publishing. https://www.packtpub.com/en-us/product/mastering-tableau-9781784397692
 
@@ -73,3 +72,9 @@ Ngwena, T. (2022). Everybody's introduction to Tableau. LinkedIn Learning. https
 Salesforce. (n.d.). Tableau analytics: Make better, faster decisions with enterprise analytics tailored to your CRM. Salesforce.com. https://www.salesforce.com/eu/products/einstein-analytics/overview/ 
 
 Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https://help.tableau.com/current/pro/desktop/en-us/r_connection_manage.htm
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/4e04d179-bb60-42ef-bd21-cf04c339dd8a">
+
+<img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
+
+
