@@ -29,3 +29,47 @@ Raghupathi, W., & Raghupathi, V. (2021). Contemporary business analytics: An ove
 Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python/face-recognition.py)
 
 Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
+
+# Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
+
+## Issue
+
+Landon Hotels utilize Excel spreadsheets for reporting. Due to potential expansion of company, this model of reporting does not scale to meet the dynamic, complex requirements of the firm. To date, 360 employees use reports for analysis. Of these, 30 managers and 10 Business Intelligence (BI) team members create static Excel reports, creating confusion and lack of standardization across the organization. Without a centralized framework at place, employees led by these leaders are also vulnerable to such inefficiencies (Ngwena, 2022).
+
+## Solution 
+
+To address these issues, Landon Hotels plan to use Tableau to transition from static reporting to dynamic reporting. This change will enable real time data visualization and deliver accurate insights from a single source of truth across the organization. Further, they are focusing on deploying automated data pipelines to ensure timely data delivery for reporting. A Tableau deployment plan will be created with KPIs to track progress and measure success. In addition, the firms existing IT infrastructure management will be outsourced to third party provider (Red30) to integrate the new solutions into its cloud-based platform. Finally, the company is looking for turnkey training programs to equip its employees with the skills needed to use the newly implemented solution (Ngwena, 2022). 
+
+## Key Lessons Learned and Reevaluations
+
+**1. Strategic Planning **
+
+I learned to create a clear plan for successful delivery. Using Tableau Blueprint (Baldwin, 2016) can further help align projects with company goals and create KPIs to track progress. This study also taught me that planning is as important as implementation. And, to consider the impact of external influences throughout all the phases of project from deployment to maintenance.
+
+**2. User Groups and Licensing**
+
+I learned that to determine the appropriate Tableau licenses, I needed to understand different roles of users, and their level of involvement in the organization. For example, the BI team needs access to Tableau Desktop and Prep Builder (Baldwin, 2016) as Creators, while managers and employees need Explorer and Viewer licenses, respectively. 
+
+Previously, I focused more on creating technical solutions, than clustering user groups. This business case taught me that users should be assigned different types of licenses to avoid unnecessary costs and to ensure that all users have access to the right tools.
+
+**3. Data pipeline Automation **
+
+I learned that automation is key for timely and accurate data extraction. Tableau Prep Conductor can be used to schedule data workflows (or) Hyper API to extract with ETL script (Ngwena, 2022).
+
+**4. IT Infrastructure Management 
+**
+I learned the value of focusing on the business’s priorities and re-using existing IT infrastructure rather than building it from scratch. For Landon Hotels, choosing Tableau Cloud and to outsource IT infrastructure management to Red30 (Ngwena, 2022) can reduce the need for in-house expertise and save time.
+
+**5. Adaptability to growth and Integration**
+
+I learned to develop solutions with future growth in mind. Continuous learning and the ability to integrate with other platforms like R and Salesforce (including CRM Analytics, formerly Tableau CRM and the Einstein One for AI model deployment), allow BI tools like Tableau to expand its capabilities and adapt to evolving customer needs (Salesforce, n.d.)
+
+**##References**
+
+Baldwin, D. (2016). Mastering Tableau: Smart business intelligence techniques to get maximum insights from your data. Packt Publishing. https://www.packtpub.com/en-us/product/mastering-tableau-9781784397692
+
+Ngwena, T. (2022). Everybody's introduction to Tableau. LinkedIn Learning. https://www.linkedin.com/learning/everybody-s-introduction-to-tableau-2022/solution-business-use-case-landon-hotels?u=130423532
+
+Salesforce. (n.d.). Tableau analytics: Make better, faster decisions with enterprise analytics tailored to your CRM. Salesforce.com. https://www.salesforce.com/eu/products/einstein-analytics/overview/ 
+
+Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https://help.tableau.com/current/pro/desktop/en-us/r_connection_manage.htm
