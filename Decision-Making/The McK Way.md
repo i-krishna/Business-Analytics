@@ -28,6 +28,10 @@ https://www.mckinsey.com/careers/interviewing/national-education
 
 https://www.mckinsey.com/careers/interviewing/getting-ready-for-your-interviews
 
+# Solve Game
+
+https://www.youtube.com/watch?v=IAThTjf31S0&t=2521s
+
 # McK Core Values
 
 https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values
