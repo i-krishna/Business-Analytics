@@ -79,7 +79,7 @@ Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https:
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
 
-4. Evolution of Analytics: From Descriptive to Cognitive by Krishna Damarla 
+# 4. Evolution of Analytics: From Descriptive to Cognitive by Krishna Damarla 
 
 Descriptive analytics summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
 
