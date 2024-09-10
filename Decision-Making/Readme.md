@@ -89,6 +89,18 @@ Explanatory analytics determines the "underlying reasons for the problem" and pr
 
 A new era of analytics powered by AI is emerging. With solutions like SAP Predictive Analytics, we can forecast results more accurately. AI is used in prescriptive analytics to model scenarios and suggest the optimal action. Experimental analytics is conducting virtual experiments and AI-driven testing (Ponnambalam, 2024). Automated analytics uses solutions like Google’s AutoML to automate business processes without human intervention. Cognitive Analytics (Ulster University, n.d) is improving the quality of analytics by imitating human intelligence and providing deep insights into complex data with products like IBM Watson and Microsoft Cortona.
 
+References
+
+AbdulHussein, A. (2022). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/2-1-descriptive-analytics/
+
+Devopedia. (2022). Exploratory Data Analysis. https://devopedia.org/exploratory-data-analysis
+
+Ponnambalam, K. (2024). Business analytics: Descriptive, exploratory, and explanatory techniques. LinkedIn Learning. https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics
+
+Sato, M. (2024). CrowdStrike and Microsoft: All the latest news on the global IT outage. The Verge. https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking
+
+Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics
+
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/45e5bbaf-d075-41b7-9f9b-38d569a2d98d">
 
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/913839f3-37c7-4946-bfc0-fb1fb9636498">
