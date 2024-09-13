@@ -79,7 +79,7 @@ Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https:
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
 
-# 4. Evolution of Analytics: From Descriptive to Cognitive by Krishna Damarla 
+# 4. How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
 
 Descriptive analytics summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
 
@@ -87,7 +87,7 @@ Exploratory analytics focuses on "understanding the data" rather than summarizat
 
 Explanatory analytics determines the "underlying reasons for the problem" and presents narratives with future vision. For example, a recent CrowdStrike software update caused a global IT outage (Sato, 2024). According to an investigation by CrowdStrike, a bug in the update's test program stopped it from validating the configuration content before deployment. The main reason is an inconsistency between the input fields provided in the update and what was intended. Because of inadequate testing procedures, this was overlooked. To prevent similar issues in the future, it is crucial to test different test scenarios and validate software modifications thoroughly.
 
-A new era of analytics powered by AI is emerging. With solutions like SAP Predictive Analytics, we can forecast results more accurately. AI is used in prescriptive analytics to model scenarios and suggest the optimal action. Experimental analytics is conducting virtual experiments and AI-driven testing (Ponnambalam, 2024). Automated analytics uses solutions like Google’s AutoML to automate business processes without human intervention. Cognitive Analytics (Ulster University, n.d) is improving the quality of analytics by imitating human intelligence and providing deep insights into complex data with products like IBM Watson and Microsoft Cortona.
+A new era of analytics powered by AI is emerging. With solutions like SAP Predictive Analytics, we can forecast results more accurately. AI is used in prescriptive analytics to model scenarios and suggest the optimal action. Experimental analytics is conducting virtual experiments and AI-driven testing (Ponnambalam, 2024). Automated analytics uses solutions like Google’s AutoML to automate business processes without human intervention. Cognitive Analytics (Ulster University, n.d) is improving the quality of analytics by imitating human intelligence and providing deep insights into complex data with products like IBM Watson and Microsoft Cortona. 
 
 References
 
