@@ -40,7 +40,15 @@ Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.u
 
 <img width="812" alt="image" src="https://github.com/user-attachments/assets/d2194ecb-71cf-4d32-a10d-880a1bfd2b22">
 
-# 3. Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
+# 3. Healthcare Analytics Experience by Krishna Damarla
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/c293fe49-0909-4ae2-a260-37a3738894b3">
+
+Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python/face-recognition.py)
+
+Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
+
+# 2. Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
 
 ## Issue
 
@@ -87,14 +95,6 @@ Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https:
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/4e04d179-bb60-42ef-bd21-cf04c339dd8a">
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
-
-# 2. Healthcare Analytics Experience by Krishna Damarla
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/c293fe49-0909-4ae2-a260-37a3738894b3">
-
-Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python/face-recognition.py)
-
-Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
 
 # 1. Health Insurance Analytics Experience by Krishna Damarla
 
