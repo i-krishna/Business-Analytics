@@ -1,3 +1,36 @@
+# Discussion Topic #6
+
+## Leadership by Krishna Damarla
+
+The ability to make well-timed and sound decisions in the midst of fears and pressures is a hallmark of effective leadership. Authentic leadership, characterized by a commitment to being true to oneself, leveraging personal strengths, and tapping into the unique strengths of the team, stands out as a crucial element. Emotional intelligence serves as a catalyst, guiding leaders to prioritize communal benefits over individual or organizational gains. Successfully navigating through uncertain goals and performance targets requires a leadership approach that is not only flexible and adaptive but also transformational in nature.
+
+The importance of adaptive leadership, as highlighted by Aung San Suu Kyi's enumeration of various fears—ranging from the fear of failure, losing valuable possessions to death—presents challenges across diverse sectors and backgrounds. For example, many countries have adopted adaptive leadership style in dealing with COVID-19 crisis. The varied anxieties experienced by leaders in startups versus multinational corporations or within the private sector versus government or defense-related projects underscore the intricate nature of leadership. It's essential to acknowledge that mastering fears alone does not encapsulate great leadership; instead, leadership is a nuanced and multifaceted journey.
+
+Abraham Lincoln's perspective adds depth to the transformational leadership, emphasizing that a strong leader knows when to rely on others and values team success over personal accolades. Proficient leaders employ strengths-based approaches, such as SWOT analysis, strategically delegating tasks based on each team member's expertise. For example, in a software development project, a leader may assign coding responsibilities to a team member with programming skills and a scrum role to someone with effective communication skills, recognizing the collaborative contributions essential for project success (Horine et al, 2023). 
+
+Leadership is not a one-size-fits-all endeavor; it requires custom approaches tailored to the specific dynamics of individuals, culture, geographies, context, and urgency. Beyond winning people over, influencing decisions, and ensuring task completion, leadership involves adapting to diverse styles and forms of power.
+
+Distinct leadership styles, including Relationship Building, Executing, Strategic Thinking, and Influencing, each come with unique strengths and weaknesses (Farr, 2023). Leaders also wield various forms of power—positional, expert, reward, penalty, referent, personal or charismatic, relational, representative, informational, situational, ingratiating, pressure-based, guilt-based, persuasive, and avoiding power (Horine et al, 2023). For leaders navigating office politics, a diverse skill set is imperative. This includes negotiation skills, proficiency in decision-making techniques (considering unilateral and group decisions, utilizing platforms like Slack or WhatsApp for voting/polling), and mastery of influencing skills in various directions. Conflict management, coupled with negotiation models aiming for win-win outcomes, further enhances a leader's toolkit. Managing global virtual teams involves utilizing innovative communication protocols, incorporating face-to-face interactions, and applying models like Drexler/Sibbet Team Performance for trust-building and creating high-performing teams.
+
+In enhancing operational productivity within a team, leaders’ formulation of pertinent questions is a key strategy. Asking insightful questions to the right individuals at the right time contributes to establishing trust for making informed decisions (Mankins, 2017). Following agile methodologies, as suggested by Cooke (2018, 2nd ed), can add substantial value to project teams, assessing business value and priority, exploring alternatives to meet business requirements, ensuring compliance with regulations, and refining existing business processes. Continuous research on leadership strategies is equally essential, recognizing that effective leadership is an ever-evolving, dynamic discipline crucial for navigating the complexities. 
+
+References 
+
+Farr, B. E. (2023). What Is Your Leadership Style? https://www.gallup.com/cliftonstrengths/en/511814/leadership-style.aspx
+
+Horine, G. M., Haque, A. E. (2023). Project Management Professional (PMP)® Cert Guide
+
+Cooke, J. L. (2018). The Power of the Agile Business Analyst: 30 Surprising Ways a Business Analyst Can Add Value to Your Agile Development Team (2nd ed).
+
+Mankins, M. (2017). Great Companies Obsess Over Productivity, Not Efficiency. Harvard Business Review. Retrieved from https://hbr.org/2017/03/great-companies-obsess-over-productivity-not-efficiency
+
+Kerzner, H (2009). Project Management: A Systems Approach to Planning, Scheduling, and Controlling (10th ed). Wiley Publication.
+
+Improvised version by Professor
+
+<img width="1041" alt="image" src="https://github.com/user-attachments/assets/b1ccf613-f117-4644-8d97-f48e1eb20a0c">
+
+
 # Discussion Topic #5
 
 **Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights**
