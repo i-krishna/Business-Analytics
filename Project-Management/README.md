@@ -1,7 +1,6 @@
 # Discussion Topic #6
 
-**Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights**
-
+## Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights
 
 My perspective on project management and the role of a project manager experienced a profound shift upon completing the project management course based on PMBOK7 book. Initially, I perceived a project manager as a regular individual. However, as I delved into the intricacies of factors influencing project scope and schedule, diverse contract types, and the risks associated with both agile and predictive projects, I came to recognize the immense versatility required for someone stepping into the role of a project manager.
 
