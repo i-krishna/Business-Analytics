@@ -45,8 +45,11 @@ An integral end-to-end supply chain strategy requires a delicate balancing act. 
 References
 
 Stanton, D. (2023). Supply Chain Management for Dummies, 3rd Edition.
+
 Phadnis, S. S. (2017). End-To-End Supply Chain Strategies: A Parametric Study of the Apparel Industry. Vol 26. Production and Operations Management Society. 
+
 Agarwal, R. (2017). Demand Forecasting in Supply Chain. Retrieved from https://www.youtube.com/watch?v=tCnFx6VfPUA 
+
 The Capgemini Consulting Approach (2018). Process and Supply Chain Analytics. https://www.youtube.com/watch?v=bgohHzi4CR4 
 
 
