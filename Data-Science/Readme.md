@@ -408,3 +408,28 @@ Dr. Harper's Classroom. (2016). Time Series Decomposition Using Excel. YouTube.
 
 Research By Design. (2020). Time Series Analysis for Business Statistics (part 1). YouTube.
 
+# Decision Tree Analysis by Krishna Damarla
+
+In the attached Excel file, the first worksheet illustrates the decision tree and its logical sequence of nodes for solving the decision problem of Oceanview Development Corporation (ODC). 
+
+In second worksheet, we recommended what ODC should do when the market research information is not available. For instance,  Node 5 specifies the scenario when no market research is utilized in the bidding process. If no bid is submitted in this scenario, costs are 0$ for Oceanview Development Corporation. If bid is submitted and the zone change request is not approved, ODC can forfeit the actual bid amount without any loss. As the expected value of submitting bid is positive, there is possibility of losing deposit if zone change request is not approved.  
+
+In third worksheet, It is advised to OCD to submit a bid if the market research successfully predicts the approval of the zone change request. Conversely, if the market research fails to predict the approval of the zone change request, it is advisable not to submit a bid.
+
+In the fourth worksheet, the expected value of sample information (EVSI) is computed using the formula: EVSI = EV with Perfect Information (EVwPI) - Maximum EMV. In our case, EVSI is $247,700. Therefore, the corporation would need to pay $247,700. Given the high EVSI value, it can be concluded that investing on market research analysis is not recommended. 
+
+References
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
+Emmanuel, J. (2015a).  Decision Analysis 3: Decision Trees. YouTube. 
+
+Emmanuel, J. (2015b).  Decision Analysis 1: Maximax, Maximin, Minimax Regret. YouTube. 
+
+<img width="1050" alt="image" src="https://github.com/user-attachments/assets/482608e7-ca67-4cb4-84b4-e1bb4f6b6126">
+
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/e1f9441b-ffc6-43a5-afa0-beeb5d6572b0">
+
+
+
+
