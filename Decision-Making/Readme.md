@@ -14,7 +14,7 @@ Experimental analytics (EXA) tests the solution’s performance in real-world co
 
 A new era of analytics powered by AI is emerging. With solutions like SAP Predictive Analytics, we can forecast results more accurately. AI is used in prescriptive analytics to model scenarios and suggest the optimal action. Experimental analytics is conducting virtual experiments and AI-driven testing (Ponnambalam, 2024). Automated analytics uses solutions like Google’s AutoML to automate business processes without human intervention. Cognitive Analytics (Ulster University, n.d) is improving the quality of analytics by imitating human intelligence and providing deep insights into complex data with products like IBM Watson and Microsoft Cortona. Soon, integrating analytics with other fields like quantum computing, cybersecurity, multimodal AI, and AI-embedded hardware will transform all industries by increasing efficiency and innovation. This integration will enable real-time decision-making, faster threat detection, and operational efficiency, enabling smarter communication with more connected systems in areas such as automotive and space tourism (Apptunix, 2023).
 
-References
+**References**
 
 AbdulHussein, A. (2022). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/2-1-descriptive-analytics/
 
