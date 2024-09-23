@@ -18,3 +18,5 @@ Response Option	Very Ineffective	Somewhat Ineffective	Neutral	Somewhat Effective
 1.5	Clarify that their role as experts is to advise, and you will reconcile any differences.					
 1.6	Suggest that the group come to full consensus for all decisions to ensure that each expert supports the decisions.					
 1.7	Get each group to identify the key issues with the policy so that you can draft a document that considers all input.				
+
+https://www.cdc.gov/pmf/php/about/index.html 
