@@ -379,3 +379,32 @@ Tools:
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/1bd3fc76-da56-459a-91cd-d2f5b47e80c5">
 
+# Forecasting Food and Beverage Sales by Krishna Damarla
+
+The attached Excel primarily emphasizes the following three concepts, aimed at assisting Karen in making informed business decisions.
+
+1. Time Series Analysis:
+The time series plot illustrates the sales of the Vintage Restaurant over the past 3 years of operation. It demonstrates a noticeable seasonal pattern coupled with a horizontal trend in the data. Each year exhibits a consistent pattern, as highlighted by distinct colors representing individual years in the background of the plot. The data revolves around a relatively stable mean value (Research By Design, 2020).
+
+Specifically, during the 9th month (3rd quarter) of each year, the lowest sales are recorded. Subsequently, there is a gradual uptick in sales from the 9th month onwards, culminating in peak sales during the 1st month (1st quarter) of each year. The horizontal x-axis denotes the month, spanning from 1 to 36 with increments of 1. Beneath the x-axis, data labels indicate the corresponding sales value for each month. The vertical y-axis represents the sales value, ranging from 110 to 282. The plot encompasses 36 data points, with a line traversing these points, explaining the trend and seasonality in the sales data over the three-year operational period.
+
+2. Time Series Decomposition:
+The calculated seasonal indexes unveil that month 1 boasts the highest seasonal sales index, closely followed by month 3. Conversely, month 9 registers the lowest seasonal sales index, with month 10 ranking second lowest.
+
+These seasonal indexes align seamlessly with intuitive expectations. Months 1 and 3 typically coincide with peak tourist seasons, contributing to heightened sales. In contrast, months 9 and 10 often represent off-peak seasons, resulting in diminished sales. This analysis harmonizes with the observed seasonal pattern depicted in the time series plot.
+
+Deseasonalized values facilitate the removal of the seasonal component from the time series data, enabling a clearer understanding of underlying trends. The forecasted monthly sales values derived using time series decomposition, for the entire fourth year unveil intriguing patterns (Dr. Harper's Classroom, 2016).
+
+3. Dummy Variable Regression:
+The forecast equation for sales is computed, yielding a predicted sales value of $262,334 for year 4, month 1 (January). However, the actual sales value stands at $295,000. This discrepancy results in a forecast error of $32,666.
+
+To mitigate forecast error, I recommend Karen to retrain the model by considering additional variables beyond sales data. Integrating other pertinent factors such as customer demographics, marketing strategies, economic indicators, and seasonal influences can enhance the accuracy of predictions and reduce forecast errors (Anderson et al., 2020).
+
+References
+
+Anderson, D. R., Sweeney, D. J., Williams, T. A., Camm, J. D., & Cochran, J. J. (2020). Modern Business Statistics with Microsoft Excel (7th ed.). Cengage Learning.
+
+Dr. Harper's Classroom. (2016). Time Series Decomposition Using Excel. YouTube. 
+
+Research By Design. (2020). Time Series Analysis for Business Statistics (part 1). YouTube.
+
