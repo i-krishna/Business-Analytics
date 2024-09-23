@@ -20,4 +20,7 @@ Response Option	Very Ineffective	Somewhat Ineffective	Neutral	Somewhat Effective
 1.7	Get each group to identify the key issues with the policy so that you can draft a document that considers all input.				
 
 https://www.cdc.gov/pmf/php/about/index.html 
+
 https://www.cartercenter.org/about/experts/jimmy_carter.html 
+
+https://www.whitehouse.gov/about-the-white-house/presidents/james-carter/ 
