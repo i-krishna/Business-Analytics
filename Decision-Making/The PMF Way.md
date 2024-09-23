@@ -7,9 +7,6 @@ Part 2: Fellows Situational Assessment Tool (FSAT)
 12 scenarios - 60 min
 Carefully read through each scenario and associated response options. Once you have carefully read through the scenario and response options, rate the effectiveness of each response option according to the 5-point scale listed below. Again, you will provide an effectiveness rating for every response option associated with a given scenario.
 
-Very Ineffective	Somewhat Ineffective	Neutral	Somewhat Effective	Very Effective
-Would worsen the situation	May worsen the situation, but only slightly	Would have no impact on the situation	May improve the situation, but only slightly	Would improve the situation
-
 Scenario 1 of 12: You are helping a team draft a new policy. The team includes technical experts from your division and legal experts from another division. Involving these two groups helps ensure the policy is technically sound and legally defensible. However, the groups have started to provide conflicting recommendations during meetings, and tensions are rising. You have worked on similar projects in the past, and disputes between your technical and legal experts have interrupted project progress. You are worried that if a major dispute happens between the experts, then the project may derail and cause the policy to be drafted in a way that limits impact.
 
 Please rate the effectiveness of each response option below for this scenario.
