@@ -1,6 +1,6 @@
 Online Assessment
 
-Part 1: Fellows General Assessment Tool (FGAT)
+Part 1: Fellows Behavioral Assessment Tool (FBAT)
 90 Questions - 30 min
 
 Part 2: Fellows Situational Assessment Tool (FSAT)
