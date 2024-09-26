@@ -1,4 +1,4 @@
-# 4. How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
+# How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
 
 Descriptive analytics (DEA) summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
 
@@ -40,7 +40,7 @@ Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.u
 
 <img width="812" alt="image" src="https://github.com/user-attachments/assets/d2194ecb-71cf-4d32-a10d-880a1bfd2b22">
 
-# 3. Healthcare Analytics Experience by Krishna Damarla
+# Healthcare Analytics Experience by Krishna Damarla
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/c293fe49-0909-4ae2-a260-37a3738894b3">
 
@@ -48,7 +48,36 @@ Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python
 
 Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
 
-# 2. Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
+# Four Critical Questions for Designing Effective Dashboards
+
+Creating an effective dashboard that displays useful information at a glance requires asking four critical questions to ensure it serves its purpose and meets user needs (Subotin, n.d.).
+
+First, who is the dashboard suitable for? Understanding the target audience helps designers determine the visualization type, complexity, and detail level. While experienced viewers may need more complex insights, general viewers benefit from its simplicity (Francis, 2019).
+
+Second, where should I view the dashboard? The display device impacts layout and interactivity, whether on desktop, tablet, or mobile. For example, mobile screens need more compact and touch-friendly interfaces (Francis, 2019).
+
+Third, why is the dashboard being created? Understanding the purpose (whether for exploration, explanation, or tracking KPIs) leads to the selection of data and visualization. Dashboards often combine data from multiple departments in one place (Hayward, 2024). To increase organizational value, design choices should focus on creating dashboards that serve a purpose (Subotin, n.d.).
+
+
+Finally, what data and elements need to be shown? Choosing relevant data avoids clutter and confusion. Additionally, deciding whether the dashboard displays real-time or historical data (Francis, 2019) can guide the use of interactive elements such as drill-down, drop-down, and zooming, thus improving user experience and engagement.
+
+Failure to ask these questions can lead to poor design, low usability, and the risk of dashboards that are too complex or simplistic, misaligned for user needs, or cluttered with irrelevant and inconsistent information. Misaligned dashboards may overwhelm or distract the audience, while cluttered displays may dilute the intended insights.
+
+In summary, asking these questions is crucial to creating a purposeful and user-friendly dashboard suited to its context. These questions ensure the dashboard is designed with clarity, focus, and relevance, enhancing its impact and usability to deliver meaningful insights (Francis, 2019).
+
+References
+
+Francis, M. (2019). Creating interactive Tableau dashboards. LinkedIn Learning. https://www.linkedin.com/learning/creating-interactive-tableau-dashboards/
+
+Hayward, E. (2024). Starter guide to dashboards. Klipfolio. https://www.klipfolio.com/blog/starter-guide-to-dashboards#WhatDashboard
+
+Subotin, S. (n.d.). Dashboard design best practices. Toptal. https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices
+
+<img width="981" alt="image" src="https://github.com/user-attachments/assets/f8027b82-bf22-4e30-b12d-11b9809a1e40">
+
+<img width="980" alt="image" src="https://github.com/user-attachments/assets/70eebb16-ae0d-4f79-a6b5-02095815739c">
+
+# Reporting Transformation at Landon Hotels with Tableau by Krishna Damarla
 
 ## Issue
 
@@ -96,7 +125,7 @@ Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https:
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
 
-# 1. Health Insurance Analytics Experience by Krishna Damarla
+# Health Insurance Analytics Experience by Krishna Damarla
 
 Project Experience
 
