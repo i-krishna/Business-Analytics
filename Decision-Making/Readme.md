@@ -48,6 +48,60 @@ Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python
 
 Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
 
+Interactive Actions in Dashboard Visualizations: Naive to Advanced
+by Krishna Damarla - Wednesday, September 25, 2024, 7:43 PM
+Number of replies: 2
+In Tableau, you can add six types of actions to a dashboard to explore data dynamically, increasing user engagement for visual insights. They are Filter, Highlight, Go to URL, Go to Sheet, Change Parameter, and Change Set Values (used for brushing or drill-down). Let’s look at the two most common actions: Highlight and Filter within a dashboard that shows regional sales and employee ratings (Francis, 2019).
+
+1. Highlight Action
+
+The Highlight action filters data in other sheets based on selections made in one sheet. In the left dashboard example below, selecting the SE region in the timeline (line chart) will highlight all relevant data across associated sheets, to show only results for that SE region. The action runs when you select an item, and de-selecting the same item will return you to the original dashboard view (right dashboard below).
+
+![image](https://github.com/user-attachments/assets/1e3c8ed6-fd18-42d2-b071-474131d83185)   ![image](https://github.com/user-attachments/assets/1c87d380-c957-4188-adc4-a89d8f0acd0e)
+
+
+ 2. Filter Action
+
+The Filter action dynamically updates data in other sheets based on selections. For example, clicking on a specific time point in the SW region of the timeline will filter the dashboard to display only products sold during that specific week and employees responsible for sales in that week. You can customize this action to run either on selection or on hover.
+
+![image](https://github.com/user-attachments/assets/9a6bf141-9bdd-48ef-bdaf-b561ca123af5)
+
+
+While these actions are widely used, they are limited in scope. For more complex research goals, such as exploring geospatial data, additional interactions may be required. Visual Information-Seeking Mantra proposed by Shneiderman (Aigner, 2007) is highly relevant in this context. This mantra, "overview first, zoom and filter, then details-on-demand," is useful for effectively navigating large datasets. 
+
+3. Overview First, Zoom and Filter, Then Details-On-Demand Action
+
+One example that follows this advanced action is Interactive Catchment Explorer (ICE), a web-based interactive data visualization framework (Walker et al., 2020). ICE is designed to help decision-makers explore complex geospatial environmental datasets and model predictions. The framework is built on Shneiderman's Mantra, allowing users to first gain a broad overview, zoom in for filtering, and then drill down into specific details. 
+
+Key Components of ICE:
+
+Map: Displays spatial features and allows users to pan and zoom at different scales.
+Selection Menu: Enables the selection of variables (e.g., mean summer temperature) that determine the color coding of features.
+Crossfilters: Histograms for crucial variables (e.g., elevation, forest cover) help users visualize data distributions and filter specific values. 
+For example, filtering data by Forest Cover (%) in the histogram will highlight corresponding regions on the map, as demonstrated in the ICE dashboard below. 
+
+![image](https://github.com/user-attachments/assets/d47d8c3b-b945-4e34-a34c-85e99d6537f6)
+
+
+In another application, the ICE framework is used to assess the vulnerability of trout species towards climate change within the Crown of the Continent Ecosystems. It displays the overall risk level for various trout conservation population and uses cross-filters to analyze different risk levels, including overall risk, climate risk, and demographic risk as depicted in the dashboard below. This visual analysis helps stakeholders understand potential impacts of climate change on trout populations and recommend conservation strategies to reduce associated risks (Walker et al., 2020).
+
+![image](https://github.com/user-attachments/assets/8f8de852-8e7c-4918-9f92-264b22c07883)
+
+References 
+
+Aigner, W. (2007). Visual information-seeking mantra. InfoVis Wiki. https://infovis-wiki.net/wiki/Visual_Information-Seeking_Mantra
+
+Francis, M. (2019). Creating interactive Tableau dashboards. LinkedIn Learning. https://www.linkedin.com/learning/creating-interactive-tableau-dashboards/
+
+Keim, D., Kohlhammer, J., Ellis, G., & Mansmann, F. (2010). Mastering the information age: Solving problems with visual analytics. Eurographics Association.
+
+Walker, J. D., Letcher, B. H., Rodgers, K. D., Muhlfeld, C. C., & D’Angelo, V. S. (2020). An interactive data visualization framework for exploring geospatial environmental datasets and model predictions. U.S. Geological Survey. https://www.usgs.gov/apps/ecosheds/#/   
+
+<img width="826" alt="image" src="https://github.com/user-attachments/assets/43bba434-90f9-48e0-bbb8-adbb3aa7e043">
+
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/70add0c2-25af-4ea3-80a6-22cddd0b94ed">
+
+
 # Four Critical Questions for Designing Effective Dashboards
 
 Creating an effective dashboard that displays useful information at a glance requires asking four critical questions to ensure it serves its purpose and meets user needs (Subotin, n.d.).
