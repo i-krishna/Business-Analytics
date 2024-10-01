@@ -89,10 +89,9 @@ Keim, D., Kohlhammer, J., Ellis, G., & Mansmann, F. (2010). Mastering the inform
 
 Walker, J. D., Letcher, B. H., Rodgers, K. D., Muhlfeld, C. C., & D’Angelo, V. S. (2020). An interactive data visualization framework for exploring geospatial environmental datasets and model predictions. U.S. Geological Survey. https://www.usgs.gov/apps/ecosheds/#/   
 
-<img width="826" alt="image" src="https://github.com/user-attachments/assets/43bba434-90f9-48e0-bbb8-adbb3aa7e043">
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/510a30f4-64ab-47e5-9421-ec7a47e9e2be">
 
-<img width="843" alt="image" src="https://github.com/user-attachments/assets/70add0c2-25af-4ea3-80a6-22cddd0b94ed">
-
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/7adebaf0-d355-4678-a432-f8f4069f4b63">
 
 # Four Critical Questions for Designing Effective Dashboards
 
