@@ -40,17 +40,9 @@ Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.u
 
 <img width="812" alt="image" src="https://github.com/user-attachments/assets/d2194ecb-71cf-4d32-a10d-880a1bfd2b22">
 
-# Healthcare Analytics Experience by Krishna Damarla
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/c293fe49-0909-4ae2-a260-37a3738894b3">
+# Interactive Actions in Dashboard Visualizations: Naive to Advanced by Krishna Damarla
 
-Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python/face-recognition.py)
-
-Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
-
-Interactive Actions in Dashboard Visualizations: Naive to Advanced
-by Krishna Damarla - Wednesday, September 25, 2024, 7:43 PM
-Number of replies: 2
 In Tableau, you can add six types of actions to a dashboard to explore data dynamically, increasing user engagement for visual insights. They are Filter, Highlight, Go to URL, Go to Sheet, Change Parameter, and Change Set Values (used for brushing or drill-down). Let’s look at the two most common actions: Highlight and Filter within a dashboard that shows regional sales and employee ratings (Francis, 2019).
 
 1. Highlight Action
@@ -179,6 +171,14 @@ Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https:
 
 <img width="984" alt="image" src="https://github.com/user-attachments/assets/8b547574-f632-4d47-a58e-b757a611cfb2">
 
+# Healthcare Analytics Experience by Krishna Damarla
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/c293fe49-0909-4ae2-a260-37a3738894b3">
+
+Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python/face-recognition.py)
+
+Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
+
 # Health Insurance Analytics Experience by Krishna Damarla
 
 Project Experience
@@ -202,4 +202,5 @@ Hiter, S. (2023). Cognos vs. Power BI: 2024 data platform comparison. eWeek.com.
 Raghupathi, W., & Raghupathi, V. (2021). Contemporary business analytics: An overview. MDPI Journal. https://doi.org/10.3390/data6080086
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/34f59064-a8af-4b01-9a50-0c7bc27b100d">
+
 
