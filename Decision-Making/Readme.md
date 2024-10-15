@@ -1,3 +1,50 @@
+# From Data to Decisions: Harnessing Tableau for Strategic Business Insights by Krishna Damarla
+
+## Tableau's Decision Support
+
+Business decision-making benefits greatly from Tableau to visualize complex data because of some of the following unique points the tool offers:
+
+1.     Data Visualization and Interactivity: Tableau has advanced visualization techniques that allow users to interact with data through dashboard actions such as filtering and selection. For example, clicking on a region in a sales map can dynamically update related visualizations to display trends unique to a product, enabling seamless exploration. Tableau’s storyboards craft a clear narrative & key insight from multiple dashboard explorations, making it easier for executives to understand the data for faster business decisions (Francis, 2019).
+
+2.     Data Preparation Simplification: Tableau Data Interpreter automatically cleans unstructured data from Excel or CSV files, while Tableau Prep Builder streamlines data preparation. Tableau Prep Conductor automates these processes, allowing users to focus on analysis rather than data preparation (Baldwin, 2016).
+
+3.     Customization and Integration: Tableau supports the creation of custom charts through the Extensions API. It also seamlessly integrates with programming languages such as R and Python via TabPy Server for advanced analytics and machine learning. While, SQL, and JavaScript for enhanced data querying and web application functionalities. Tableau Public Cloud enables community collaboration by allowing users to share insights.
+
+4.     Data Blending Capabilities: Tableau can blend data from multiple sources (e.g., Salesforce & Google Analytics) without complex joins for seamless cross-platform integration.
+
+5.     Mobile and Real-Time Access: Users can access dashboards on mobile devices for real-time updates, critical for making timely decisions based on current information. Tableau’s dashboards tailored to specific audiences integrate live data sources in real-time, essential for industries where accuracy and timing are crucial (Stikeleather, 2013).
+
+However, Tableau does have a high learning curve and cost, which can be challenging for smaller organizations, and its AI capabilities are limited compared to other tools in the market.
+
+Scenario Where Tableau Best Supports Decision-Making
+
+In a modern manufacturing environment (Tableau, 2024a), Tableau optimizes supply chain operations and improves efficiency. A manufacturing company can leverage Tableau for:
+
+1.     Comprehensive View Creation: Blending data from ERP, CRM and logistics systems offers clients a holistic perspective of the supply chain for effective resource allocation.
+
+2.     Predictive Analytics: Production scheduling and efficient inventory management can be made easier with product demand forecasting based on past sales and market trends.
+
+3.     Supply Chain Analysis: To make strategic sourcing decisions, tableau’s tools can be utilized to assess supplier performance, delivery times, and inventory turnover (Tableau, 2024b).
+
+4.     Interactive Dashboard Visualizations: To identify bottlenecks and boost operational effectiveness, production metrics like throughput, defect rate and outages can be visualized with user interactive features. Highlighting Key Performance Indicators (KPIs) related to production, quality and supply chain efficiency enables business executives for strategic planning and decision-making (The Creators Project, 2015).
+
+References
+
+Baldwin, D. (2016). Mastering Tableau: Smart business intelligence techniques to get maximum insights from your data. Packt Publishing. https://www.packtpub.com/en-us/product/mastering-tableau-9781784397692
+
+Francis, M. (2019). Creating Interactive Tableau dashboards. LinkedIn Learning. https://www.linkedin.com/learning/creating-interactive-tableau-dashboards/  
+
+Stikeleather, J. (2013). How to tell a story with data. Harvard Business Review. https://hbr.org/2013/04/how-to-tell-a-story-with-data
+
+Tableau. (2024a). Manufacturing analytics: Build a modern supply chain, reduce your risk, and save cost with data. Salesforce. https://www.tableau.com/solutions/industries/manufacturing 
+
+Tableau. (2024b). Supply chain analytics: Efficiently deliver more with less across your supply chain. Salesforce. https://www.tableau.com/solution/supply-chain-analytics
+
+The Creators Project. (2015). ReForm - Data becomes art in immersive visualizations. YouTube.
+
+<img width="973" alt="image" src="https://github.com/user-attachments/assets/544d0ff7-e8b4-4ed0-bcc7-6e632e30bd19">
+
+
 # How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
 
 Descriptive analytics (DEA) summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
