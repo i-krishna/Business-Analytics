@@ -202,4 +202,47 @@ Raghupathi, W., & Raghupathi, V. (2021). Contemporary business analytics: An ove
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/34f59064-a8af-4b01-9a50-0c7bc27b100d">
 
+# Best Practices for Using Color in Data Visualization by Krishna Damarla
+
+If a colleague or stakeholder suggests that the dashboard could be made more impactful by adding more or bolder colors, my response would be: I understand the desire to make the dashboard stand out more. But adding more or darker colors can reduce the effectiveness. Instead, we should focus on using color strategically, as Jeffrey suggests in his "The Big Book of Dashboards” (Wexler et al., 2018) and as Krause suggests in his book “Color for Designers” (Krause, 2014). 
+
+The main points regarding the use of color in data visualization are:
+
+1.     Five Uses of Color (Wexler, 2021): The following graphic by Jeffrey Schaefer outlines the ways color can be used in data visualization.
+
+o   Sequential Colors: Using gradient colors to show value progression (low to high).
+
+o   Diverging: Showing the contrast between two extremes with a neutral mid-point.
+
+o   Categorical: Using distinct colors to separate different categories. It’s best to use no more than 4 distinct colors. Group similar categories and then use sequential coloring for differentiation. Example applications are heat-maps, and density maps.
+
+o   Highlight: Drawing attention to specific data points.
+
+o   Alert Colors: Colors like red can highlight important data or signal alerts, but cultural contexts are important as color meanings can differ from region to region.
+
+2.     Use Color Sparingly (Wexler et al., 2018): Too much color can overwhelm and obscure insights. Minimal, well-placed color helps make data clearer and more understandable. Adding more or bolder colors to dashboards won’t always make dashboard more impactful.
+
+3.     Avoid Traffic Light Colors: Red-green color blindness affects many people, so using the typical traffic light colors can be problematic. Adjusting colors to be less dense or using alternatives like blue and orange can make visuals more accessible.
+
+4.     Maintain Color Harmony: Make visuals appealing without overwhelming them by trying different color harmony palettes (complementary, analogous, triadic).
+
+5.     Color in Branding (Krause, 2014): Understanding that color plays a major role in brand identity, and recognition, and can influence consumer behavior.
+
+6.     Emotional Impact of Colors: Color can evoke emotions and influence a viewer’s thought process and behaviors. Use color choices to set the mood or tone of a design, whether professional or elegant.
+
+7.     Testing Color Combinations: Test different colors in the real world to see how they perform and resonate with your audience. Experiment with color to discover unique palettes and combinations to enhance your designs.
+
+8.     Color in Digital and Print: Understand the difference between digital screen (RGB) and print (CMYK) colors to ensure accurate color reproduction.
+
+9.     Feedback and Revision (Krause, 2014): Get feedback from peers or audiences on color choices and be willing to make changes based on their feedback. Find color inspiration in nature, art, and everyday surroundings to develop original color palettes. Use tools like color wheel (primary, secondary, tertiary colors), swatches, and software in selecting and managing colors.
+
+References
+
+Krause, J. (2014). Color for designers: Ninety-five things you need to know when choosing and using colors for layouts and illustrations. New Riders.
+
+Wexler, S. (2021). How to use data visualization to make better decisions—Faster. LinkedIn Learning. https://www.linkedin.com/learning/how-to-use-data-visualization-to-make-better-decisions-faster/
+
+Wexler, S., Shaffer, J., & Cotgreave, A. (2018). The big book of dashboards: Visualizing your data using real-world business scenarios (1st ed.). Wiley. https://www.tableau.com/big-book-dashboards
+
+
 
