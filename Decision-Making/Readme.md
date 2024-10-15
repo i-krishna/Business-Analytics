@@ -261,15 +261,15 @@ The main points regarding the use of color in data visualization are:
 
 1. Five Uses of Color (Wexler, 2021): The following graphic by Jeffrey Schaefer outlines the ways color can be used in data visualization.
 
-o   Sequential Colors: Using gradient colors to show value progression (low to high).
-
-o   Diverging: Showing the contrast between two extremes with a neutral mid-point.
-
-o   Categorical: Using distinct colors to separate different categories. It’s best to use no more than 4 distinct colors. Group similar categories and then use sequential coloring for differentiation. Example applications are heat-maps, and density maps.
-
-o   Highlight: Drawing attention to specific data points.
-
-o   Alert Colors: Colors like red can highlight important data or signal alerts, but cultural contexts are important as color meanings can differ from region to region.
+   o   Sequential Colors: Using gradient colors to show value progression (low to high).
+   
+   o   Diverging: Showing the contrast between two extremes with a neutral mid-point.
+   
+   o   Categorical: Using distinct colors to separate different categories. It’s best to use no more than 4 distinct colors. Group similar categories and then use sequential coloring for differentiation. Example applications are heat-maps, and density maps.
+   
+   o   Highlight: Drawing attention to specific data points.
+   
+   o   Alert Colors: Colors like red can highlight important data or signal alerts, but cultural contexts are important as color meanings can differ from region to region.
 
 2. Use Color Sparingly (Wexler et al., 2018): Too much color can overwhelm and obscure insights. Minimal, well-placed color helps make data clearer and more understandable. Adding more or bolder colors to dashboards won’t always make dashboard more impactful.
 
