@@ -1,3 +1,7 @@
+# Tableau Storyboard on COVID19 Impact Overview
+
+https://public.tableau.com/app/profile/krishna.damarla/viz/COVID19ImpactStoryboard/Regionsaffected?publish=yes 
+
 # From Data to Decisions: Harnessing Tableau for Strategic Business Insights by Krishna Damarla
 
 ## Tableau's Decision Support
