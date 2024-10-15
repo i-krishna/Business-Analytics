@@ -4,15 +4,15 @@
 
 Business decision-making benefits greatly from Tableau to visualize complex data because of some of the following unique points the tool offers:
 
-1.     Data Visualization and Interactivity: Tableau has advanced visualization techniques that allow users to interact with data through dashboard actions such as filtering and selection. For example, clicking on a region in a sales map can dynamically update related visualizations to display trends unique to a product, enabling seamless exploration. Tableau’s storyboards craft a clear narrative & key insight from multiple dashboard explorations, making it easier for executives to understand the data for faster business decisions (Francis, 2019).
+1. Data Visualization and Interactivity: Tableau has advanced visualization techniques that allow users to interact with data through dashboard actions such as filtering and selection. For example, clicking on a region in a sales map can dynamically update related visualizations to display trends unique to a product, enabling seamless exploration. Tableau’s storyboards craft a clear narrative & key insight from multiple dashboard explorations, making it easier for executives to understand the data for faster business decisions (Francis, 2019).
 
-2.     Data Preparation Simplification: Tableau Data Interpreter automatically cleans unstructured data from Excel or CSV files, while Tableau Prep Builder streamlines data preparation. Tableau Prep Conductor automates these processes, allowing users to focus on analysis rather than data preparation (Baldwin, 2016).
+2. Data Preparation Simplification: Tableau Data Interpreter automatically cleans unstructured data from Excel or CSV files, while Tableau Prep Builder streamlines data preparation. Tableau Prep Conductor automates these processes, allowing users to focus on analysis rather than data preparation (Baldwin, 2016).
 
-3.     Customization and Integration: Tableau supports the creation of custom charts through the Extensions API. It also seamlessly integrates with programming languages such as R and Python via TabPy Server for advanced analytics and machine learning. While, SQL, and JavaScript for enhanced data querying and web application functionalities. Tableau Public Cloud enables community collaboration by allowing users to share insights.
+3. Customization and Integration: Tableau supports the creation of custom charts through the Extensions API. It also seamlessly integrates with programming languages such as R and Python via TabPy Server for advanced analytics and machine learning. While, SQL, and JavaScript for enhanced data querying and web application functionalities. Tableau Public Cloud enables community collaboration by allowing users to share insights.
 
-4.     Data Blending Capabilities: Tableau can blend data from multiple sources (e.g., Salesforce & Google Analytics) without complex joins for seamless cross-platform integration.
+4. Data Blending Capabilities: Tableau can blend data from multiple sources (e.g., Salesforce & Google Analytics) without complex joins for seamless cross-platform integration.
 
-5.     Mobile and Real-Time Access: Users can access dashboards on mobile devices for real-time updates, critical for making timely decisions based on current information. Tableau’s dashboards tailored to specific audiences integrate live data sources in real-time, essential for industries where accuracy and timing are crucial (Stikeleather, 2013).
+5. Mobile and Real-Time Access: Users can access dashboards on mobile devices for real-time updates, critical for making timely decisions based on current information. Tableau’s dashboards tailored to specific audiences integrate live data sources in real-time, essential for industries where accuracy and timing are crucial (Stikeleather, 2013).
 
 However, Tableau does have a high learning curve and cost, which can be challenging for smaller organizations, and its AI capabilities are limited compared to other tools in the market.
 
@@ -20,13 +20,13 @@ Scenario Where Tableau Best Supports Decision-Making
 
 In a modern manufacturing environment (Tableau, 2024a), Tableau optimizes supply chain operations and improves efficiency. A manufacturing company can leverage Tableau for:
 
-1.     Comprehensive View Creation: Blending data from ERP, CRM and logistics systems offers clients a holistic perspective of the supply chain for effective resource allocation.
+1. Comprehensive View Creation: Blending data from ERP, CRM and logistics systems offers clients a holistic perspective of the supply chain for effective resource allocation.
 
-2.     Predictive Analytics: Production scheduling and efficient inventory management can be made easier with product demand forecasting based on past sales and market trends.
+2. Predictive Analytics: Production scheduling and efficient inventory management can be made easier with product demand forecasting based on past sales and market trends.
 
-3.     Supply Chain Analysis: To make strategic sourcing decisions, tableau’s tools can be utilized to assess supplier performance, delivery times, and inventory turnover (Tableau, 2024b).
+3. Supply Chain Analysis: To make strategic sourcing decisions, tableau’s tools can be utilized to assess supplier performance, delivery times, and inventory turnover (Tableau, 2024b).
 
-4.     Interactive Dashboard Visualizations: To identify bottlenecks and boost operational effectiveness, production metrics like throughput, defect rate and outages can be visualized with user interactive features. Highlighting Key Performance Indicators (KPIs) related to production, quality and supply chain efficiency enables business executives for strategic planning and decision-making (The Creators Project, 2015).
+4. Interactive Dashboard Visualizations: To identify bottlenecks and boost operational effectiveness, production metrics like throughput, defect rate and outages can be visualized with user interactive features. Highlighting Key Performance Indicators (KPIs) related to production, quality and supply chain efficiency enables business executives for strategic planning and decision-making (The Creators Project, 2015).
 
 References
 
@@ -255,7 +255,7 @@ If a colleague or stakeholder suggests that the dashboard could be made more imp
 
 The main points regarding the use of color in data visualization are:
 
-1.     Five Uses of Color (Wexler, 2021): The following graphic by Jeffrey Schaefer outlines the ways color can be used in data visualization.
+1. Five Uses of Color (Wexler, 2021): The following graphic by Jeffrey Schaefer outlines the ways color can be used in data visualization.
 
 o   Sequential Colors: Using gradient colors to show value progression (low to high).
 
@@ -267,21 +267,21 @@ o   Highlight: Drawing attention to specific data points.
 
 o   Alert Colors: Colors like red can highlight important data or signal alerts, but cultural contexts are important as color meanings can differ from region to region.
 
-2.     Use Color Sparingly (Wexler et al., 2018): Too much color can overwhelm and obscure insights. Minimal, well-placed color helps make data clearer and more understandable. Adding more or bolder colors to dashboards won’t always make dashboard more impactful.
+2. Use Color Sparingly (Wexler et al., 2018): Too much color can overwhelm and obscure insights. Minimal, well-placed color helps make data clearer and more understandable. Adding more or bolder colors to dashboards won’t always make dashboard more impactful.
 
-3.     Avoid Traffic Light Colors: Red-green color blindness affects many people, so using the typical traffic light colors can be problematic. Adjusting colors to be less dense or using alternatives like blue and orange can make visuals more accessible.
+3. Avoid Traffic Light Colors: Red-green color blindness affects many people, so using the typical traffic light colors can be problematic. Adjusting colors to be less dense or using alternatives like blue and orange can make visuals more accessible.
 
-4.     Maintain Color Harmony: Make visuals appealing without overwhelming them by trying different color harmony palettes (complementary, analogous, triadic).
+4. Maintain Color Harmony: Make visuals appealing without overwhelming them by trying different color harmony palettes (complementary, analogous, triadic).
 
-5.     Color in Branding (Krause, 2014): Understanding that color plays a major role in brand identity, and recognition, and can influence consumer behavior.
+5. Color in Branding (Krause, 2014): Understanding that color plays a major role in brand identity, and recognition, and can influence consumer behavior.
 
-6.     Emotional Impact of Colors: Color can evoke emotions and influence a viewer’s thought process and behaviors. Use color choices to set the mood or tone of a design, whether professional or elegant.
+6. Emotional Impact of Colors: Color can evoke emotions and influence a viewer’s thought process and behaviors. Use color choices to set the mood or tone of a design, whether professional or elegant.
 
-7.     Testing Color Combinations: Test different colors in the real world to see how they perform and resonate with your audience. Experiment with color to discover unique palettes and combinations to enhance your designs.
+7. Testing Color Combinations: Test different colors in the real world to see how they perform and resonate with your audience. Experiment with color to discover unique palettes and combinations to enhance your designs.
 
-8.     Color in Digital and Print: Understand the difference between digital screen (RGB) and print (CMYK) colors to ensure accurate color reproduction.
+8. Color in Digital and Print: Understand the difference between digital screen (RGB) and print (CMYK) colors to ensure accurate color reproduction.
 
-9.     Feedback and Revision (Krause, 2014): Get feedback from peers or audiences on color choices and be willing to make changes based on their feedback. Find color inspiration in nature, art, and everyday surroundings to develop original color palettes. Use tools like color wheel (primary, secondary, tertiary colors), swatches, and software in selecting and managing colors.
+9. Feedback and Revision (Krause, 2014): Get feedback from peers or audiences on color choices and be willing to make changes based on their feedback. Find color inspiration in nature, art, and everyday surroundings to develop original color palettes. Use tools like color wheel (primary, secondary, tertiary colors), swatches, and software in selecting and managing colors.
 
 References
 
