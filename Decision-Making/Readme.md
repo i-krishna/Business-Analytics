@@ -49,49 +49,6 @@ The Creators Project. (2015). ReForm - Data becomes art in immersive visualizati
 <img width="973" alt="image" src="https://github.com/user-attachments/assets/544d0ff7-e8b4-4ed0-bcc7-6e632e30bd19">
 
 
-# How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
-
-Descriptive analytics (DEA) summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
-
-Exploratory analytics (EDA) focuses on "understanding the data" rather than summarization. Finding correlations and identifying relationships are part of it (Devopedia, 2022). For instance, it can be noticed from email marketing data (Ponnambalam, 2024) that a 30% discount on items, such as USB drives and headphones, worked better than a 40% off. An income-based study showed that people who earn more than $150,000 expressed less interest in the ads. These insights help us in re-evaluating our pricing strategies in terms of sales and revenue.
-
-Explanatory analytics (EPA) determines the "underlying reasons for the problem" and presents narratives with future vision. For example, a recent CrowdStrike software update caused a global IT outage (Sato, 2024). According to an investigation by CrowdStrike, a bug in the update's test program stopped it from validating the configuration content before deployment. The main reason is an inconsistency between the input fields provided in the update and what was intended. Because of inadequate testing procedures, this was overlooked. To prevent similar issues in the future, it is crucial to test different test scenarios and validate software modifications thoroughly.
-
-Predictive analytics (PRA) applies statistical methodologies and machine learning to identify patterns in large datasets and forecast future possibilities (Ponnambalam, 2024). Statistical learning techniques can be supervised, such as regression to predict numerical results and classification to classify non-numerical outcomes, or unsupervised, like clustering (AbdulHussein, 2022a). Machine learning techniques, such as transformers, neural networks, and decision trees, play a vital role as well. GPT-4 models, for example, can anticipate the next word in a sentence or generate relevant text based on prior information. In real life, investment firms use predictive analytics to analyze global market trends and economic indicators of a business (Halton, 2024). 
-
-Prescriptive analytics (PXA) goes beyond predicting future outcomes by recommending specific actions to achieve the best results using simulation, optimization, and risk assessment (AbdulHussein, 2022b). It provides an overview by evaluating various aspects, including estimating resources (budget, time, usage effort), cost-benefits, business competition, product changes, and other social, environmental, and economic changes.  For instance, an investment advisory firm may use prescriptive analytics to suggest strategies for multinational companies, which may include recommendations such as investing in high-growth markets, emerging technology adoption, or mergers and acquisitions (Halton, 2024) and helping them create investment strategies that align with their goals and maximize results.
-
-Experimental analytics (EXA) tests the solution’s performance in real-world conditions. This contrasts with simulation-based prescriptive analysis. It involves the implementation of a business plan on a subset. Testing various options, and identifying unknowns (Ponnambalam, 2024). The main steps include selecting a validated hypothesis, design and execution, result analysis, and choosing the best option. These tests can be repeated or modified to optimize the results. For example, in the use case of an email campaign (Ponnambalam, 2024), the experiment aimed to evaluate whether there was a difference in conversion rates (customers purchasing the product out of total customer visits) between discounts of 30% and 40% for customers who earn between $100,000 and $150,000. Data suggests that a 30% discount can lead to higher conversions. To verify this, an A/B test is run with two subgroups of customers: Subgroup A would receive a 30% discount, while Subgroup B would receive a 40% discount. These subgroups are evenly distributed on variables such as age and gender, and the campaigns were held on the same day to control the effect of the day of the week. Results were compared to determine if the discount rate significantly affects the conversion rates. 
-
-A new era of analytics powered by AI is emerging. With solutions like SAP Predictive Analytics, we can forecast results more accurately. AI is used in prescriptive analytics to model scenarios and suggest the optimal action. Experimental analytics is conducting virtual experiments and AI-driven testing (Ponnambalam, 2024). Automated analytics uses solutions like Google’s AutoML to automate business processes without human intervention. Cognitive Analytics (Ulster University, n.d) is improving the quality of analytics by imitating human intelligence and providing deep insights into complex data with products like IBM Watson and Microsoft Cortona. Soon, integrating analytics with other fields like quantum computing, cybersecurity, multimodal AI, and AI-embedded hardware will transform all industries by increasing efficiency and innovation. This integration will enable real-time decision-making, faster threat detection, and operational efficiency, enabling smarter communication with more connected systems in areas such as automotive and space tourism (Apptunix, 2023).
-
-**References**
-
-AbdulHussein, A. (2022). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/2-1-descriptive-analytics/
-
-AbdulHussein, A. (2022a). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/3-1-predictive-analytics/
-
-AbdulHussein, A. (2022b). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/4-1-prescriptive-analytics/ 
-
-Apptunix. (2023). How AI is helping to make space travel more affordable. Apptunix. https://www.apptunix.com/blog/how-ai-is-helping-to-make-space-travel-more-affordable/
-
-Devopedia. (2022). Exploratory Data Analysis. https://devopedia.org/exploratory-data-analysis
-
-Halton, C. (2024). Predictive analytics: Definition, model types, and uses. Investopedia. https://www.investopedia.com/terms/p/predictive-analytics.asp
-
-Ponnambalam, K. (2024). Business analytics: Descriptive, exploratory, and explanatory techniques. LinkedIn Learning. https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics
-
-Sato, M. (2024). CrowdStrike and Microsoft: All the latest news on the global IT outage. The Verge. https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking
-
-Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics
-
-<img width="896" alt="image" src="https://github.com/user-attachments/assets/45e5bbaf-d075-41b7-9f9b-38d569a2d98d">
-
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/913839f3-37c7-4946-bfc0-fb1fb9636498">
-
-<img width="812" alt="image" src="https://github.com/user-attachments/assets/d2194ecb-71cf-4d32-a10d-880a1bfd2b22">
-
-
 # Interactive Actions in Dashboard Visualizations: Naive to Advanced by Krishna Damarla
 
 In Tableau, you can add six types of actions to a dashboard to explore data dynamically, increasing user engagement for visual insights. They are Filter, Highlight, Go to URL, Go to Sheet, Change Parameter, and Change Set Values (used for brushing or drill-down). Let’s look at the two most common actions: Highlight and Filter within a dashboard that shows regional sales and employee ratings (Francis, 2019).
@@ -228,6 +185,49 @@ Tableau. (n.d.). Pass Expressions with Analytics Extensions. Tableau.com. https:
 Code to Implement above Suggestion: [face-recognition.py](../Data-Science/Python/face-recognition.py)
 
 Note: The above code snippet is intended for scenarios where a person's face has already been trained using a predefined set of images in a training model. In real-world applications, recognizing the face of an unknown individual requires using a government-approved ID and photograph to train the model, enabling it to match the person in live video for recognition purposes. Implementing such an architecture must align with healthcare security practices and regulations of local body, such as HIPAA in the U.S, PIPEDA in Canada, GDPR in Europe, DISHA in India, and PIPL in China.
+
+# How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
+
+Descriptive analytics (DEA) summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
+
+Exploratory analytics (EDA) focuses on "understanding the data" rather than summarization. Finding correlations and identifying relationships are part of it (Devopedia, 2022). For instance, it can be noticed from email marketing data (Ponnambalam, 2024) that a 30% discount on items, such as USB drives and headphones, worked better than a 40% off. An income-based study showed that people who earn more than $150,000 expressed less interest in the ads. These insights help us in re-evaluating our pricing strategies in terms of sales and revenue.
+
+Explanatory analytics (EPA) determines the "underlying reasons for the problem" and presents narratives with future vision. For example, a recent CrowdStrike software update caused a global IT outage (Sato, 2024). According to an investigation by CrowdStrike, a bug in the update's test program stopped it from validating the configuration content before deployment. The main reason is an inconsistency between the input fields provided in the update and what was intended. Because of inadequate testing procedures, this was overlooked. To prevent similar issues in the future, it is crucial to test different test scenarios and validate software modifications thoroughly.
+
+Predictive analytics (PRA) applies statistical methodologies and machine learning to identify patterns in large datasets and forecast future possibilities (Ponnambalam, 2024). Statistical learning techniques can be supervised, such as regression to predict numerical results and classification to classify non-numerical outcomes, or unsupervised, like clustering (AbdulHussein, 2022a). Machine learning techniques, such as transformers, neural networks, and decision trees, play a vital role as well. GPT-4 models, for example, can anticipate the next word in a sentence or generate relevant text based on prior information. In real life, investment firms use predictive analytics to analyze global market trends and economic indicators of a business (Halton, 2024). 
+
+Prescriptive analytics (PXA) goes beyond predicting future outcomes by recommending specific actions to achieve the best results using simulation, optimization, and risk assessment (AbdulHussein, 2022b). It provides an overview by evaluating various aspects, including estimating resources (budget, time, usage effort), cost-benefits, business competition, product changes, and other social, environmental, and economic changes.  For instance, an investment advisory firm may use prescriptive analytics to suggest strategies for multinational companies, which may include recommendations such as investing in high-growth markets, emerging technology adoption, or mergers and acquisitions (Halton, 2024) and helping them create investment strategies that align with their goals and maximize results.
+
+Experimental analytics (EXA) tests the solution’s performance in real-world conditions. This contrasts with simulation-based prescriptive analysis. It involves the implementation of a business plan on a subset. Testing various options, and identifying unknowns (Ponnambalam, 2024). The main steps include selecting a validated hypothesis, design and execution, result analysis, and choosing the best option. These tests can be repeated or modified to optimize the results. For example, in the use case of an email campaign (Ponnambalam, 2024), the experiment aimed to evaluate whether there was a difference in conversion rates (customers purchasing the product out of total customer visits) between discounts of 30% and 40% for customers who earn between $100,000 and $150,000. Data suggests that a 30% discount can lead to higher conversions. To verify this, an A/B test is run with two subgroups of customers: Subgroup A would receive a 30% discount, while Subgroup B would receive a 40% discount. These subgroups are evenly distributed on variables such as age and gender, and the campaigns were held on the same day to control the effect of the day of the week. Results were compared to determine if the discount rate significantly affects the conversion rates. 
+
+A new era of analytics powered by AI is emerging. With solutions like SAP Predictive Analytics, we can forecast results more accurately. AI is used in prescriptive analytics to model scenarios and suggest the optimal action. Experimental analytics is conducting virtual experiments and AI-driven testing (Ponnambalam, 2024). Automated analytics uses solutions like Google’s AutoML to automate business processes without human intervention. Cognitive Analytics (Ulster University, n.d) is improving the quality of analytics by imitating human intelligence and providing deep insights into complex data with products like IBM Watson and Microsoft Cortona. Soon, integrating analytics with other fields like quantum computing, cybersecurity, multimodal AI, and AI-embedded hardware will transform all industries by increasing efficiency and innovation. This integration will enable real-time decision-making, faster threat detection, and operational efficiency, enabling smarter communication with more connected systems in areas such as automotive and space tourism (Apptunix, 2023).
+
+**References**
+
+AbdulHussein, A. (2022). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/2-1-descriptive-analytics/
+
+AbdulHussein, A. (2022a). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/3-1-predictive-analytics/
+
+AbdulHussein, A. (2022b). Data Analytics and Decision Making. University of Windsor. https://ecampusontario.pressbooks.pub/dataanalyticsvls1/chapter/4-1-prescriptive-analytics/ 
+
+Apptunix. (2023). How AI is helping to make space travel more affordable. Apptunix. https://www.apptunix.com/blog/how-ai-is-helping-to-make-space-travel-more-affordable/
+
+Devopedia. (2022). Exploratory Data Analysis. https://devopedia.org/exploratory-data-analysis
+
+Halton, C. (2024). Predictive analytics: Definition, model types, and uses. Investopedia. https://www.investopedia.com/terms/p/predictive-analytics.asp
+
+Ponnambalam, K. (2024). Business analytics: Descriptive, exploratory, and explanatory techniques. LinkedIn Learning. https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics
+
+Sato, M. (2024). CrowdStrike and Microsoft: All the latest news on the global IT outage. The Verge. https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking
+
+Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.uk/cognitive-analytics-research/cognitive-analytics
+
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/45e5bbaf-d075-41b7-9f9b-38d569a2d98d">
+
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/913839f3-37c7-4946-bfc0-fb1fb9636498">
+
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/d2194ecb-71cf-4d32-a10d-880a1bfd2b22">
+
 
 # Health Insurance Analytics Experience by Krishna Damarla
 
