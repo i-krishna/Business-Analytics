@@ -1,6 +1,5 @@
-# Discussion Topic #5
-
-**Supply chain strategies and tradeoffs by Krishna Damarla**
+# Supply chain strategies and tradeoffs 
+by Krishna Damarla
 
 A company's ability to obtain products efficiently (sourcing/upstream) and distribute them effectively (sales/downstream) can be vital to its success. However, this process is with tradeoffs, and companies must carefully weigh various factors to make informed decisions that resonate throughout the entire supply chain (Phadnis, 2017).
 
