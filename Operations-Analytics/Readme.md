@@ -66,10 +66,8 @@ Sherwood News. (2024). Chartr newsletters. https://sherwood.news/tech/where-are-
 
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/39e59c0c-20b2-4505-802e-37dcbf8e89aa">
 
-
-# Discussion Topic #4
-
-**Strategic and Operational Goals by Krishna Damarla**
+# Strategic and Operational Goals 
+by Krishna Damarla
 
 Understanding the below mentioned key distinctions between operational goals and strategic goals is crucial for organizations to ensure a balanced approach to goal-setting, addressing both immediate operational needs and long-term strategic objectives.
 
@@ -101,11 +99,17 @@ b.	Strategic Goal: Inherently involves a higher level of risk and demands a more
 a.	Operational Goal: Often lends itself to straightforward, easily measurable metrics with tangible, short-term results.
 b.	Strategic Goal: May involve more qualitative measures, especially in the early stages, and necessitates a nuanced combination of leading and lagging indicators.
 
+# Streaming Analytics
+
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/e402bf4c-56c9-409e-bea2-1a81fed34e42">
+
+<img width="1035" alt="image" src="https://github.com/user-attachments/assets/14bac9ed-8e62-4533-8371-8c465be7eff2">
+
+<img width="1030" alt="image" src="https://github.com/user-attachments/assets/9fa31d8e-cc73-4073-8038-c893ac7fbe81">
 
 
-# Discussion Topic #3
-
-**Benchmarking and Standard Operating Procedures by Krishna Damarla**
+# Benchmarking and Standard Operating Procedures 
+by Krishna Damarla
 
 Benchmarking is the practice of identifying and adopting the best methods in both process and product development and delivery (Wikipedia, n.d). In simpler terms, it involves moving from point A to point B by following industry best practices. Benchmarking is a vital part of organizational maintenance and is widely used as a management tool across various organizations, where products, services, and processes are measured against those of recognized industry leaders. There are nine distinct benchmarking standards, each serving specific purposes (Dembowski, 2013): 
 
@@ -140,9 +144,8 @@ Sapphire systems (n.d). https://www.sapphiresystems.com/what-we-do/solution-area
 Combs, O (2017). Writing Effective Standard Operating Procedures. Retrieved from https://www.youtube.com/watch?v=IiVxuSvPzZw 
 
 
-# Discussion Topic #2
-
-**Integrating Models for Enhanced Demand Planning and Forecasting by Krishna Damarla**
+# Integrating Models for Enhanced Demand Planning and Forecasting 
+by Krishna Damarla
 
 Models and methods play a crucial role in providing accurate forecasts, offering valuable insights for effective management (Hanssens et al., 2005; Miller, 2015). These tools aid managers in comprehending consumer reactions to marketing activities, understanding competitors' positions, and identifying the determinants of sales, including promotions, pricing, advertising, and distribution, as well as their impact on capital market share (Hanssens et al., 2005).
 
@@ -169,9 +172,8 @@ Serating.L (2016). Best Practices for Demand Forecasting and Inventory Planning 
 Karaman. B (2019). Market Response Models. Retrieved from https://towardsdatascience.com/market-response-models-baf9f9913298
 
 
-# Discussion Topic #1 
-
-**Why Business Analysts Are Essential to Your Operations Team by Krishna Damarla **
+# Why Business Analysts Are Essential to Your Operations Team 
+by Krishna Damarla
 
 Enhancing operational productivity within a team is a critical function of a business analyst, involving the formulation of pertinent questions crucial to the business or team. Prioritizing productivity over efficiency—emphasizing "doing more with the same" rather than "doing more with less"—can lead to greater benefits for companies (Mankins, 2017)
 
