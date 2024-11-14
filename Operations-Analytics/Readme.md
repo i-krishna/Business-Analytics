@@ -52,7 +52,6 @@ Agarwal, R. (2017). Demand Forecasting in Supply Chain. Retrieved from https://w
 
 The Capgemini Consulting Approach (2018). Process and Supply Chain Analytics. https://www.youtube.com/watch?v=bgohHzi4CR4 
 
-
 # U.S. energy production trends by source (1990-2023)
 by Krishna Damarla - Tuesday, October 22, 2024, 7:21 PM, Number of replies: 5
 
@@ -65,6 +64,8 @@ The line chart choice by the visual designer is good for showing trends in elect
 Reference
 
 Sherwood News. (2024). Chartr newsletters. https://sherwood.news/tech/where-are-americas-nuclear-power-plants-three-mile-island/
+
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/39e59c0c-20b2-4505-802e-37dcbf8e89aa">
 
 
 # Discussion Topic #4
