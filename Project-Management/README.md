@@ -1,6 +1,37 @@
-# Discussion Topic #6
+# Google’s Data-Driven People Management
+by Krishna Damarla - Wednesday, October 30, 2024, 8:47 PM
 
-## Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights
+Google launched Project Oxygen in 2009 to identify the core values of effective leaders and, revealed that technical excellence comes least in comparison to people skills like accessibility, personal support, and genuine interest in employees' lives and careers (Unscrambl, 2021). The People Analytics team analyzed over 10,000 observations to develop eight core managerial behaviours as listed below (Bryant, 2011):
+
+Being a good mentor.
+Empowering team rather than micromanaging. 
+Showing interest in the success and well-being of employees.
+Being productive and results-oriented.
+Communicating effectively, listening and sharing information.
+Helping team with career development.
+Having a clear vision and strategy for the team.
+Possessing key technical skills to guide the team.
+Beyond leadership best principles, google’s policies such as free food, flexible work hours and fun activities, are driven by data analytics to boost business success through innovative work culture. Key initiatives include (Hr, 2023):
+
+Collaborative Workplace Design: Promotes collaboration through office layouts.
+Retention Algorithms: Predicts which employees are at risk of leaving.
+Recruitment Algorithms: Select candidates with scientific methods.
+Diversity Analytics: Improves diversity in hiring and promotions.
+Predictive Modeling: Anticipates workforce challenges and opportunities.
+Learning Enhancement: Encourages hands-on, continuous learning.
+Data-Driven Best Practices: Uses data to persuade leaders to adopt new practices.
+Value Analysis: Measures top talent's impact (performance or ROI) on business success.
+PiLab: Experiments to determine effective people management strategies.
+Project Oxygen: Identifies management practices that increase employee performance. 
+References
+
+Bryant, A. (2011). Google’s quest to build a better boss. The New York Times. https://www.nytimes.com/2011/03/13/business/13hire.html 
+
+Hr. (2023). How Google reinvented HR and drives success through people analytics. InsideHR. https://www.insidehr.com.au/how-google-reinvented-hr/
+
+Unscrambl. (2021). 6 Inspiring Examples of Data-Driven Companies (Key Takeaways Included). https://unscrambl.com/blog/data-driven-companies-examples/
+
+# Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights
 
 My perspective on project management and the role of a project manager experienced a profound shift upon completing the project management course based on PMBOK7 book. Initially, I perceived a project manager as a regular individual. However, as I delved into the intricacies of factors influencing project scope and schedule, diverse contract types, and the risks associated with both agile and predictive projects, I came to recognize the immense versatility required for someone stepping into the role of a project manager.
 
