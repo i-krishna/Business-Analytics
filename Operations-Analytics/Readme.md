@@ -105,8 +105,7 @@ b.	Strategic Goal: May involve more qualitative measures, especially in the earl
 
 <img width="1035" alt="image" src="https://github.com/user-attachments/assets/14bac9ed-8e62-4533-8371-8c465be7eff2">
 
-<img width="1030" alt="image" src="https://github.com/user-attachments/assets/9fa31d8e-cc73-4073-8038-c893ac7fbe81">
-
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7d6bb704-8545-4270-b64a-4a976a731d3a">
 
 # Benchmarking and Standard Operating Procedures 
 by Krishna Damarla
