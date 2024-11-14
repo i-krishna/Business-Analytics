@@ -3,26 +3,28 @@ by Krishna Damarla - Wednesday, October 30, 2024, 8:47 PM
 
 Google launched Project Oxygen in 2009 to identify the core values of effective leaders and, revealed that technical excellence comes least in comparison to people skills like accessibility, personal support, and genuine interest in employees' lives and careers (Unscrambl, 2021). The People Analytics team analyzed over 10,000 observations to develop eight core managerial behaviours as listed below (Bryant, 2011):
 
-Being a good mentor.
-Empowering team rather than micromanaging. 
-Showing interest in the success and well-being of employees.
-Being productive and results-oriented.
-Communicating effectively, listening and sharing information.
-Helping team with career development.
-Having a clear vision and strategy for the team.
-Possessing key technical skills to guide the team.
+1. Being a good mentor.
+2. Empowering team rather than micromanaging. 
+3. Showing interest in the success and well-being of employees.
+4. Being productive and results-oriented.
+5. Communicating effectively, listening and sharing information.
+6. Helping team with career development.
+7. Having a clear vision and strategy for the team.
+8. Possessing key technical skills to guide the team.
+
 Beyond leadership best principles, google’s policies such as free food, flexible work hours and fun activities, are driven by data analytics to boost business success through innovative work culture. Key initiatives include (Hr, 2023):
 
-Collaborative Workplace Design: Promotes collaboration through office layouts.
-Retention Algorithms: Predicts which employees are at risk of leaving.
-Recruitment Algorithms: Select candidates with scientific methods.
-Diversity Analytics: Improves diversity in hiring and promotions.
-Predictive Modeling: Anticipates workforce challenges and opportunities.
-Learning Enhancement: Encourages hands-on, continuous learning.
-Data-Driven Best Practices: Uses data to persuade leaders to adopt new practices.
-Value Analysis: Measures top talent's impact (performance or ROI) on business success.
-PiLab: Experiments to determine effective people management strategies.
-Project Oxygen: Identifies management practices that increase employee performance. 
+1.	Collaborative Workplace Design: Promotes collaboration through office layouts.
+2.	Retention Algorithms: Predicts which employees are at risk of leaving.
+3.	Recruitment Algorithms: Select candidates with scientific methods.
+4.	Diversity Analytics: Improves diversity in hiring and promotions.
+5.	Predictive Modeling: Anticipates workforce challenges and opportunities.
+6.	Learning Enhancement: Encourages hands-on, continuous learning.
+7.	Data-Driven Best Practices: Uses data to persuade leaders to adopt new practices.
+8.	Value Analysis: Measures top talent's impact (performance or ROI) on business success.
+9.	PiLab: Experiments to determine effective people management strategies.
+10.	Project Oxygen: Identifies management practices that increase employee performance. 
+
 References
 
 Bryant, A. (2011). Google’s quest to build a better boss. The New York Times. https://www.nytimes.com/2011/03/13/business/13hire.html 
