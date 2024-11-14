@@ -53,6 +53,20 @@ Agarwal, R. (2017). Demand Forecasting in Supply Chain. Retrieved from https://w
 The Capgemini Consulting Approach (2018). Process and Supply Chain Analytics. https://www.youtube.com/watch?v=bgohHzi4CR4 
 
 
+# U.S. energy production trends by source (1990-2023)
+by Krishna Damarla - Tuesday, October 22, 2024, 7:21 PM, Number of replies: 5
+
+![Line graph](https://github.com/user-attachments/assets/d09d0cb1-8370-4bac-a450-7982804b99ea)
+
+The above graph shows the U.S. electricity generation patterns by source, measured in million megawatt-hours (MWh) on Y-axis, over the years 1990 to 2023 on the X-axis, showcasing the stability of nuclear power generation over all these years. Nuclear energy source has maintained a stable production levels despite significant changes in other energy sources. Natural gas production has increased and became the main source of electricity in the U.S. Whereas, coal as energy source has declined in production over recent years. Renewable energy such as wind and solar have seen lot of growth, as the U.S. transitions to clean energy. This change in the energy landscape suggests a transition, where nuclear energy remains stable in electricity production over time (Sherwood News, 2024).
+
+The line chart choice by the visual designer is good for showing trends in electricity generation and for comparing the growth or decline of various energy sources over time. Using different colors for each energy source makes it easier to track individual source trends. Highlighting the nuclear energy with red color clearly differentiates its stability over other source fluctuations. The graph visually summarized the broader shift towards clean energy as there is gradual increase in renewable energy source types and decrease in coal. This design is making the information more accessible and is helping viewers understand the overall trends in the U.S. energy sources, focusing on the role of nuclear energy in electricity generation.
+
+Reference
+
+Sherwood News. (2024). Chartr newsletters. https://sherwood.news/tech/where-are-americas-nuclear-power-plants-three-mile-island/
+
+
 # Discussion Topic #4
 
 **Strategic and Operational Goals by Krishna Damarla**
