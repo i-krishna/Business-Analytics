@@ -64,7 +64,7 @@ Reference
 
 Sherwood News. (2024). Chartr newsletters. https://sherwood.news/tech/where-are-americas-nuclear-power-plants-three-mile-island/
 
-<img width="1202" alt="image" src="https://github.com/user-attachments/assets/39e59c0c-20b2-4505-802e-37dcbf8e89aa">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7d6bb704-8545-4270-b64a-4a976a731d3a">
 
 # Strategic and Operational Goals 
 by Krishna Damarla
@@ -103,9 +103,9 @@ b.	Strategic Goal: May involve more qualitative measures, especially in the earl
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e402bf4c-56c9-409e-bea2-1a81fed34e42">
 
-<img width="1035" alt="image" src="https://github.com/user-attachments/assets/14bac9ed-8e62-4533-8371-8c465be7eff2">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/14bac9ed-8e62-4533-8371-8c465be7eff2">
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/7d6bb704-8545-4270-b64a-4a976a731d3a">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b25757d4-6d6e-49b9-bc69-279990064e0d">
 
 # Benchmarking and Standard Operating Procedures 
 by Krishna Damarla
