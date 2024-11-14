@@ -54,7 +54,7 @@ The Capgemini Consulting Approach (2018). Process and Supply Chain Analytics. ht
 # U.S. energy production trends by source (1990-2023)
 by Krishna Damarla - Tuesday, October 22, 2024, 7:21 PM, Number of replies: 5
 
-<img src="https://github.com/user-attachments/assets/d09d0cb1-8370-4bac-a450-7982804b99ea" alt="Line graph" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/d09d0cb1-8370-4bac-a450-7982804b99ea" alt="Line graph" width="500" height="500" />
 
 The above graph shows the U.S. electricity generation patterns by source, measured in million megawatt-hours (MWh) on Y-axis, over the years 1990 to 2023 on the X-axis, showcasing the stability of nuclear power generation over all these years. Nuclear energy source has maintained a stable production levels despite significant changes in other energy sources. Natural gas production has increased and became the main source of electricity in the U.S. Whereas, coal as energy source has declined in production over recent years. Renewable energy such as wind and solar have seen lot of growth, as the U.S. transitions to clean energy. This change in the energy landscape suggests a transition, where nuclear energy remains stable in electricity production over time (Sherwood News, 2024).
 
@@ -101,7 +101,7 @@ b.	Strategic Goal: May involve more qualitative measures, especially in the earl
 
 # Streaming Analytics
 
-<img width="862" alt="image" src="https://github.com/user-attachments/assets/e402bf4c-56c9-409e-bea2-1a81fed34e42">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e402bf4c-56c9-409e-bea2-1a81fed34e42">
 
 <img width="1035" alt="image" src="https://github.com/user-attachments/assets/14bac9ed-8e62-4533-8371-8c465be7eff2">
 
