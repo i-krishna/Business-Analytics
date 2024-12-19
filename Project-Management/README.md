@@ -33,6 +33,26 @@ Hr. (2023). How Google reinvented HR and drives success through people analytics
 
 Unscrambl. (2021). 6 Inspiring Examples of Data-Driven Companies (Key Takeaways Included). https://unscrambl.com/blog/data-driven-companies-examples/
 
+# Workplace Efficiency Powered by Microsoft Workplace Analytics
+by Krishna Damarla - Wednesday, November 13, 2024, 5:28 PM
+
+At Microsoft, business analytics has greatly improved collaboration and efficiency in the workplace. Using workplace analytics, a Microsoft 365 service that analyzes day-to-day work activities such as emails and calendar events, Microsoft assessed the impact of relocating a group of 1,200 engineers from five buildings to four (Microsoft, 2023). The goal was to increase the number of employees per building and to reduce the travel distance for meetings. Analyzing metadata such as email addresses and meeting schedules, the analytics team found that the relocation reduced meeting travel time by 46%, saving 100 hours per week for all relocated staff. In addition, weekly face-to-face meetings per person increased from 14 to 18, boosting collaboration. Microsoft can save $520,000 yearly with these insights (Gavin, 2019).
+
+To enhance employee engagement, learning, well-being, and knowledge exchange, Microsoft is leveraging MS Viva, an employee experience platform in Teams and Microsoft 365. Viva is promoting growth and collaboration through data and AI, with modules like Viva Connections, Insights, Learning, and Topic. MS Viva Glint support employee engagement by using surveys to collect feedback and offering practical insights to enhance retention, productivity, and employee happiness (Microsoft, n.d.).
+
+These insights demonstrate how businesses can use data-driven decision-making and business analytics to optimize their communication channels, team structures, and workspaces, increase employee productivity, spot bottlenecks, and foster a better work-life balance.
+
+**References**
+
+Gavin, M. (2019). Examples of business analytics in action. Harvard Business School Online. https://online.hbs.edu/blog/post/business-analytics-examples
+
+Microsoft. (2023). Workplace Analytics service description. Microsoft Learn.  https://learn.microsoft.com/en-us/office365/servicedescriptions/workplace-analytics-service-description
+
+Microsoft. (n.d.). Workplace analytics and employee feedback. Microsoft Blog. https://www.microsoft.com/en-us/microsoft-viva/workplace-analytics-and-feedback
+
+
+
+
 # Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights
 
 My perspective on project management and the role of a project manager experienced a profound shift upon completing the project management course based on PMBOK7 book. Initially, I perceived a project manager as a regular individual. However, as I delved into the intricacies of factors influencing project scope and schedule, diverse contract types, and the risks associated with both agile and predictive projects, I came to recognize the immense versatility required for someone stepping into the role of a project manager.
