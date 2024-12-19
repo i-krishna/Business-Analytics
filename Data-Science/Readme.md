@@ -46,6 +46,30 @@ Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data 
 
 Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/track/tube
 
+# Choosing Effective Data Visualizations for Analysis
+
+In the article from Atlassian (Yi & Restori, n.d.), the authors discuss different visualizations suited for various data analysis tasks. My favorite ones are the line chart and the scatter plot, as both provide clear insights based on the task at hand.
+
+Line charts are great for showing changes over time. In the below screenshot (Yi, n.d.-a), a line chart is utilized to depict trends and fluctuations, making it ideal for time-series data. By placing time (Months) on the horizontal X-axis and the variable (New Subscriptions) on the vertical Y-axis, a 7-day moving average is smoothening the short-term fluctuations, making long-term trends clearer. This will eliminate the noise of daily changes and allow for a more accurate view of overall trends.
+
+![image](https://github.com/user-attachments/assets/bb4cc29b-e601-4fa5-8f6f-028a34adabac)
+
+Scatter plots use dots to plot the values of two numeric variables, to examine relationships and patterns in the data. They are mainly used for finding correlations between variables, identifying outliers and discovering clusters when dealing with classification problems. A common problem when plotting multiple data points with scatter plots is overplotting, where the points / values overlap, hiding the insights. In the below screenshot (Yi, n.d.-b), to reduce overplotting, a subset of data points (400 points out of the original 1500 data points) are sampled (or) transparency is adjusted (so that duplicates or overlapping values appear thicker) (or) visualized as heatmap / 2d-histogram, using binning and color intensity mapping to provide a clear representation of the areas of focus and underlying patterns.
+
+![image](https://github.com/user-attachments/assets/cbda4378-5365-4e27-a204-171110d025ac)
+
+<img width="978" alt="image" src="https://github.com/user-attachments/assets/d7135bb9-8a7b-47dc-a9a2-3be21686c45c" />
+
+References 
+
+Yi, M., & Restori, M. (n.d.). How to choose the right data visualization. Atlassian. https://www.atlassian.com/data/charts/how-to-choose-data-visualization
+
+Yi, M. (n.d.-a). A complete guide to line charts. Atlassian. https://www.atlassian.com/data/charts/line-chart-complete-guide
+
+Yi, M. (n.d.-b). What is a scatter plot? A complete guide to scatter plots. Atlassian. https://www.atlassian.com/data/charts/what-is-a-scatter-plot
+
+
+
 # Kaggle Overview and Competition Submission by Krishna Damarla
 
 Kaggle Overview 
