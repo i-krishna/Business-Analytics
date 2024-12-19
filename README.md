@@ -1,4 +1,4 @@
-# Revolutionizing BI with JavaScript and Apple’s Design Principles
+# Revolutionizing BI with JS and Apple’s Design Principles
 by Krishna Damarla - Wednesday, December 4, 2024, 10:18 PM
 
 D3.js is a powerful JavaScript library for creating custom visualizations with interactivity using HTML, SVG, and CSS. Unlike traditional tools (Power BI or Tableau), D3.js is flexible and allows developers to bind data to DOM elements and create custom visualizations. This flexibility makes it ideal for creating interactive dashboards, animations, and dynamic charts (features that are often limited in pre-built visualization tools). However, D3.js has a steep learning curve due to its coding requirements, which can be difficult for beginners or non-programmers (Javinpaul, 2021). However, its strength lies in its ability to craft unique visuals, such as animated transitions and highly responsive user interfaces / user experience, suitable for advanced data storytelling and visual analytics. Three.js is another great library for 3D graphics for rendering detailed and immersive data visualizations that are not easily achievable with D3.js.
