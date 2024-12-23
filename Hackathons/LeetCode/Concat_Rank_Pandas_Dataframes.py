@@ -1,4 +1,5 @@
-# Python Code
+# Find people who have the most friends and the count of their friends 
+
 def find_most_friends(request_accepted):
     friend_count = {}
     for row in request_accepted:
