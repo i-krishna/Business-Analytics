@@ -30,6 +30,8 @@ Devopedia. (2022). Exploratory Data Analysis. https://devopedia.org/exploratory-
 
 Halton, C. (2024). Predictive analytics: Definition, model types, and uses. Investopedia. https://www.investopedia.com/terms/p/predictive-analytics.asp
 
+International Institute of Business Analysis. (2015). A guide to the business analysis body of knowledge (BABOK guide) (Version 3.0). Toronto, ON: International Institute of Business Analysis.
+
 Ponnambalam, K. (2024). Business analytics: Descriptive, exploratory, and explanatory techniques. LinkedIn Learning. https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics
 
 Sato, M. (2024). CrowdStrike and Microsoft: All the latest news on the global IT outage. The Verge. https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking
