@@ -17,7 +17,8 @@ Javinpaul. (2021). 8 best data visualization tools and libraries to learn in 202
 
 Stauber, M. (n.d.). Histography.io. https://histography.io/
 
-# Spatial Data Science by Krishna Damarla
+# Spatial Data Science 
+by Krishna Damarla, Spring Term 2 of 2024
 
 The below map is a graphical representation of the London underground transport system (commonly known as the Tube). To explain it to a transportation manager with no technical background on spatial data analysis (Rey, et al., 2020), I will use the following points: 
 
