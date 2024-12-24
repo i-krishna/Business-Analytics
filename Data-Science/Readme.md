@@ -20,32 +20,6 @@ StoryWorks. (2024). E80 - The Wisdom of Crowds. YouTube. https://www.youtube.com
 
 Smarter Together. (2023). Crowd Forecasting: how Johns Hopkins harnessed the wisdom of crowds to predict infectious disease. YouTube. https://www.youtube.com/watch?v=z-V-lPzBVA4 
 
-# Spatial Data Science by Krishna Damarla
-
-The below map is a graphical representation of the London underground transport system (commonly known as the Tube). To explain it to a transportation manager with no technical background on spatial data analysis (Rey, et al., 2020), I will use the following points: 
-
-1. Zone Information (Transport for London, 2024): The map divides London city into 9 zones (see numbers at top of the map: 1 to 9), helping travelers understand transportation costs and travel distances from point A to point B. For instance, price from Zone 1 to Zone 2 my cost less (say £5), while price may increase to £25 for travelling from Zone 1 to 9, as these zones are located at opposite ends.
-
-2. Color-Coding: Each line on the map is represented by a unique color, making it easier for passengers to distinguish different lines. For example, the Bakerloo Line is brown, the Central Line is red, the Jubilee Line by silver, etc.,
-
-3. Transfers: Stations wherein passengers can transfer between different lines are marked with white circles, highlighting them on the map for easy transfer from one line to another.
-
-4. Landmarks: The map additionally consists of important landmarks, like stations with connections to other transportation modes, along with country wide rail offerings and airports (see entire list of symbols utilized at the bottom left of the map).
-
-The 2D map of a city transportation may seem complex at first. However with a background in data science and design, I aim to go beyond conventional mapping techniques. By integrating principles of spatial data analysis into interactive digital maps combined with computer graphics, AR (Augmented Reality), and parallel reality, I create personalized travel experiences for passengers selected routes. Major airlines (Delta Air Lines, 2022) already have such projects in place, enhancing their passengers journey experience as they travel from Gate A to Gate Z within airport area. Such projects can provide foundations for wider use in creating digital neighborhoods and entire digital cities (Anselin,  2020).
-
-![image](https://github.com/i-krishna/Business-Analytics/assets/114757733/93ad3b40-3c67-489c-8814-786e4b607715)
-
-References
-
-Anselin, L. (2020). Week 1a: What is spatial analysis? (Introduction to Spatial Data Science). University of Chicago. Retrieved from https://www.youtube.com/watch?v=JwHxJsesG2Y&t=2s 
-
-Delta Air Lines. (2022). The PARALLEL REALITY™ experience. Delta News Hub. https://news.delta.com/mediakit/parallel-realitytm-experience https://news.delta.com/mediakit/parallel-realitytm-experience 
-
-Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data Scientists. Retrieved from https://geographicdata.science/book/notebooks/01_geo_thinking.html
-
-Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/track/tube
-
 # Choosing Effective Data Visualizations for Analysis
 
 In the article from Atlassian (Yi & Restori, n.d.), the authors discuss different visualizations suited for various data analysis tasks. My favorite ones are the line chart and the scatter plot, as both provide clear insights based on the task at hand.
