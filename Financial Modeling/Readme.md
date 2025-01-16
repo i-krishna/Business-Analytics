@@ -10,6 +10,9 @@ In conclusion, this course is a steppingstone to a career in finance and audit i
 References
 
 Macabacus. (2024). Financial modeling power tools. YouTube.  https://www.youtube.com/watch?v=GnKZa-w5p98
+
 Bigel, K. S. (2022). Chapter 1: Introduction. Introduction to financial analysis. Open Touro. https://pressbooks.pub/introductiontofinancialanalysis/
+
 Vipond, T. (n.d.). Financial modeling guidelines: A free, comprehensive best practices guide to advance your financial modeling skills. Corporate Finance Institute. https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/
+
 National Information Management and Support System. (n.d.). Behavioral economics and financial decision-making and information management across the lifespan. https://nimss.org/projects/view/mrp/outline/15376
