@@ -11,7 +11,7 @@ By implementing this strategy, Baker Tilly can accelerate the transition to AI-p
 
 Figure 1
 
-Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
+Influence chart of Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
 
 ![Influence chart](/Financial%20Modeling/Influence%20chart.png)
 
@@ -79,6 +79,7 @@ SupplyChain247. (2023). Is Apple’s supply chain really the No. 1 ? A case stud
 # Paycom Financial Model Accuracy
 by Krishna Damarla - Wednesday, January 22, 2025, 8:13 PM
 
+Infographic 
 ![Infograph](/Financial%20Modeling/Paycom%20Financial%20Model%20Accuracy.svg)
 
 # Aspirations and Skill Development
