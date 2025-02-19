@@ -37,37 +37,8 @@ Figure 1
 
 Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
 
-Baker Tilly is a global financial and advisory firm that provides services in auditing, taxation, and consulting (Baker Tilly International, n.d.). The company is grappling with the difficult challenge of deploying advanced AI solutions across all departments. It recognizes the significant benefits of AI, such as operational efficiency, improved data analysis, and enhanced customer experience.
-
-However, they face challenges with AI implementation in areas such as employees' resistance to adapting to new technology, the need for extensive training, data integration issues, and high costs. Further, ensuring that all employees are adequately trained to use these AI tools effectively is a daunting task. Integrating new AI systems with existing data and software adds another layer of complexity. Additionally, the high initial investment and ongoing maintenance costs that AI technology requires are also significant concerns (Baker Tilly US, n.d.).
-
-A robust strategy is needed to address these concerns while adopting AI solutions company-wide. An organizational change management strategy to be adapted with a training team continuously communicating the benefits and importance of adopting AI solutions to employees through webinars and hands-on workshops. This will help them gain awareness and become familiar with new AI tools.  To solve the data integration issues, the ideal strategy would be to implement a phased integration approach starting with one department and gradually scaling to others. This will allow the company to identify and resolve issues early. A detailed cost-benefit analysis will ensure how AI investments will pay off in terms of improved performance and overall customer satisfaction.
-
-By implementing this strategy, Baker Tilly can accelerate the transition to AI-powered processes and improve its operations and data integration pipeline. I created an influence chart as shown in Figure 1 to visually illustrate the problem and solution (Lucid Software, 2018).
-
-Figure 1
-
-Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
-
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/02a7f9a5-f931-4b2d-84b9-aac338b314b3" />
 
-
-References
-
-
-Baker Tilly International. (n.d.). Wikipedia. https://en.wikipedia.org/wiki/Baker_Tilly_International
-
-Baker Tilly US, LLP. (n.d.). Embracing AI in internal audit. https://www.bakertilly.com/insights/embracing-ai-in-internal-audit
-
-Lucid Software. (2018). How to make a concept map. YouTube. https://www.youtube.com/watch?v=8XGQGhli0I0
-
-Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-map
-
-Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
-
-
-
-
 References
 
 Baker Tilly International. (n.d.). Wikipedia. https://en.wikipedia.org/wiki/Baker_Tilly_International
@@ -80,8 +51,31 @@ Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-
 
 Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
 
+# Professional Gold Association Tour_Digital Transformation Strategy 
+
+[PGA Financial Model_Project Feasibility](/Financial%20Modeling/PGA%20Summary.mp4)
+
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/5bd30a4f-afa5-4d9b-9b4f-52ccdf85f997" />
+
+# Apple’s Supply Chain Analysis
+by Krishna Damarla - Wednesday, January 15, 2025, 7:42 PM
+
+Apple's reliance on third-party delivery partners for shipping, repairs, and returns is causing inefficiencies, delays, customer dissatisfaction, and financial losses in its supply chain. For high revenue-generating products like MacBook and iPhone, this can result in losing valuable customers' trust and lead to costly replacements. This highlights gaps that jeopardize Apple's commitment to excellence and quality (SupplyChain247, 2023).
+
+To solve this problem, I propose the attached Excel spreadsheet model divided into four vertically aligned sections (Corporate Finance Institute, 2018). The first section, Revenue Analysis, lists products and revenue data for 2022-2023, highlighting key growth drivers. The second section, Supply Chain Performance Analysis, identifies potential bottlenecks by evaluating delivery times, repair times, and customer complaints. The third section, Cost of Delays Analysis, covers the financial impact, including lost revenue & customers. The fourth section, Delivery Partners Analysis, recommends logistics partners, and delivery improvements.
+
+The outcome of this approach is to evaluate key supply chain performance metrics for Apple's top revenue-generating products and to identify supply chain inefficiencies. Insights from this data-driven analysis guide strategic supply chain improvements, including advanced dynamic routing, predictive delivery algorithms, and improved collaboration with reliable logistics providers like DHL Express and FedEx. Further, integrating tracking technologies like AirTags, will increase accountability and mitigate risks for high-value products during transit. Implementing these strategies will improve customer satisfaction and efficiency, reduce costs, and strengthen Apple's logistics operations (Apple, n.d.).
+
+<img width="1063" alt="image" src="https://github.com/user-attachments/assets/f5fd7c34-bdb9-428c-b866-3ee68e7df9df" />
 
 
+References
+
+Apple. (n.d.). Investor relations. https://investor.apple.com/investor-relations/default.aspx
+
+Corporate Finance Institute. (2018). 3 statement model. YouTube. https://www.youtube.com/watch?v=usasgnZxYto
+
+SupplyChain247. (2023). Is Apple’s supply chain really the No. 1 ? A case study. https://www.supplychain247.com/article/is_apples_supply_chain_really_the_no._1_a_case_study
 
 # Aspirations and Skill Development
 by Krishna Damarla - Wednesday, January 8, 2025, 8:40 PM
