@@ -13,7 +13,7 @@ Figure 1
 
 Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
 
-[<img width="1127" alt="image" src="https://github.com/user-attachments/assets/02a7f9a5-f931-4b2d-84b9-aac338b314b3" />](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Influence%20chart.png)
+![Influence chart](/Financial%20Modeling/Influence%20chart.png)
 
 References
 
