@@ -22,6 +22,8 @@ Gartner. (2023). Cloud computing cost optimization strategies. https://www.gartn
 
 Principles of Accounting. (n.d.). Budgeting and Decision Making. https://www.principlesofaccounting.com/budgeting-decision-making/
 
+# Overcoming AI Implementation Challenges at Baker Tilly
+by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
 
 Baker Tilly is a global financial and advisory firm that provides services in auditing, taxation, and consulting (Baker Tilly International, n.d.). The company is grappling with the difficult challenge of deploying advanced AI solutions across all departments. It recognizes the significant benefits of AI, such as operational efficiency, improved data analysis, and enhanced customer experience.
 
