@@ -3,7 +3,8 @@ by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
 [PGA Financial Model_Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx)
 
-<img width="1078" alt="image" src="https://github.com/user-attachments/assets/5bd30a4f-afa5-4d9b-9b4f-52ccdf85f997" />
+<img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
+
 
 # Overcoming AI Implementation Challenges at Baker Tilly
 by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
