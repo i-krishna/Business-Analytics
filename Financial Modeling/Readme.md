@@ -1,27 +1,3 @@
-
-# Optimizing Budget Allocation
-by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
-
-One of the biggest challenges faced by technology consulting companies today, especially in the data services field, is optimizing budget allocations to data infrastructure while maintaining financial sustainability. This includes balancing operational costs, software and hardware licenses, cloud storage, and labor costs (Brigham & Houston, 2021). As customer demands increase, companies must strategically allocate budgets to key areas such as cloud computing costs (AWS, Azure, Google Cloud, IBM), software subscriptions (BI tools, AI / ML platforms), and labor costs (data engineers and analysts). Effective cloud cost management is critical for companies relying on large-scale data analytics and infrastructure, as cloud spending can rapidly escalate without proper budgeting. 
-
-To solve this problem, I designed a [financial budgeting model in Excel](/Financial%20Modeling/Financial_Budgeting_Model.xlsx) that integrates key budgeting components using a three-statement financial model (Schmidt, n.d.). The income statement estimates revenue from customer projects and calculates net income after deducting cloud computing expenses, software/hardware licenses, and employee salaries. The balance sheet tracks assets such as prepaid software expenses and liabilities (infrastructure costs). The cash flow statement evaluates how investment in cloud infrastructure affects liquidity and ensures financial stability (Damodaran, 2012). 
-
-The model also includes detailed budgeting components to provide a comprehensive overview of financial planning (Principles of Accounting, n.d.). The sales budget forecasts revenue from customer contracts based on historical trends, while the production budget estimates data storage and processing needs for future projects. Direct materials and direct labor budget allocate funds for AI tools, data engineering teams, and infrastructure. The manufacturing overhead budget covers operational costs like IT support and security. The selling and administrative budget covers marketing and administrative overhead. The cash budget ensures liquidity to support ongoing operations and maintain financial flexibility.
-
-The financial budgeting spreadsheet model presents the above discussed components in separate worksheets, providing a data-driven approach to managing cloud infrastructure costs. Leveraging financial modeling, leadership can make informed decisions about technology investments and workforce, avoiding unnecessary expenditures. Implementing this spreadsheet model can optimize budget allocation, ensuring financial sustainability while supporting the company's scalability in cloud-based services (Gartner, 2023). 
-
-References
-
-Brigham, E. F., & Houston, J. F. (2021). Fundamentals of financial management (16th ed.). Cengage Learning. 
-
-Schmidt, J. (n.d.). Building a Three-Statement Model. Corporate Finance Institute. https://corporatefinanceinstitute.com/resources/financial-modeling/3-statement-model
-
-Damodaran, A. (2012). Investment valuation: Tools and techniques for determining the value of any asset (3rd ed.). Wiley. 
-
-Gartner. (2023). Cloud computing cost optimization strategies. https://www.gartner.com
-
-Principles of Accounting. (n.d.). Budgeting and Decision Making. https://www.principlesofaccounting.com/budgeting-decision-making/
-
 # Overcoming AI Implementation Challenges at Baker Tilly
 by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
 
@@ -51,11 +27,36 @@ Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-
 
 Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
 
-# Professional Gold Association Tour_Digital Transformation Strategy 
+# Professional Gold Association Tour Digital Transformation Strategy
+by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
 [PGA Financial Model_Project Feasibility](/Financial%20Modeling/PGA%20Summary.mp4)
 
 <img width="1078" alt="image" src="https://github.com/user-attachments/assets/5bd30a4f-afa5-4d9b-9b4f-52ccdf85f997" />
+
+# Optimizing Budget Allocation
+by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
+
+One of the biggest challenges faced by technology consulting companies today, especially in the data services field, is optimizing budget allocations to data infrastructure while maintaining financial sustainability. This includes balancing operational costs, software and hardware licenses, cloud storage, and labor costs (Brigham & Houston, 2021). As customer demands increase, companies must strategically allocate budgets to key areas such as cloud computing costs (AWS, Azure, Google Cloud, IBM), software subscriptions (BI tools, AI / ML platforms), and labor costs (data engineers and analysts). Effective cloud cost management is critical for companies relying on large-scale data analytics and infrastructure, as cloud spending can rapidly escalate without proper budgeting. 
+
+To solve this problem, I designed a [financial budgeting model in Excel](/Financial%20Modeling/Financial_Budgeting_Model.xlsx) that integrates key budgeting components using a three-statement financial model (Schmidt, n.d.). The income statement estimates revenue from customer projects and calculates net income after deducting cloud computing expenses, software/hardware licenses, and employee salaries. The balance sheet tracks assets such as prepaid software expenses and liabilities (infrastructure costs). The cash flow statement evaluates how investment in cloud infrastructure affects liquidity and ensures financial stability (Damodaran, 2012). 
+
+The model also includes detailed budgeting components to provide a comprehensive overview of financial planning (Principles of Accounting, n.d.). The sales budget forecasts revenue from customer contracts based on historical trends, while the production budget estimates data storage and processing needs for future projects. Direct materials and direct labor budget allocate funds for AI tools, data engineering teams, and infrastructure. The manufacturing overhead budget covers operational costs like IT support and security. The selling and administrative budget covers marketing and administrative overhead. The cash budget ensures liquidity to support ongoing operations and maintain financial flexibility.
+
+The financial budgeting spreadsheet model presents the above discussed components in separate worksheets, providing a data-driven approach to managing cloud infrastructure costs. Leveraging financial modeling, leadership can make informed decisions about technology investments and workforce, avoiding unnecessary expenditures. Implementing this spreadsheet model can optimize budget allocation, ensuring financial sustainability while supporting the company's scalability in cloud-based services (Gartner, 2023). 
+
+References
+
+Brigham, E. F., & Houston, J. F. (2021). Fundamentals of financial management (16th ed.). Cengage Learning. 
+
+Schmidt, J. (n.d.). Building a Three-Statement Model. Corporate Finance Institute. https://corporatefinanceinstitute.com/resources/financial-modeling/3-statement-model
+
+Damodaran, A. (2012). Investment valuation: Tools and techniques for determining the value of any asset (3rd ed.). Wiley. 
+
+Gartner. (2023). Cloud computing cost optimization strategies. https://www.gartner.com
+
+Principles of Accounting. (n.d.). Budgeting and Decision Making. https://www.principlesofaccounting.com/budgeting-decision-making/
+
 
 # Apple’s Supply Chain Analysis
 by Krishna Damarla - Wednesday, January 15, 2025, 7:42 PM
@@ -67,7 +68,6 @@ To solve this problem, I propose the attached Excel spreadsheet model divided in
 The outcome of this approach is to evaluate key supply chain performance metrics for Apple's top revenue-generating products and to identify supply chain inefficiencies. Insights from this data-driven analysis guide strategic supply chain improvements, including advanced dynamic routing, predictive delivery algorithms, and improved collaboration with reliable logistics providers like DHL Express and FedEx. Further, integrating tracking technologies like AirTags, will increase accountability and mitigate risks for high-value products during transit. Implementing these strategies will improve customer satisfaction and efficiency, reduce costs, and strengthen Apple's logistics operations (Apple, n.d.).
 
 <img width="1063" alt="image" src="https://github.com/user-attachments/assets/f5fd7c34-bdb9-428c-b866-3ee68e7df9df" />
-
 
 References
 
