@@ -1,3 +1,10 @@
+# Professional Gold Association Tour Digital Transformation Strategy
+by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
+
+[PGA Financial Model_Project Feasibility](/Financial%20Modeling/PGA%20Summary.mp4)
+
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/5bd30a4f-afa5-4d9b-9b4f-52ccdf85f997" />
+
 # Overcoming AI Implementation Challenges at Baker Tilly
 by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
 
@@ -26,13 +33,6 @@ Lucid Software. (2018). How to make a concept map. YouTube. https://www.youtube.
 Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-map
 
 Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
-
-# Professional Gold Association Tour Digital Transformation Strategy
-by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
-
-[PGA Financial Model_Project Feasibility](/Financial%20Modeling/PGA%20Summary.mp4)
-
-<img width="1078" alt="image" src="https://github.com/user-attachments/assets/5bd30a4f-afa5-4d9b-9b4f-52ccdf85f997" />
 
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
