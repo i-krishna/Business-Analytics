@@ -1,4 +1,4 @@
-# Professional Gold Association Tour Digital Transformation Strategy
+# Professional Golf Association Tour Digital Transformation Strategy
 by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
 [PGA Financial Model_Project Feasibility](/Financial%20Modeling/PGA%20Summary.mp4)
