@@ -78,6 +78,12 @@ Corporate Finance Institute. (2018). 3 statement model. YouTube. https://www.you
 
 SupplyChain247. (2023). Is Apple’s supply chain really the No. 1 ? A case study. https://www.supplychain247.com/article/is_apples_supply_chain_really_the_no._1_a_case_study
 
+# Paycom Financial Model Accuracy
+by Krishna Damarla - Wednesday, January 22, 2025, 8:13 PM
+
+https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Paycom%20Financial%20Model%20Accuracy.svg
+
+
 # Aspirations and Skill Development
 by Krishna Damarla - Wednesday, January 8, 2025, 8:40 PM
 
