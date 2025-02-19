@@ -3,7 +3,7 @@ by Krishna Damarla
 
 1. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
 
-2. [McDonals Financial analysis Model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
+2. [McDonalds Financial analysis Model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
 3. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
 
