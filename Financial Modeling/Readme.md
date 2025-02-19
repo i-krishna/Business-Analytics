@@ -80,6 +80,7 @@ SupplyChain247. (2023). Is Apple’s supply chain really the No. 1 ? A case stud
 by Krishna Damarla - Wednesday, January 22, 2025, 8:13 PM
 
 Infographic 
+
 ![Infograph](/Financial%20Modeling/Paycom%20Financial%20Model%20Accuracy.svg)
 
 # Aspirations and Skill Development
