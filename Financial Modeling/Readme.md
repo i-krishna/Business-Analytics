@@ -1,7 +1,7 @@
 # Professional Golf Association Tour Digital Transformation Strategy
 by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
-[PGA Financial Model_Project Feasibility](/Financial%20Modeling/PGA%20Summary.mp4)
+[PGA Financial Model_Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx)
 
 <img width="1078" alt="image" src="https://github.com/user-attachments/assets/5bd30a4f-afa5-4d9b-9b4f-52ccdf85f997" />
 
