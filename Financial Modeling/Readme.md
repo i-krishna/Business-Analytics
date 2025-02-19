@@ -1,11 +1,3 @@
-# Professional Golf Association Tour Digital Transformation Strategy
-by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
-
-[PGA Financial Model_Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx)
-
-<img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
-
-
 # Overcoming AI Implementation Challenges at Baker Tilly
 by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
 
@@ -58,6 +50,12 @@ Gartner. (2023). Cloud computing cost optimization strategies. https://www.gartn
 
 Principles of Accounting. (n.d.). Budgeting and Decision Making. https://www.principlesofaccounting.com/budgeting-decision-making/
 
+# Professional Golf Association Tour Digital Transformation Strategy
+by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
+
+[PGA Financial Model_Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx)
+
+<img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
 # Apple’s Supply Chain Analysis
 by Krishna Damarla - Wednesday, January 15, 2025, 7:42 PM
