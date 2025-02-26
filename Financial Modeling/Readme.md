@@ -62,7 +62,7 @@ Principles of Accounting. (n.d.). Budgeting and Decision Making. https://www.pri
 # Professional Golf Association Tour Digital Transformation Strategy
 by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
-[PGA Financial Model_Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx)
+[PGA Financial Model_Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & [Summary](/Financial%20Modeling/PGA%20Summary.mp4) 
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
