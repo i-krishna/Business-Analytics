@@ -66,6 +66,9 @@ by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
+<img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
+
+
 # Apple’s Supply Chain Analysis
 by Krishna Damarla - Wednesday, January 15, 2025, 7:42 PM
 
