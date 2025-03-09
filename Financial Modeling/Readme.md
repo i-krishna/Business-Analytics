@@ -5,7 +5,7 @@ by Krishna Damarla
 
 2. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
 
-3. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
+3. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
 
 # Overcoming AI Implementation Challenges at Baker Tilly
 by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
