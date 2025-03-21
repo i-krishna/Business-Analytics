@@ -1,4 +1,4 @@
-# Enhancing Performance Evaluation for Talent Retention
+# Enhancing Performance Evaluation for Talent Retention (HR Analytics)
 by Krishna Damarla - Wednesday, February 19, 2025, 9:18 PM
 
 Organizations today lack transparency in the employee performance assessment systems, leading to employees feeling undervalued, and de-motivated, resulting in higher employee turnover. Career stagnation, bias, and a lack of inclusion are other factors further making top performers quit. Without a clear and measurable approach, it is difficult for employees to recognize how their efforts will contribute to the growth of their careers and the success of the company (Cappelli & Tavis, 2016).
