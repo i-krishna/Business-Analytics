@@ -30,7 +30,7 @@ LinkedIn. (2025). Workplace learning report 2025: The rise of career champions. 
 
 Lucidchart. (n.d.). How to make a concept map. https://www.lucidchart.com/blog/how-to-make-a-concept-map
 
-Start-Tech Academy. (2025). Master HR people analytics: Explore key HR metrics and predictive tools for effective people analytics strategies. Udemy. https://www.udemy.com/course/people-analytics-hr/?srsltid=AfmBOorB-0Set7XXvGfOk06aqrdbsOX9wDbh4UeKimyv_flZQZokulZ0&couponCode=ST11MT170325G3 
+Start-Tech Academy. (2025). Master HR people analytics: Explore key HR metrics and predictive tools for effective people analytics strategies. Udemy. https://www.udemy.com/course/people-analytics-hr/
 
 # Google’s Data-Driven People Management
 by Krishna Damarla - Wednesday, October 30, 2024, 8:47 PM
