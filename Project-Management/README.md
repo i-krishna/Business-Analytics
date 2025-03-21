@@ -32,6 +32,8 @@ Lucidchart. (n.d.). How to make a concept map. https://www.lucidchart.com/blog/h
 
 Start-Tech Academy. (2025). Master HR people analytics: Explore key HR metrics and predictive tools for effective people analytics strategies. Udemy. https://www.udemy.com/course/people-analytics-hr/
 
+https://www.hrci.org/certifications/exam-preparation-resources/hrbok---a-guide-to-the-human-resource-body-of-knowledge 
+
 # Google’s Data-Driven People Management
 by Krishna Damarla - Wednesday, October 30, 2024, 8:47 PM
 
