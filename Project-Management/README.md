@@ -22,7 +22,7 @@ References
 
 Cappelli, P., & Tavis, A. (2016). The performance management revolution. Harvard Business Review. https://hbr.org/2016/10/the-performance-management-revolution
 
-Dumitrascu, S. (2025). Compensation and Benefits Responsibilities (HRCI-PHR/SPHR). In The Human Resources Certification Program (HRCI - PHR/SPHR) (Course 15 of 20). Udemy. 
+Dumitrascu, S. (2025). Compensation and Benefits Responsibilities (HRCI-PHR/SPHR). In The Human Resources Certification Program (HRCI - PHR/SPHR) (Course 15 of 20). Udemy. https://www.udemy.com/course/compensation-and-benefits-responsibilities-hrci-phrsphr/
 
 IBM. (2023). Reimagine human potential in the generative AI era. Institute for Business Value. https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/human-potential-genai
 
@@ -30,7 +30,7 @@ LinkedIn. (2025). Workplace learning report 2025: The rise of career champions. 
 
 Lucidchart. (n.d.). How to make a concept map. https://www.lucidchart.com/blog/how-to-make-a-concept-map
 
-Start-Tech Academy. (2025). Master HR people analytics: Explore key HR metrics and predictive tools for effective people analytics strategies. Udemy. 
+Start-Tech Academy. (2025). Master HR people analytics: Explore key HR metrics and predictive tools for effective people analytics strategies. Udemy. https://www.udemy.com/course/people-analytics-hr/?srsltid=AfmBOorB-0Set7XXvGfOk06aqrdbsOX9wDbh4UeKimyv_flZQZokulZ0&couponCode=ST11MT170325G3 
 
 # Google’s Data-Driven People Management
 by Krishna Damarla - Wednesday, October 30, 2024, 8:47 PM
