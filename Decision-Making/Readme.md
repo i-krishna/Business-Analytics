@@ -50,6 +50,10 @@ Ulster University. (n.d.). Cognitive Analytics Research. https://www.ulster.ac.u
 
 https://public.tableau.com/app/profile/krishna.damarla/viz/COVID19ImpactStoryboard/COVID19Impact?publish=yes 
 
+(or)
+
+[Report](https://github.com/i-krishna/Business-Analytics/blob/main/Decision-Making/Tableau%20Storyboard%20COVID%2019%20Impact.pdf)
+
 # From Data to Decisions: Harnessing Tableau for Strategic Business Insights by Krishna Damarla
 
 ## Tableau's Decision Support
