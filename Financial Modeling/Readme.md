@@ -10,35 +10,6 @@ by Krishna Damarla
 # Financial Instruments & Markets
 <img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
 
-# Overcoming AI Implementation Challenges at Baker Tilly
-by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
-
-Baker Tilly is a global financial and advisory firm that provides services in auditing, taxation, and consulting (Baker Tilly International, n.d.). The company is grappling with the difficult challenge of deploying advanced AI solutions across all departments. It recognizes the significant benefits of AI, such as operational efficiency, improved data analysis, and enhanced customer experience.
-
-However, they face challenges with AI implementation in areas such as employees' resistance to adapting to new technology, the need for extensive training, data integration issues, and high costs. Further, ensuring that all employees are adequately trained to use these AI tools effectively is a daunting task. Integrating new AI systems with existing data and software adds another layer of complexity. Additionally, the high initial investment and ongoing maintenance costs that AI technology requires are also significant concerns (Baker Tilly US, n.d.).
-
-A robust strategy is needed to address these concerns while adopting AI solutions company-wide. An organizational change management strategy to be adapted with a training team continuously communicating the benefits and importance of adopting AI solutions to employees through webinars and hands-on workshops. This will help them gain awareness and become familiar with new AI tools.  To solve the data integration issues, the ideal strategy would be to implement a phased integration approach starting with one department and gradually scaling to others. This will allow the company to identify and resolve issues early. A detailed cost-benefit analysis will ensure how AI investments will pay off in terms of improved performance and overall customer satisfaction.
-
-By implementing this strategy, Baker Tilly can accelerate the transition to AI-powered processes and improve its operations and data integration pipeline. I created an influence chart as shown in Figure 1 to visually illustrate the problem and solution (Lucid Software, 2018).
-
-Figure 1
-
-Influence chart of Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
-
-![Influence chart](/Financial%20Modeling/Influence%20chart.png)
-
-References
-
-Baker Tilly International. (n.d.). Wikipedia. https://en.wikipedia.org/wiki/Baker_Tilly_International
-
-Baker Tilly US, LLP. (n.d.). Embracing AI in internal audit. https://www.bakertilly.com/insights/embracing-ai-in-internal-audit
-
-Lucid Software. (2018). How to make a concept map. YouTube. https://www.youtube.com/watch?v=8XGQGhli0I0
-
-Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-map
-
-Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
-
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
 
@@ -71,6 +42,34 @@ by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
 
 <img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
 
+# Overcoming AI Implementation Challenges at Baker Tilly
+by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
+
+Baker Tilly is a global financial and advisory firm that provides services in auditing, taxation, and consulting (Baker Tilly International, n.d.). The company is grappling with the difficult challenge of deploying advanced AI solutions across all departments. It recognizes the significant benefits of AI, such as operational efficiency, improved data analysis, and enhanced customer experience.
+
+However, they face challenges with AI implementation in areas such as employees' resistance to adapting to new technology, the need for extensive training, data integration issues, and high costs. Further, ensuring that all employees are adequately trained to use these AI tools effectively is a daunting task. Integrating new AI systems with existing data and software adds another layer of complexity. Additionally, the high initial investment and ongoing maintenance costs that AI technology requires are also significant concerns (Baker Tilly US, n.d.).
+
+A robust strategy is needed to address these concerns while adopting AI solutions company-wide. An organizational change management strategy to be adapted with a training team continuously communicating the benefits and importance of adopting AI solutions to employees through webinars and hands-on workshops. This will help them gain awareness and become familiar with new AI tools.  To solve the data integration issues, the ideal strategy would be to implement a phased integration approach starting with one department and gradually scaling to others. This will allow the company to identify and resolve issues early. A detailed cost-benefit analysis will ensure how AI investments will pay off in terms of improved performance and overall customer satisfaction.
+
+By implementing this strategy, Baker Tilly can accelerate the transition to AI-powered processes and improve its operations and data integration pipeline. I created an influence chart as shown in Figure 1 to visually illustrate the problem and solution (Lucid Software, 2018).
+
+Figure 1
+
+Influence chart of Baker Tilly’s Strategy for Overcoming AI Implementation Challenges
+
+![Influence chart](/Financial%20Modeling/Influence%20chart.png)
+
+References
+
+Baker Tilly International. (n.d.). Wikipedia. https://en.wikipedia.org/wiki/Baker_Tilly_International
+
+Baker Tilly US, LLP. (n.d.). Embracing AI in internal audit. https://www.bakertilly.com/insights/embracing-ai-in-internal-audit
+
+Lucid Software. (2018). How to make a concept map. YouTube. https://www.youtube.com/watch?v=8XGQGhli0I0
+
+Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-map
+
+Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
 
 # Apple’s Supply Chain Analysis
 by Krishna Damarla - Wednesday, January 15, 2025, 7:42 PM
