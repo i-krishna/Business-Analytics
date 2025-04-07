@@ -14,6 +14,39 @@ by Krishna Damarla
 # Financial Instruments & Markets
 <img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
 
+# Interest Rates & Their Impacts 
+by Krishna Damarla - Wednesday, April 2, 2025, 5:18 PM
+
+Interest rates are the price of borrowing or saving money. When I take a loan for a car, home, or business, the lender charges me extra money for using their funds. This additional cost is the interest. Similarly, the bank pays me interest if I save money in a bank account and let them use it (Higgins, 2023). For example, Simple Interest (SI) per year on a $10,000 car loan with a 5% annual interest rate for 5 years would be Loan Amount x Interest rate = $500. This means I pay $500 extra each year for borrowing the money (Banton, 2025). For 5 years, my simple interest would be Loan Amount x Interest rate x Time = $2500. In the real world, no bank lends money at simple interest. They give only at compound interest and the total interest paid for 5 years in this way is Principal×[(1+Interest rate)^Time-1)]) = $2762.81. Compound Interest per year is calculated as the Previous Year Balance × (1+Interest Rate). Below is an example of how compound interest works. 
+
+Year 1: 10,000 + 500 = $10,500
+
+Year 2: 10,500 + 525 = $11,025
+
+Year 3: 11,025 + 551.25 = $11,576.25
+
+Year 4: 11,576.25 + 578.81= $12,155.06
+
+Year 5: 12,155.06 +  607.75 = $12,762.81
+
+For businesses, high interest rates reduce profits if they apply for loans to run a business. Lower rates can encourage businesses to expand by hiring more staff. For individuals, higher interest rates make mortgages, and car loans more expensive to afford and higher interest rates on saving mean better returns but the value of money is subjected to inflation in future (Aasoka, 2019).
+
+Several factors influence interest rates such as inflation, economic situation, and recessions. A country's central bank sets the rate. It’s interesting to note that countries which spend much on luxuries are not the ones with strong and stable economies. For example, some countries rely more heavily on public transport than individual cars and banks also use less or 0 interest rates for basic needs like education to balance the economy or to stabilize the gap between rich and poor. Setting correct interest rates both at the federal level and for public use can make a country’s economy grow stronger or weaker. Interest rates balance the economy, reward savers and penalize overspenders. They also influence job creation, housing markets, and everyday purchases (Killian, 2022).
+
+References
+
+Aasoka. (2019). Financial management | Business studies | Class 12. YouTube https://www.youtube.com/watch?v=6cf2UviyVPE&ab_channel=Aasoka 
+
+Banton, C. (2025). Interest rates: Types and what they mean to borrowers. Investopedia. https://www.investopedia.com/terms/i/interestrate.asp
+
+Higgins, R. C. (2023). Analysis for financial management (13th ed.). McGraw-Hill Education. https://www.mheducation.com/highered/product/Analysis-for-Financial-Management-Higgins.html
+
+Killian, A. (2022). How do higher interest rates affect the economy? https://www.ig.com/en/trading-strategies/what-are-the-effects-of-rising-interest-rates--221223
+
+
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
+
+
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
 
@@ -100,38 +133,6 @@ by Krishna Damarla - Wednesday, January 22, 2025, 8:13 PM
 Infographic 
 
 ![Infograph](/Financial%20Modeling/Paycom%20Financial%20Model%20Accuracy.svg)
-
-# Interest Rates & Their Impacts 
-by Krishna Damarla - Wednesday, April 2, 2025, 5:18 PM
-
-Interest rates are the price of borrowing or saving money. When I take a loan for a car, home, or business, the lender charges me extra money for using their funds. This additional cost is the interest. Similarly, the bank pays me interest if I save money in a bank account and let them use it (Higgins, 2023). For example, Simple Interest (SI) per year on a $10,000 car loan with a 5% annual interest rate for 5 years would be Loan Amount x Interest rate = $500. This means I pay $500 extra each year for borrowing the money (Banton, 2025). For 5 years, my simple interest would be Loan Amount x Interest rate x Time = $2500. In the real world, no bank lends money at simple interest. They give only at compound interest and the total interest paid for 5 years in this way is Principal×[(1+Interest rate)^Time-1)]) = $2762.81. Compound Interest per year is calculated as the Previous Year Balance × (1+Interest Rate). Below is an example of how compound interest works. 
-
-Year 1: 10,000 + 500 = $10,500
-
-Year 2: 10,500 + 525 = $11,025
-
-Year 3: 11,025 + 551.25 = $11,576.25
-
-Year 4: 11,576.25 + 578.81= $12,155.06
-
-Year 5: 12,155.06 +  607.75 = $12,762.81
-
-For businesses, high interest rates reduce profits if they apply for loans to run a business. Lower rates can encourage businesses to expand by hiring more staff. For individuals, higher interest rates make mortgages, and car loans more expensive to afford and higher interest rates on saving mean better returns but the value of money is subjected to inflation in future (Aasoka, 2019).
-
-Several factors influence interest rates such as inflation, economic situation, and recessions. A country's central bank sets the rate. It’s interesting to note that countries which spend much on luxuries are not the ones with strong and stable economies. For example, some countries rely more heavily on public transport than individual cars and banks also use less or 0 interest rates for basic needs like education to balance the economy or to stabilize the gap between rich and poor. Setting correct interest rates both at the federal level and for public use can make a country’s economy grow stronger or weaker. Interest rates balance the economy, reward savers and penalize overspenders. They also influence job creation, housing markets, and everyday purchases (Killian, 2022).
-
-References
-
-Aasoka. (2019). Financial management | Business studies | Class 12. YouTube https://www.youtube.com/watch?v=6cf2UviyVPE&ab_channel=Aasoka 
-
-Banton, C. (2025). Interest rates: Types and what they mean to borrowers. Investopedia. https://www.investopedia.com/terms/i/interestrate.asp
-
-Higgins, R. C. (2023). Analysis for financial management (13th ed.). McGraw-Hill Education. https://www.mheducation.com/highered/product/Analysis-for-Financial-Management-Higgins.html
-
-Killian, A. (2022). How do higher interest rates affect the economy? https://www.ig.com/en/trading-strategies/what-are-the-effects-of-rising-interest-rates--221223
-
-
-<img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
 
 
 # Aspirations and Skill Development
