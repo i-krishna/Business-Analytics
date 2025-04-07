@@ -7,6 +7,10 @@ by Krishna Damarla
 
 3. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
 
+# Crypto Ponzi Global Scheme Analysis
+
+[Detailed Report] (/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+
 # Financial Instruments & Markets
 <img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
 
