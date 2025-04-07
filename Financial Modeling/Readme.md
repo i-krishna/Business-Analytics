@@ -46,6 +46,9 @@ Killian, A. (2022). How do higher interest rates affect the economy? https://www
 
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
 
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/28047147-04c9-498b-9902-dbb8e110ce1c" />
+
+
 
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
