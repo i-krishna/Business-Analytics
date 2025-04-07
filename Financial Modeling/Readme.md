@@ -9,7 +9,7 @@ by Krishna Damarla
 
 # Crypto Ponzi Global Scheme Analysis
 
-[Detailed Report] (/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+[Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
 
 # Financial Instruments & Markets
 <img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
