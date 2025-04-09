@@ -43,6 +43,10 @@ Higgins, R. C. (2023). Analysis for financial management (13th ed.). McGraw-Hill
 
 Killian, A. (2022). How do higher interest rates affect the economy? https://www.ig.com/en/trading-strategies/what-are-the-effects-of-rising-interest-rates--221223
 
+https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1822.en.pdf 
+
+https://www.federalreserve.gov/econres/notes/feds-notes/gender-related-differences-in-credit-use-and-credit-scores-20180622.html 
+
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/28047147-04c9-498b-9902-dbb8e110ce1c" />
 
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
