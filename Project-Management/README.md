@@ -86,8 +86,9 @@ Microsoft. (2023). Workplace Analytics service description. Microsoft Learn.  ht
 
 Microsoft. (n.d.). Workplace analytics and employee feedback. Microsoft Blog. https://www.microsoft.com/en-us/microsoft-viva/workplace-analytics-and-feedback
 
+# PMP Certification
 
-
+[PMP Project](Deliverable_Clean%20Beach.pdf)
 
 # Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights
 
