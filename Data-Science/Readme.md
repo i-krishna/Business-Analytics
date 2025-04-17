@@ -12,6 +12,10 @@ Let’s consider a case study of Johns Hopkins Center for Health Security, which
 
 The 2 groups mentioned above were asked to enter their answers into a central platform with questions to assess the severity of the outbreak. Sample question looked like: How many states report over 1000 infectious cases by March end. The outcomes could help governments create better policies or make more informed decisions. The results showed good forecasters are more likely to be open-minded, prone to criticism / negative views (Smarter Together, 2023). Using crowd intelligence to improve predictions go beyond policymaking to understanding operations, disaster management, global economics, and geopolitics.
 
+Note: In the example above, we focused on highly specialized experts due to the precision and domain knowledge required for healthcare-related decisions. However, broader crowds can also be included to generate more diverse and generalized insights. In fields such as finance, human resources, sales, or other people- or public-oriented domains, incorporating input from a more varied audience can lead to more accurate forecasts by averaging predictions across individuals with different backgrounds and perspectives.
+
+Just as a large and diverse training dataset improves the performance / decrease bias of a predictive model, the effectiveness of crowd intelligence often increases with the size and diversity of the crowd. A larger crowd enhances the chances of generating accurate forecasts. It’s important to note that the goal here is not to eliminate risk entirely, but to mitigate it by making more informed decisions based on aggregated forecasts.
+
 References
 
 HyperMind. (2021). The Wisdom of Crowds: The Science of Getting Smarter Together. YouTube. https://www.youtube.com/watch?v=HNQ3GccCAI0 
