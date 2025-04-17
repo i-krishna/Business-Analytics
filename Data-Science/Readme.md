@@ -14,7 +14,7 @@ The 2 groups mentioned above were asked to enter their answers into a central pl
 
 Note: In the example above, we focused on highly specialized experts due to the precision and domain knowledge required for healthcare-related decisions. However, broader crowds can also be included to generate more diverse and generalized insights. In fields such as finance, human resources, sales, or other people- or public-oriented domains, incorporating input from a more varied audience can lead to more accurate forecasts by averaging predictions across individuals with different backgrounds and perspectives.
 
-Just as a large and diverse training dataset improves the performance / decrease bias of a predictive model, the effectiveness of crowd intelligence often increases with the size and diversity of the crowd. A larger crowd enhances the chances of generating accurate forecasts. It’s important to note that the goal here is not to eliminate risk entirely, but to mitigate it by making more informed decisions based on aggregated forecasts.
+Just as a large and diverse training dataset improves the performance / decrease bias of a predictive model, the effectiveness of crowd intelligence often increases with the size and diversity of the crowd. A larger crowd enhances the chances of generating accurate forecasts. It’s important to note that the goal here is not to eliminate risk entirely, but to mitigate it based on aggregated forecasts to arrive at decisions. 
 
 References
 
