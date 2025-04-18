@@ -11,6 +11,12 @@ by Krishna Damarla
 
 [Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
 
+# Investment Risks
+
+Attached is my educational podcast on investment risk types, tools & tricks. 
+
+https://github.com/user-attachments/assets/43a88a43-8818-499b-95e9-a480e6e1afcb
+
 # Financial Instruments & Markets
 <img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
 
@@ -50,6 +56,11 @@ https://www.federalreserve.gov/econres/notes/feds-notes/gender-related-differenc
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/28047147-04c9-498b-9902-dbb8e110ce1c" />
 
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
+
+# TVM
+
+![TVM](https://github.com/user-attachments/assets/09d7c57d-2267-4cea-b62b-1dd8ff77f5d9)
+
 
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
