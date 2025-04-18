@@ -57,11 +57,6 @@ https://www.federalreserve.gov/econres/notes/feds-notes/gender-related-differenc
 
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
 
-# TVM
-
-![TVM](https://github.com/user-attachments/assets/09d7c57d-2267-4cea-b62b-1dd8ff77f5d9)
-
-
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
 
@@ -149,6 +144,9 @@ Infographic
 
 ![Infograph](/Financial%20Modeling/Paycom%20Financial%20Model%20Accuracy.svg)
 
+# TVM
+
+![TVM](https://github.com/user-attachments/assets/09d7c57d-2267-4cea-b62b-1dd8ff77f5d9)
 
 # Aspirations and Skill Development
 by Krishna Damarla - Wednesday, January 8, 2025, 8:40 PM
