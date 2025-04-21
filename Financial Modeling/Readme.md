@@ -17,6 +17,9 @@ Attached is my educational podcast on investment risk types, tools & tricks.
 
 https://github.com/user-attachments/assets/43a88a43-8818-499b-95e9-a480e6e1afcb
 
+<img width="984" alt="image" src="https://github.com/user-attachments/assets/f28bd1a9-6c65-435a-b0ab-f9108e06ed5a" />
+
+
 # Financial Instruments & Markets
 <img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
 
