@@ -58,8 +58,6 @@ https://www.federalreserve.gov/econres/notes/feds-notes/gender-related-differenc
 
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/28047147-04c9-498b-9902-dbb8e110ce1c" />
 
-<img width="913" alt="image" src="https://github.com/user-attachments/assets/2cf8816e-2173-4364-b743-1b836a4c5ae3" />
-
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
 
