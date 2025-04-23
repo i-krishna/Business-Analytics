@@ -60,6 +60,7 @@ https://www.federalreserve.gov/econres/notes/feds-notes/gender-related-differenc
 
 Re: Week 4 Discussion Forum
 by Krishna Damarla - Sunday, April 6, 2025, 11:53 PM
+
 Hi Harsha,
 
 Credit score systems does not function the same in all countries across the world. For instance, in some banking systems, interest is prohibited due to religious beliefs. I've even seen friends in countries with traditional interest-based banking choose to avoid earning interest on savings for the same reason. So, the way interest is viewed can vary widely across cultures and countries. While banks in some countries use credit scores to adjust interest rates, some banks also use them to assess risk and ensure ethical lending, but not to charge profit rates unfairly.
