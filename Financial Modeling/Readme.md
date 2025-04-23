@@ -58,6 +58,16 @@ https://www.federalreserve.gov/econres/notes/feds-notes/gender-related-differenc
 
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/28047147-04c9-498b-9902-dbb8e110ce1c" />
 
+Re: Week 4 Discussion Forum
+by Krishna Damarla - Sunday, April 6, 2025, 11:53 PM
+Hi Harsha,
+
+Credit score systems does not function the same in all countries across the world. For instance, in some banking systems, interest is prohibited due to religious beliefs. I've even seen friends in countries with traditional interest-based banking choose to avoid earning interest on savings for the same reason. So, the way interest is viewed can vary widely across cultures and countries. While banks in some countries use credit scores to adjust interest rates, some banks also use them to assess risk and ensure ethical lending, but not to charge profit rates unfairly.
+
+We’re not even talking about gender equality here. Women often face more scrutiny in the banking and credit system. Sometimes governments become generous and waive loans for people below the poverty line, which shows that while problems exist, solutions do too. Let us hope for fairer and gender equal banking systems across all parts of the world.
+
+Thank you,
+
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
 
