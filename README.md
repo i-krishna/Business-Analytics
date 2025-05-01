@@ -17,6 +17,10 @@ Javinpaul. (2021). 8 best data visualization tools and libraries to learn in 202
 
 Stauber, M. (n.d.). Histography.io. https://histography.io/
 
+https://experiments.withgoogle.com/search?q=webgl 
+
+https://radio.garden/visit/muskegon-mi/HpoZ8Ll8 
+
 # Spatial Data Science 
 by Krishna Damarla, Spring Term 2 of 2024
 
