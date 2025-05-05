@@ -1,19 +1,22 @@
+# Investment Recommendation
+
+[McDonald's vs. Starbucks](/Financial%20Modeling/McD-vs-SBUX.pdf)
+   
 # Financial Models 
-by Krishna Damarla
 
 1. [McDonalds financial analysis](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
-2. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
+3. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
 
-3. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
-
-# Business Valuation & Corporate Restructuring
-
-[How Microsoft acquired Linkedin](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
+4. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
 
 # Crypto Ponzi Global Scheme Analysis
 
 [Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+
+# Business Valuation & Corporate Restructuring
+
+[How Microsoft acquired Linkedin](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
 
 # Investment Risks
 
