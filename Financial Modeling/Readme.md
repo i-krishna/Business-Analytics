@@ -18,6 +18,8 @@
 
 [How Microsoft acquired Linkedin](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
 
+https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal 
+
 # Investment Risks
 
 Attached is my educational podcast on investment risk types, tools & tricks. 
