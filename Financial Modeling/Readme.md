@@ -18,7 +18,7 @@
 
 [How Microsoft acquired Linkedin](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
 
-[SharkTank Example](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal) 
+SharkTank [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision) & [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE)
 
 # Investment Risks
 
