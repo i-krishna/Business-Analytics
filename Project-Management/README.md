@@ -88,7 +88,7 @@ Microsoft. (n.d.). Workplace analytics and employee feedback. Microsoft Blog. ht
 
 # PMP Certification
 
-[PMP Project](Deliverable_Clean%20Beach.pdf)
+[Team Project](Deliverable_Clean%20Beach.pdf)
 
 # Project Manager: A Reflective Analysis on the Transformation of Perceptions from Pre-course Assumptions to Post-course Insights
 
