@@ -8,6 +8,12 @@
 
 4. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
 
+5. [PGA Financial Model_Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & [Summary](/Financial%20Modeling/PGA%20Summary.mp4) 
+
+<img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
+
+<img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
+
 # Crypto Ponzi Global Scheme Analysis
 
 [Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
@@ -98,15 +104,6 @@ Damodaran, A. (2012). Investment valuation: Tools and techniques for determining
 Gartner. (2023). Cloud computing cost optimization strategies. https://www.gartner.com
 
 Principles of Accounting. (n.d.). Budgeting and Decision Making. https://www.principlesofaccounting.com/budgeting-decision-making/
-
-# Professional Golf Association Tour Digital Transformation Strategy
-by Krishna Damarla - Wednesday, February 5, 2025, 11:42 PM
-
-[PGA Financial Model_Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & [Summary](/Financial%20Modeling/PGA%20Summary.mp4) 
-
-<img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
-
-<img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
 
 # Overcoming AI Implementation Challenges at Baker Tilly
 by Krishna Damarla - Wednesday, January 29, 2025, 8:53 PM
