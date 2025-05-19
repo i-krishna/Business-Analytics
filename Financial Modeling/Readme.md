@@ -1,3 +1,7 @@
+# Investment Recommendation
+
+[McDonald's vs. Starbucks](/Financial%20Modeling/McD-vs-SBUX.pdf)
+
 # Financial Models 
 
 1. [McDonalds financial analysis](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
@@ -5,10 +9,6 @@
 2. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
 
 3. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
-
-# Investment Recommendation
-
-[McDonald's vs. Starbucks](/Financial%20Modeling/McD-vs-SBUX.pdf)
 
 # Crypto Ponzi Global Scheme Analysis
 
