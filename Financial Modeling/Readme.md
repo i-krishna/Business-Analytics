@@ -6,9 +6,9 @@
 
 3. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
 
-4. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
+4. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Audio Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
 
-5. [PGA Financial Model_Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & [Summary](/Financial%20Modeling/PGA%20Summary.mp4) 
+5. [PGA Financial Model_Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & [Audio Summary](/Financial%20Modeling/PGA%20Summary.mp4) 
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
