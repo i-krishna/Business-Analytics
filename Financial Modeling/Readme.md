@@ -14,28 +14,6 @@
 
 <img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
 
-# Crypto Ponzi Global Scheme Analysis
-
-[Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
-
-# Business Valuation & Corporate Restructuring
-
-[How Microsoft acquired Linkedin](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
-
-SharkTank [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
-
-# Investment Risks
-
-Attached is my educational podcast on investment risk types, tools & tricks. 
-
-https://github.com/user-attachments/assets/43a88a43-8818-499b-95e9-a480e6e1afcb
-
-<img width="984" alt="image" src="https://github.com/user-attachments/assets/f28bd1a9-6c65-435a-b0ab-f9108e06ed5a" />
-
-
-# Financial Instruments & Markets
-<img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
-
 # Interest Rates & Their Impacts 
 by Krishna Damarla - Wednesday, April 2, 2025, 5:18 PM
 
@@ -81,6 +59,30 @@ Credit score systems does not function the same in all countries across the worl
 We’re not even talking about gender equality here. Women often face more scrutiny in the banking and credit system. Sometimes governments become generous and waive loans for people below the poverty line, which shows that while problems exist, solutions do too. Let us hope for fairer and gender equal banking systems across all parts of the world.
 
 Thank you,
+
+# Crypto Ponzi Global Scheme Analysis
+
+[Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+
+# Business Valuation & Corporate Restructuring
+
+[How Microsoft acquired Linkedin](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
+
+SharkTank [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
+
+# Investment Risks
+
+Attached is my educational podcast on investment risk types, tools & tricks. 
+
+https://github.com/user-attachments/assets/43a88a43-8818-499b-95e9-a480e6e1afcb
+
+<img width="984" alt="image" src="https://github.com/user-attachments/assets/f28bd1a9-6c65-435a-b0ab-f9108e06ed5a" />
+
+
+# Financial Instruments & Markets
+<img src="https://github.com/user-attachments/assets/3cc51e8d-d6c6-45cf-80d7-e1520b7be120" width="48">
+
+
 
 # Optimizing Budget Allocation
 by Krishna Damarla - Wednesday, February 12, 2025, 7:13 PM
