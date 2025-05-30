@@ -120,11 +120,11 @@ The Filter action dynamically updates data in other sheets based on selections. 
 
 While these actions are widely used, they are limited in scope. For more complex research goals, such as exploring geospatial data, additional interactions may be required. Visual Information-Seeking Mantra proposed by Shneiderman (Aigner, 2007) is highly relevant in this context. This mantra, "overview first, zoom and filter, then details-on-demand," is useful for effectively navigating large datasets. 
 
-# 3. Overview First, Zoom and Filter, Then Details-On-Demand Action
+3. Overview First, Zoom and Filter, Then Details-On-Demand Action
 
 One example that follows this advanced action is Interactive Catchment Explorer (ICE), a web-based interactive data visualization framework (Walker et al., 2020). ICE is designed to help decision-makers explore complex geospatial environmental datasets and model predictions. The framework is built on Shneiderman's Mantra, allowing users to first gain a broad overview, zoom in for filtering, and then drill down into specific details. 
 
-Key Components of ICE:
+# Key Components of ICE:
 
 Map: Displays spatial features and allows users to pan and zoom at different scales.
 Selection Menu: Enables the selection of variables (e.g., mean summer temperature) that determine the color coding of features.
