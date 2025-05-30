@@ -124,7 +124,7 @@ While these actions are widely used, they are limited in scope. For more complex
 
 One example that follows this advanced action is Interactive Catchment Explorer (ICE), a web-based interactive data visualization framework (Walker et al., 2020). ICE is designed to help decision-makers explore complex geospatial environmental datasets and model predictions. The framework is built on Shneiderman's Mantra, allowing users to first gain a broad overview, zoom in for filtering, and then drill down into specific details. 
 
-# Key Components of ICE:
+Key Components of ICE:
 
 Map: Displays spatial features and allows users to pan and zoom at different scales.
 Selection Menu: Enables the selection of variables (e.g., mean summer temperature) that determine the color coding of features.
@@ -133,6 +133,7 @@ For example, filtering data by Forest Cover (%) in the histogram will highlight 
 
 ![image](https://github.com/user-attachments/assets/d47d8c3b-b945-4e34-a34c-85e99d6537f6)
 
+# ICE Usecase
 
 In another application, the ICE framework is used to assess the vulnerability of trout species towards climate change within the Crown of the Continent Ecosystems. It displays the overall risk level for various trout conservation population and uses cross-filters to analyze different risk levels, including overall risk, climate risk, and demographic risk as depicted in the dashboard below. This visual analysis helps stakeholders understand potential impacts of climate change on trout populations and recommend conservation strategies to reduce associated risks (Walker et al., 2020).
 
