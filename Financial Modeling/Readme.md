@@ -2,7 +2,7 @@
 
 1. Investment Recommendation - McDonald's vs. Starbucks: [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/MCDvsSBUX.mp4) & [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
 
-2. McDonalds financial analysis: 3  statement model (/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
+2. McDonalds financial analysis: [3  statement model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
 3. How Microsoft acquired Linkedin: [5min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
 
