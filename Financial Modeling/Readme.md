@@ -1,24 +1,24 @@
-# Financial Models 
+# Financial Models & Valuation
 
-1. Investment Recommendation [McDonald's vs. Starbucks](/Financial%20Modeling/McD-vs-SBUX.pdf)
+1. Investment Recommendation - McDonald's vs. Starbucks: [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/MCDvsSBUX.mp4) & [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
 
-2. [McDonalds financial analysis](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
+2. McDonalds financial analysis: 3  statement model (/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
-3. [LoanPayment Model](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
+3. How Microsoft acquired Linkedin: [5min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
 
-4. [Retirement Plan Model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx) - [Audio Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
+Business Valuation & Corporate Restructuring Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
-5. [PGA Financial Model_Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & [Audio Summary](/Financial%20Modeling/PGA%20Summary.mp4) 
+4. [LoanPayment Model_Bank](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
+
+5. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America): [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx),  [Audio Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
+
+6. Crypto Ponzi Global Scheme Analysis: [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+
+7. Financial Model_PGA (Professional Golfers' Association of America): [Audio Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & 
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
 <img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
-
-# Business Valuation & Corporate Restructuring
-
-How Microsoft acquired Linkedin: [5min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
-
-SharkTank [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
 # Interest Rates & Their Impacts 
 by Krishna Damarla - Wednesday, April 2, 2025, 5:18 PM
@@ -65,10 +65,6 @@ Credit score systems does not function the same in all countries across the worl
 We’re not even talking about gender equality here. Women often face more scrutiny in the banking and credit system. Sometimes governments become generous and waive loans for people below the poverty line, which shows that while problems exist, solutions do too. Let us hope for fairer and gender equal banking systems across all parts of the world.
 
 Thank you,
-
-# Crypto Ponzi Global Scheme Analysis
-
-[Detailed Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
 
 # Investment Risks
 
