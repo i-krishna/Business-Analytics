@@ -4,7 +4,7 @@
 
 2. McDonalds financial analysis: [3  statement model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
-3. How Microsoft acquired Linkedin: [5-min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf) 
+3. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring) : [5-min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf) 
 
 4. [LoanPayment Model_Bank](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
 
