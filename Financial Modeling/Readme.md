@@ -4,7 +4,7 @@
 
 2. McDonalds financial analysis: [3  statement model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
-3. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring) : [5-min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf) 
+3. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring) : [5-min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf) Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
 4. [LoanPayment Model_Bank](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
 
@@ -126,10 +126,6 @@ Lucid Software. (2018). How to make a concept map. YouTube. https://www.youtube.
 Lucidchart. (n.d.). Concept map guide. https://www.lucidchart.com/pages/concept-map
 
 Lucidchart. (n.d.). Influence diagram templates. https://www.lucidchart.com/pages/templates/influence-diagram
-
-# Business Valuation & Corporate Restructuring 
-
-Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
 # Apple’s Supply Chain Analysis
 by Krishna Damarla - Wednesday, January 15, 2025, 7:42 PM
