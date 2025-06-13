@@ -22,6 +22,8 @@ Impetus. (n.d.). GenAI Innovation Lab: Reimagine the intelligent enterprise with
 
 Stauber, M. (n.d.). Histography.io. https://histography.io/
 
+https://www.bezalel.ac.il/en
+
 https://www.usgs.gov/apps/ecosheds/#/
 
 https://experiments.withgoogle.com/search?q=webgl 
@@ -54,6 +56,8 @@ Delta Air Lines. (2022). The PARALLEL REALITY™ experience. Delta News Hub. htt
 Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data Scientists. Retrieved from https://geographicdata.science/book/notebooks/01_geo_thinking.html
 
 Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/track/tube
+
+https://www.bezalel.ac.il/en 
 
 # The True Measures of Business Success
 by  Krishna Damarla - Wednesday, November 20, 2024, 7:51 PM
