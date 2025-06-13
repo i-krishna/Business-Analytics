@@ -57,7 +57,7 @@ Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/t
 
 https://www.bezalel.ac.il/en/academics/master/urbDesign/City
 
-[https://capitol.michigan.gov/gallery](https://capitol.michigan.gov/gallery) (Architectural marvel of Michigan State Senate Chamber within the Michigan State Capitol building. An elegant glass ceiling adorned with representations of all 50 U.S. states, serving as a constant reminder to legislators that their decisions resonate beyond Michigan's borders with all the 50 U.S.)
+[https://capitol.michigan.gov/gallery](https://capitol.michigan.gov/gallery) (Architectural marvel of Michigan State Senate Chamber within the Michigan State Capitol building. An elegant glass ceiling adorned with representations of all 50 U.S. states, serving as a constant reminder to legislators that their decisions resonate beyond Michigan's borders)
 
 https://4273298.fs1.hubspotusercontent-na1.net/hubfs/4273298/BCPI_Curriculum%E2%80%93PTPI-Toolkit/BCPI_JHU_Path%20to%20Public%20Innovation%20Playbook_Fall%202024.pdf?hsCtaAttrib=190192352834
 
