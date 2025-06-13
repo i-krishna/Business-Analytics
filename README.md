@@ -22,8 +22,6 @@ Impetus. (n.d.). GenAI Innovation Lab: Reimagine the intelligent enterprise with
 
 Stauber, M. (n.d.). Histography.io. https://histography.io/
 
-https://www.bezalel.ac.il/en
-
 https://www.usgs.gov/apps/ecosheds/#/
 
 https://experiments.withgoogle.com/search?q=webgl 
