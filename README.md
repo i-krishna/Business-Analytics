@@ -57,6 +57,8 @@ Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/t
 
 https://www.bezalel.ac.il/en/academics/master/urbDesign/City
 
+https://4273298.fs1.hubspotusercontent-na1.net/hubfs/4273298/BCPI_Curriculum%E2%80%93PTPI-Toolkit/BCPI_JHU_Path%20to%20Public%20Innovation%20Playbook_Fall%202024.pdf?hsCtaAttrib=190192352834
+
 # The True Measures of Business Success
 by  Krishna Damarla - Wednesday, November 20, 2024, 7:51 PM
 
