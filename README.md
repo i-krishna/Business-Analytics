@@ -55,7 +55,7 @@ Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). Geographic Thinking for Data 
 
 Transport for London. (2024). Tube map. Retrieved from https://tfl.gov.uk/maps/track/tube
 
-https://www.bezalel.ac.il/en 
+https://www.bezalel.ac.il/en/academics/master/urbDesign/City
 
 # The True Measures of Business Success
 by  Krishna Damarla - Wednesday, November 20, 2024, 7:51 PM
