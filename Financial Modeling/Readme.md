@@ -12,7 +12,7 @@
 
 7. Crypto Ponzi Global Scheme Analysis: [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
 
-8. Financial Model_PGA (Professional Golfers' Association of America): [Audio Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) & 
+8. Financial Model_PGA (Professional Golfers' Association of America): [Audio Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) 
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
