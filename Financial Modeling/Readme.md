@@ -6,7 +6,7 @@
 
 4. [LoanPayment Model_Bank](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
 
-5. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America): [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx),  [Audio Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4)  & [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
+5. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America): [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx),  [Audio Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4), [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf) & [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
 
 6. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring) : [5-min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf) Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
