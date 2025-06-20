@@ -151,7 +151,7 @@ by Krishna Damarla - Wednesday, January 22, 2025, 8:13 PM
 
 Infographic 
 
-![Infograph](/Financial%20Modeling/Paycom%20Financial%20Model.svg)
+![Infograph](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Paycom%20Financial%20Model.png)
 
 # TVM
 
