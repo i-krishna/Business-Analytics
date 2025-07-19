@@ -1,6 +1,6 @@
 # Financial Models & Valuation
 
-1. Investment Recommendation - McDonald's vs. Starbucks: [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/MCDvsSBUX.mp4) & [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
+1. Investment Recommendation - McDonald's vs. Starbucks: [Slides Summary]([https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/MCDvsSBUX.mp4](https://www.youtube.com/watch?v=LnFK8ljCxk0)) & [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
 
 2. McDonalds financial analysis: [3  statement model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
