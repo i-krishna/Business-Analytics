@@ -9,11 +9,12 @@
    - [3  statement model in Excel](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx)
    - [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
-4. [LoanPayment Model_Bank](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
+4. Bank Loan Payment Model
+   - [Future Projections in Excel](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
 
-5. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America):
+6. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America):
 
-  - [Summary](https://youtu.be/T2tvGlB8hMI)
+  -  [Summary](https://youtu.be/T2tvGlB8hMI)
   -  [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
   -  [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
   -  [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
