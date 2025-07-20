@@ -36,6 +36,10 @@
 
 <img width="1025" alt="image" src="https://github.com/user-attachments/assets/b4812c0f-ee45-4c47-8197-3369d5e6b016" />
 
+12. Managing Explosive Business Growth
+    - [Summary](https://www.youtube.com/watch?v=JDq70FI74b4)
+    - [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Strategies%20to%20Manage%20Explosive%20Business%20Growth.pdf)
+
 # Interest Rates & Their Impacts 
 by Krishna Damarla - Wednesday, April 2, 2025, 5:18 PM
 
