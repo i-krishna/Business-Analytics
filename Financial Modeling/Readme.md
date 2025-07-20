@@ -1,18 +1,35 @@
 # Financial Models & Valuation
 
-1. Investment Recommendation - McDonald's vs. Starbucks: [Slides Summary](https://www.youtube.com/watch?v=LnFK8ljCxk0) & [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
+1. Investment Recommendation - McDonald's vs. Starbucks
+   - [Summary](https://www.youtube.com/watch?v=LnFK8ljCxk0)
+   - [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
 
-2. McDonalds financial analysis: [3  statement model](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx), [Audio Summary](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/McD%20FA.mp4) & [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
+3. McDonalds financial analysis
+   - [Summary](https://youtu.be/K3jti3tcLjE)
+   - [3  statement model in Excel](/McD's%20Financial%20Analysis%20Model_Krishna.xlsx)
+   - [Slides](/Financial%20Modeling/McD%20FinancialAnalysis_Krishna.pdf)
 
 4. [LoanPayment Model_Bank](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx) 
 
-5. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America): [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx),  [Audio Summary](/Financial%20Modeling/Retirement%20Planning%20Project%20Slides.mp4), [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf) & [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
+5. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America):
 
-6. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring) : [5-min Audio Summary](/Financial%20Modeling/Business_Valuation.mp4)  & [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf) Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
+  - [Summary](https://youtu.be/T2tvGlB8hMI)
+  -  [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
+  -  [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
+  -  [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
 
-7. Crypto Ponzi Global Scheme Analysis: [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf) & [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+7. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring)
+   - [Summary](https://www.youtube.com/watch?v=TZCCGBd5xEw)
+   - [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
+   - Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
-8. Financial Model_PGA (Professional Golfers' Association of America): [Audio Summary](/Financial%20Modeling/PGA%20Summary.mp4) & [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) 
+9. Crypto Ponzi Global Scheme Analysis
+    - [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf)
+    - [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+
+11. Financial Model_PGA (Professional Golfers' Association of America)
+    - [Summary](https://youtu.be/ZtsnfTPaGPg)
+    - [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) 
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
