@@ -14,10 +14,10 @@
 
 6. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America):
 
-  -  [Summary](https://youtu.be/T2tvGlB8hMI)
-  -  [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
-  -  [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
-  -  [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
+   -  [Summary](https://youtu.be/T2tvGlB8hMI)
+   -  [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
+   -  [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
+   -  [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
 
 7. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring)
    - [Summary](https://www.youtube.com/watch?v=TZCCGBd5xEw)
