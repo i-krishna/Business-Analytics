@@ -141,13 +141,17 @@ In another application, the ICE framework is used to assess the vulnerability of
 
 References 
 
-Aigner, W. (2007). Visual information-seeking mantra. InfoVis Wiki. https://infovis-wiki.net/wiki/Visual_Information-Seeking_Mantra
+Aigner, W. (2007). Visual information-seeking mantra by Shneiderman. InfoVis Wiki. https://infovis-wiki.net/wiki/Visual_Information-Seeking_Mantra / https://www.infovis.org/resources.php 
 
 Francis, M. (2019). Creating interactive Tableau dashboards. LinkedIn Learning. https://www.linkedin.com/learning/creating-interactive-tableau-dashboards/
 
 Keim, D., Kohlhammer, J., Ellis, G., & Mansmann, F. (2010). Mastering the information age: Solving problems with visual analytics. Eurographics Association.
 
 Walker, J. D., Letcher, B. H., Rodgers, K. D., Muhlfeld, C. C., & D’Angelo, V. S. (2020). An interactive data visualization framework for exploring geospatial environmental datasets and model predictions. U.S. Geological Survey. https://www.usgs.gov/apps/ecosheds/#/   
+
+https://github.com/EcoSHEDS/fpe-model & https://www.usgs.gov/apps/ecosheds/fpe/#/ 
+
+https://ecology.wa.gov/water-shorelines/water-quality 
 
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/510a30f4-64ab-47e5-9421-ec7a47e9e2be">
 
