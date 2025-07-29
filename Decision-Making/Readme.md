@@ -151,6 +151,14 @@ Walker, J. D., Letcher, B. H., Rodgers, K. D., Muhlfeld, C. C., & D’Angelo, V.
 
 https://github.com/EcoSHEDS/fpe-model & https://www.usgs.gov/apps/ecosheds/fpe/#/ 
 
+https://ecosheds.github.io/northeast-temp-model/ 
+
+https://db.ecosheds.org/ 
+
+https://aktemp.uaa.alaska.edu/viz/ 
+
+https://www.usgs.gov/apps/ecosheds/ice-nps-ner/
+
 https://ecology.wa.gov/water-shorelines/water-quality 
 
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/510a30f4-64ab-47e5-9421-ec7a47e9e2be">
