@@ -161,6 +161,8 @@ https://www.usgs.gov/apps/ecosheds/ice-nps-ner/
 
 https://ecology.wa.gov/water-shorelines/water-quality 
 
+https://www.hydrotech-group.com/blog/wastewater-treatment-across-the-world-which-countries-recycle-the-most-and-where-is-the-best-water-quality 
+
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/510a30f4-64ab-47e5-9421-ec7a47e9e2be">
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/7adebaf0-d355-4678-a432-f8f4069f4b63">
