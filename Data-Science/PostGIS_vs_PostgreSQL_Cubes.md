@@ -60,7 +60,7 @@ The `cube` module is designed for representing and operating on multi-dimensiona
 - **Choose the cube module** for general multi-dimensional data (not necessarily spatial), where efficient indexing and operations are needed within its dimensional limits.
 
 
-**Future Synergies:**  
+## Future Synergies:
 
 AI + PostGIS Workflow:
 
@@ -74,7 +74,7 @@ Step 3: Loads into PostGIS for spatial indexing/querying.
 
 AI generates natural language summaries of GIS data (e.g., "There was a 10% increase in urban sprawl in 2023").
 
-Conclusion
+**Conclusion**
 OpenAI’s models use CNNs, ViTs, and multimodal learning to interpret images but do not replace GIS tools.
 
 PostGIS is complementary: It handles structured geospatial data, while AI assists in feature extraction & automation.
