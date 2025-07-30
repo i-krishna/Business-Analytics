@@ -97,7 +97,7 @@ Stores that extracted spatial data.
 
 Allows spatial queries: e.g., "find all rivers within 5km of highway X".
 
-🧠 So: OpenAI handles unstructured visual input, while PostGIS performs structured geospatial querying.
+So: OpenAI handles unstructured visual input, while PostGIS performs structured geospatial querying.
 
 If you're building a system combining both, the architecture may look like:
 
