@@ -23,12 +23,9 @@ Delen, D. (2020). Predictive analytics: Data mining, machine learning, and data 
 
 Newton, E. (2023). Top 5 challenges in ethical data mining we need to overcome. https://datafloq.com/read/top-5-challenges-ethical-data-mining-need-overcome/
 
+# AI vs ML
 
-<img width="468" height="621" alt="image" src="https://github.com/user-attachments/assets/0f3414d4-1223-4162-8660-06d185b5f6b0" />
-
-
-
-AI vs ML: Artificial Intelligence (AI) refers to machines that can simulate human intelligence to sense, reason, act, empathize, or adapt like a human. Examples include Apple's vision technology, Amazon Alexa, and Meta’s Code LIama. Machine Learning (ML) refers to a subset of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. Alternative definition of ML: Machine learning is a subfield of computer science that means "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning." That's a 1959 definition by Arthur Samuel, a pioneer in computer gaming and artificial intelligence
+Artificial Intelligence (AI) refers to machines that can simulate human intelligence to sense, reason, act, empathize, or adapt like a human. Examples include Apple's vision technology, Amazon Alexa, and Meta’s Code LIama. Machine Learning (ML) refers to a subset of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. Alternative definition of ML: Machine learning is a subfield of computer science that means "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning." That's a 1959 definition by Arthur Samuel, a pioneer in computer gaming and artificial intelligence
 
 # Collective Intelligence in Predictive Analytics by Krishna Damarla
 
