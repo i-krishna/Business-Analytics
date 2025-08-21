@@ -23,7 +23,7 @@ Delen, D. (2020). Predictive analytics: Data mining, machine learning, and data 
 
 Newton, E. (2023). Top 5 challenges in ethical data mining we need to overcome. https://datafloq.com/read/top-5-challenges-ethical-data-mining-need-overcome/
 
-[https://research.ibm.com/publications?source=19579 ](https://share.confex.com/share/117/webprogram/Handout/Session9577/WatsonHardwareAndSoftware.pdf)
+Dow, E. M. (n.d.). A hardware & software overview. IBM. [https://research.ibm.com/publications?source=19579 ](https://share.confex.com/share/117/webprogram/Handout/Session9577/WatsonHardwareAndSoftware.pdf)
 
 https://research.ibm.com/publications/building-watson-an-overview-of-the-deepqa-project 
 
