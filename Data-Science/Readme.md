@@ -1,7 +1,7 @@
 # Ethical Challenges & Solutions in the age of LLMs & AI Agents
 Aug 20, 2025 by Krishna Damarla
 
-Data mining has changed a lot since IBM's supercomputer Watson, based on DeepQA architecture won  JeoPardy in 2011 and DeepBlue chess playing supercomouter defeated the world chess champion in 1997 (Delen, 2020). Various advancements have taken place in the fields of machine learning, natural language processing, deep learning, big data & data science, which have taken data mining far beyond its early days. Today’s AI systems can solve complex problems across various fields.
+Data mining has changed a lot since IBM's supercomputer Watson, based on DeepQA architecture won  JeoPardy in 2011 (Dow, n.d.) and DeepBlue chess playing supercomouter defeated the world chess champion in 1997 (Delen, 2020). Various advancements have taken place in the fields of machine learning, natural language processing, deep learning, big data & data science, which have taken data mining far beyond its early days. Today’s AI systems can solve complex problems across various fields.
 
 Right now, data mining brings up important ethical issues, especially as large language models (LLMs) and AI agents play a huge role in making decisions (Newton, 2023). Main challenges include bias, lack of transparency, poor consent processes, and misuse, all made worse by the scale and independence of modern AI systems, Multi-Agents and Agent-enabled-Agents.
 
@@ -21,11 +21,9 @@ Da Bormida, M. (2021). The big data world: Benefits, threats and ethical challen
 
 Delen, D. (2020). Predictive analytics: Data mining, machine learning, and data science for practitioners (2nd ed.). Pearson.
 
+Dow, E. M. (n.d.). A hardware & software overview. IBM. [https://research.ibm.com/publications?source=19579 ](https://share.confex.com/share/117/webprogram/Handout/Session9577/WatsonHardwareAndSoftware.pdf) & https://research.ibm.com/publications/building-watson-an-overview-of-the-deepqa-project 
+
 Newton, E. (2023). Top 5 challenges in ethical data mining we need to overcome. https://datafloq.com/read/top-5-challenges-ethical-data-mining-need-overcome/
-
-Dow, E. M. (n.d.). A hardware & software overview. IBM. [https://research.ibm.com/publications?source=19579 ](https://share.confex.com/share/117/webprogram/Handout/Session9577/WatsonHardwareAndSoftware.pdf)
-
-https://research.ibm.com/publications/building-watson-an-overview-of-the-deepqa-project 
 
 https://research.ibm.com/publications?source=19579 
 
