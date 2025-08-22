@@ -1,0 +1,26 @@
+# OLTP and OLAP Schema Diagram
+#
+# This diagram shows how normalized OLTP tables feed into denormalized OLAP tables via ETL.
+#
+# [Customer] <--- [Order] <--- [OrderItem] ---> [Product]   (OLTP)
+#        |           |             |                |
+#        |           |             |                |
+#        +-----------+-------------+----------------+
+#                        |
+#                        v
+#                [ETL Process]
+#                        |
+#                        v
+# [FactSales] <--- [DimCustomer]
+#      ^         <--- [DimProduct]
+#      ^         <--- [DimDate]
+#      ^         <--- [DimRegion]
+# (OLAP Star Schema)
+#
+# ETL Frequency: Daily, Hourly, or Real-time depending on business needs.
+
+Typical setup:
+
+For most business intelligence/reporting, ETL runs nightly (once per day).
+For operational dashboards, ETL may run hourly or every few minutes.
+For mission-critical, real-time analytics, ETL can run every few seconds (using streaming tools like Kafka, AWS Kinesis, etc.).
