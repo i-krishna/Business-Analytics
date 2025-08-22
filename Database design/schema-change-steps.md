@@ -1,12 +1,12 @@
 # Schema updates for new reporting features in RDS and EC2
 
-Gather requirements: Meet with stakeholders to define new reporting needs.
-Design changes: Create/update ER diagrams, define new tables/columns/indexes.
-Dev/test: Write change scripts (SQL ALTER, CREATE, etc.), test in dev/staging.
-Review: Peer review scripts, validate against sample data.
-Deploy: Schedule downtime if needed, apply scripts to RDS (via SSMS/AWS Console) and EC2 (via SSMS/command line).
-Validate: Run post-deployment checks, confirm reporting works.
-Document: Update schema docs, version control scripts, notify teams.
+1. Gather requirements: Meet with stakeholders to define new reporting needs.
+2. Design changes: Create/update ER diagrams, define new tables/columns/indexes.
+3. Dev/test: Write change scripts (SQL ALTER, CREATE, etc.), test in dev/staging.
+4. Review: Peer review scripts, validate against sample data.
+5. Deploy: Schedule downtime if needed, apply scripts to RDS (via SSMS/AWS Console) and EC2 (via SSMS/command line).
+6. Validate: Run post-deployment checks, confirm reporting works.
+7. Document: Update schema docs, version control scripts, notify teams.
 
 ```
 +---------------------+
