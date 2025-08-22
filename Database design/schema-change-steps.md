@@ -8,6 +8,7 @@ Deploy: Schedule downtime if needed, apply scripts to RDS (via SSMS/AWS Console)
 Validate: Run post-deployment checks, confirm reporting works.
 Document: Update schema docs, version control scripts, notify teams.
 
+```
 +---------------------+
 | 1. Gather           |
 | Requirements        |
@@ -57,3 +58,4 @@ Document: Update schema docs, version control scripts, notify teams.
 | version control,    |
 | notify teams)       |
 +---------------------+
+```
