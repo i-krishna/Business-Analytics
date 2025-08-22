@@ -8,6 +8,14 @@ SQL Authentication using username/password is less secure than integrated authen
 
 <img width="2807" height="1658" alt="security model" src="https://github.com/user-attachments/assets/11bd20ec-c051-4a9f-8ad9-5630551468b2" />
 
+AWS Secrets Manager is a cloud service that securely stores, manages, and rotates secrets such as database credentials, API keys, and other sensitive information.
+
+For an app using RDS SQL Server:
+
+You create a secret in Secrets Manager containing the SQL Server username and password for the dedicated app user.
+The app retrieves these credentials programmatically (using AWS SDK or CLI) at runtime, instead of hardcoding them.
+Secrets Manager can automatically rotate the credentials on a schedule, updating both the secret and the database user password. This improves security by centralizing secret management and reducing exposure of credentials in code or config files.
+
 
 # Authorization:
 
