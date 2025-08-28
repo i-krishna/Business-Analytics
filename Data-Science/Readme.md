@@ -1,4 +1,5 @@
 # AI & ML: Legal Requirements and Global Variations
+Aug 27, 2025 by Krishna Damarla
 
 Organizations implementing data mining, Machine Learning (ML), and AI (Artificial Intelligence) algorithms across different regions often face legal problems because of the different data privacy rules and ethical standards across geographies (IEEE, n.d.).
 
