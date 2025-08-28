@@ -1,3 +1,37 @@
+# AI & ML: Legal Requirements and Global Variations
+
+Organizations implementing data mining, Machine Learning (ML), and AI (Artificial Intelligence) algorithms across different regions often face legal problems because of the different data privacy rules and ethical standards across geographies (IEEE, n.d.).
+
+GDPR vs. US Data Privacy Laws
+
+The European Union (EU)’s GDPR is very detailed and applies strict rules to any company that handles EU residents data. GDPR focuses on protecting individual rights, limiting the amount of data used, and holding companies accountable (Da Bormida, 2021). Whereas U.S. laws are less uniform and are based on specific industries or states.
+
+For example, HIPAA protects health information, and FERPA protects student records (CITI Program Staff, 2024). The California Consumer Privacy Act protects the consumer rights of State of California residents. Only around 20 out of 50 U.S. states have enacted detailed data privacy laws (Bloomberg Law, n.d.). These laws often include more exceptions and a balance between privacy and business operations. Because of this, U.S. regulations usually give companies more flexibility (IEEE, n.d.).
+
+Legal Challenges 
+
+Global companies that use data mining, ML, and AI face complicated legal situations because there are many overlapping and sometimes conflicting rules. The GDPR usually imposes more stricter rules on companies than many U.S. federal or industry-specific laws, making it the toughest standard to follow (Da Bormida, 2021).
+
+When it comes from third parties, it can be hard to ensure data is collected properly, especially if their consent practices are unclear or depend on the country they’re in and what is legally allowed versus what people consider ethical, especially in cases like emergency responses or public health (IEEE, n.d.). Also, laws like new state privacy acts, moving data internationally, and AI governance rules keep changing. 
+
+Overcoming the Challenges
+
+Companies should consider a single data governance system that follows the strictest applicable rules, such as GDPR (Da Bormida, 2021) and they should always stay updated to quickly adjust their procedures to overcome the legal challenges.
+
+They should implement methods such as privacy by design, pseudonymization, data minimization, anonymization, and managing user consent by sending notification alerts to users to update their consent preferences. Further, integrating regulatory approval workflows can create a system that enables responsible use of data that respects people's rights while still supporting innovation and public good (Da Bormida, 2021; IEEE, n.d.).
+
+References
+
+Bloomberg Law. (n.d.). Which states have consumer data privacy laws? Bloomberg Law State Privacy Legislation Tracker. https://pro.bloomberglaw.com/insights/privacy/state-privacy-legislation-tracker/
+
+CITI Program Staff. (2024). How HIPAA and FERPA rules affect school-based health clinics. CITI Program. https://about.citiprogram.org/blog/how-hipaa-and-ferpa-rules-affect-school-based-health-clinics/ 
+
+Da Bormida, M. (2021). The Big Data World: Benefits, Threats and Ethical Challenges. Ethical issues in covert, security and surveillance research (Vol. 8). Emerald Publishing. https://doi.org/10.1108/S2398-601820210000008007
+
+IEEE. (n.d.). Ethical issues related to data privacy and security: Why we must balance ethical and legal requirements in the connected world. IEEE Digital Privacy https://digitalprivacy.ieee.org/publications/topics/ethical-issues-related-to-data-privacy-and-security-why-we-must-balance-ethical-and-legal-requirements-in-the-connected-world/
+
+
+
 # Ethical Data Mining Challenges & Solutions in the age of LLMs & AI Agents
 Aug 20, 2025 by Krishna Damarla
 
