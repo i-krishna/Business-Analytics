@@ -1,8 +1,8 @@
 # AI vs ML
 
-Artificial Intelligence (AI) refers to machines that can simulate human intelligence to sense, reason, act, empathize, or adapt like a human. Examples include Apple's vision technology, Amazon Alexa, and Meta’s Code LIama. Machine Learning (ML) refers to a subset of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. 
+Artificial Intelligence (AI), which itself is a branch of computer science refers to machines that can simulate human intelligence to sense, reason, act, empathize, or adapt like a human. Examples include Apple's vision technology, Amazon Alexa, and Meta’s Code LIama. 
 
-Machine learning (ML) is a brach of AI, which itself is a branch/subfield of computer science that means "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning." That's a 1959 definition by Arthur Samuel, a pioneer in computer gaming and artificial intelligence
+Machine Learning (ML) is a branch of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. In 1959, Arthur Samuel—a pioneer in computer gaming and artificial intelligence—defined ML as "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning."
 
 # Collective Intelligence in Predictive Analytics by Krishna Damarla
 
