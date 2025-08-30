@@ -4,9 +4,11 @@ Artificial Intelligence (AI) is a branch of computer science refers to machines 
 
 Machine Learning (ML) is a branch of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. In 1959, Arthur Samuel, an IBM Computer Scientist (Computer gaming & AI), defined ML as "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning"  (Cukier, 2014)
 
-Reference
+References
 
 Cukier, K. (2014). Big data is better data. TED Conferences. https://www.ted.com/talks/kenneth_cukier_big_data_is_better_data
+
+Srinivas, A. (2025). How AI will answer questions we haven’t thought to ask. TED Conferences. https://www.youtube.com/watch?v=MD4W_e3dJPs
 
 # Collective Intelligence in Predictive Analytics by Krishna Damarla
 
