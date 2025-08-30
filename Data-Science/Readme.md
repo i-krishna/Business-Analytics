@@ -2,7 +2,10 @@
 
 Artificial Intelligence (AI), which itself is a branch of computer science refers to machines that can simulate human intelligence to sense, reason, act, empathize, or adapt like a human. Examples include Apple's vision technology, Amazon Alexa, and Meta’s Code LIama. 
 
-Machine Learning (ML) is a branch of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. In 1959, Arthur Samuel, a pioneer in computer gaming and artificial intelligence, defined ML as "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning."
+Machine Learning (ML) is a branch of AI that empowers machines to learn and improve using algorithms (such as linear regression, HOG, CNN) to analyze large amounts of data. In 1959, Arthur Samuel, an IBM Computer Scientist (Computer gaming & AI), defined (Cukier, 2004) as "the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning"
+
+Reference
+Cukier, K. (2014). Big data is better data. TED Conferences. https://www.ted.com/talks/kenneth_cukier_big_data_is_better_data
 
 # Collective Intelligence in Predictive Analytics by Krishna Damarla
 
@@ -27,6 +30,8 @@ HyperMind. (2021). The Wisdom of Crowds: The Science of Getting Smarter Together
 StoryWorks. (2024). E80 - The Wisdom of Crowds. YouTube. https://www.youtube.com/watch?v=jvgPPiWN7yU 
 
 Smarter Together. (2023). Crowd Forecasting: how Johns Hopkins harnessed the wisdom of crowds to predict infectious disease. YouTube. https://www.youtube.com/watch?v=z-V-lPzBVA4 
+
+https://www.youtube.com/watch?v=8pHzROP1D-w  
 
 # Choosing Effective Data Visualizations for Analysis
 
