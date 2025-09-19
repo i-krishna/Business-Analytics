@@ -1,20 +1,20 @@
-# Financial Models & Valuation
+# Financial Models & Business Valuation
 
 1. Investment Recommendation - McDonald's vs. Starbucks
    - [Summary](https://www.youtube.com/watch?v=LnFK8ljCxk0)
    - [Slides](/Financial%20Modeling/McD-vs-SBUX.pdf)
+
+2. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring)
+   - [Summary](https://www.youtube.com/watch?v=TZCCGBd5xEw)
+   - [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
+   - Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
 
 2. Retirement Plan Model_TIAA (Teachers Insurance and Annuity Association of America):
    -  [Summary](https://youtu.be/T2tvGlB8hMI)
    -  [Report](/Financial%20Modeling/Retirement%20Planning%20Case%20Paper.pdf)
    -  [Excel model](/Financial%20Modeling/Retirement%20Plan%20Model.xlsx)
    -  [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
-
-3. How Microsoft acquired Linkedin (A study on Business Valuation & Corporate-Restructuring)
-   - [Summary](https://www.youtube.com/watch?v=TZCCGBd5xEw)
-   - [Slides](/Financial%20Modeling/Business-Valuation-and-Corporate-Restructuring.pdf)
-   - Examples from SharkTank:  [Ex 1](https://www.youtube.com/watch?v=ae5MssJ8en4&t=608s&ab_channel=SharkTankGlobal),  [Ex 2](https://www.youtube.com/watch?v=BaUkuszb7dg&ab_channel=SonyPicturesTelevision), [Ex 3](https://www.youtube.com/watch?v=m60D89d9_x4&t=24s&ab_channel=DAVE) & [Ex 4](https://www.youtube.com/watch?v=qRRugUPwl60&ab_channel=SharkTankIndia), [Ex 5](https://www.youtube.com/watch?v=_lzbsmSerXo&ab_channel=Dragons%27DenCanada)
-
+     
 4. Crypto Ponzi Global Scheme Analysis
     - [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf)
     - [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
@@ -194,3 +194,4 @@ Bigel, K. S. (2022). Chapter 1: Introduction. Introduction to financial analysis
 Vipond, T. (n.d.). Financial modeling guidelines: A free, comprehensive best practices guide to advance your financial modeling skills. Corporate Finance Institute. https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/
 
 National Information Management and Support System. (n.d.). Behavioral economics and financial decision-making and information management across the lifespan. https://nimss.org/projects/view/mrp/outline/15376
+
