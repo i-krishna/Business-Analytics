@@ -149,3 +149,23 @@ Cross-region replication
 ⚠️ Slightly limited on custom PostGIS tuning compared to self-hosted.
 
 🔗 https://cloud.google.com/sql/docs/postgres/postgis 
+
+Further, 
+
+Choose AWS if:
+Need comprehensive data governance (Lake Formation)
+Want mature ecosystem with most third-party integrations
+Have complex compliance requirements
+Already invested in AWS infrastructure
+
+Choose Azure if:
+Have existing Microsoft enterprise tooling
+Need strong hybrid cloud capabilities
+Want integrated business intelligence (Power BI)
+Require seamless on-premise integration
+
+Choose GCP if:
+Want serverless-first architecture
+Need high-performance analytics (BigQuery)
+Plan heavy ML/AI integration
+Prefer simple, consumption-based pricing
