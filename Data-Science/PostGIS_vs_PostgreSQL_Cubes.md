@@ -169,3 +169,9 @@ Want serverless-first architecture
 Need high-performance analytics (BigQuery)
 Plan heavy ML/AI integration
 Prefer simple, consumption-based pricing
+
+Multi-Cloud Approach: Use cloud-agnostic tools like:
+Apache Airflow for orchestration
+dbt for data transformation
+Apache Iceberg for table format
+Kubernetes for container orchestration
