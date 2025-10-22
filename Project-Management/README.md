@@ -9,7 +9,7 @@ Relying solely on managerial discretion to determine compensation based on proje
 
 Being diverse or democratic doesn’t necessarily mean being right. A majority vote—whether for a hiring or promotion decision—can still lead to the wrong outcome if that majority is biased.
 
-Consider this analogy: in a region dominated by pigeons, a crow may struggle to survive, even if the crow possesses higher average IQ, EQ, education, and life experience than the pigeons. When crows are systematically excluded from opportunities, the collective intelligence of that region (or state or country) can never rise above the average (of [world](https://www.iq-international-test.com/en/test/IQ_by_country) or [country](https://nchstats.com/average-iq-by-state-in-us/)).
+Consider this analogy: in a region dominated by pigeons, a crow may struggle to survive, even if the crow possesses higher average IQ, EQ, education, and life experience than the pigeons. When crows are systematically excluded from opportunities, the [collective intelligence]([https://www.youtube.com/watch?v=AXdR2vAhnzY](https://youtu.be/AXdR2vAhnzY?t=220) of that region (or state or country) can never rise above the average of world or country.
 
 Some highly intelligent pigeons play a clever game: they bring in peacocks to showcase “diversity” in their decisions. But often, these peacocks are symbolically included—rewarded or compensated in ways that ensure their support for the pigeons’ choices. In this metaphor, the peacock represents an underrepresented community that must rely on pigeons for survival. When diversity is used as a display rather than a genuine practice, it becomes performative. Even if diverse individuals are present at the table, true control often remains with the same group. Some genuinely good pigeons whose interest is in true national interest will not have a say because peacocks grew in number and dominated good genuine pigeons. 
 
@@ -50,6 +50,10 @@ Lucidchart. (n.d.). How to make a concept map. https://www.lucidchart.com/blog/h
 Start-Tech Academy. (2025). Master HR people analytics: Explore key HR metrics and predictive tools for effective people analytics strategies. Udemy. https://www.udemy.com/course/people-analytics-hr/
 
 https://www.hrci.org/certifications/exam-preparation-resources/hrbok---a-guide-to-the-human-resource-body-of-knowledge 
+
+https://nchstats.com/average-iq-by-state-in-us/
+
+https://www.iq-international-test.com/en/test/IQ_by_country
 
 # Google’s Data-Driven People Management
 by Krishna Damarla - Wednesday, October 30, 2024, 8:47 PM
