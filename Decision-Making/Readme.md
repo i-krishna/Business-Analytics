@@ -1,3 +1,39 @@
+# Best Practices and Frameworns for Charts and Color Choices in Data Visualizations
+by Krishna Damarla - Wednesday, November 12, 2025, 7:11 PM
+
+**Takeaways**
+
+Choosing the right chart requires matching data characteristics to visual encoding methods, as charts should focus on fetching information from data and not on creating art. Charts should be chosen as per the data at hand to visualize and should emit only the information the audience needs to view. Although there are many charts, I will discuss the main ones, such as bar charts, which can track one or two variables effectively but fail when showing five or more variables or parts of a whole (Dougherty & Ilyankou, 2025). Line charts track multiple variables simultaneously without clutter and are used mainly for time-series data visualization. Area charts, especially stacked versions, show how parts of a whole change over time. Heatmaps show the density information. Pie and doughnut charts excel at showing proportions in a single period (365 Data Science, 2018).
+
+Colors on top of charts guide the audience to where to focus and bring their immediate attention. Imagine a situation where I need to deliver a year-long research result in a 10-minute pitch to investors to get funding. I must be extremely concise and direct their attention to what really matters. Less text, more charts, essential colors. There are five strategic color usages as per Munzner (2021): sequential (gradients showing progression), diverging (two extremes with neutral midpoint), categorical (maximum four distinct colors), highlight (directing attention), and alert (signaling importance). Further, as per Schaffer's framework, it is advisable to use color sparingly and to avoid red-green combinations for a color-blind audience. Instead, use blue-orange alternatives. As color influences mood and behavior, use blue to convey trust and orange to communicate friendliness (Krause, 2014). Also, test RGB screen colors with CMYK print. 
+
+**Applications**
+
+Before designing my dashboards that track patients' information across U.S. states, I plan to apply Subotin's (n.d.) four questions: Who is this for? Where will the viewers view it (desktop or mobile)? Why am I creating this? What data matters to viewers?
+
+For any chart I build where applicable, I make sure it comprises 10 essential elements discussed in Storytelling with Data (2021), such as axis lines, axis labels, axis titles, graph titles, data lines, data markers, data labels, reference lines, legends, and annotations. Further, I would make my charts interactive and user-friendly while answering the five questions I stated as my business problem. I will use my cleaned dataset from week three for building the charts, which already eliminated cluttered variables not essential for answering my questions or creating appropriate charts. I am planning to use horizontal bar charts for data with comparisons and line charts for time-series data, stacked bar charts for revealing peaks within data or top information of focus and maps for geographical density information.
+
+For my charts' color choices, I will use sequential light-to-dark blue for ordered data with no rainbows, as they lack perceptual uniformity. For trends, I will apply diverging blue-gray-red colors. I plan to use three to four categorical colors that showcase high contrast and remain colorblind-safe. Saturated red will be used for highlighting important data points, while other, less important data will appear as pale gray, following Schaffer's framework (Wexler et al., 2018). I will also test all color palettes using ColorBrewer to ensure perceptual uniformity.
+
+References
+
+365 Data Science. (2018). Which is the best chart: Selecting among 14 types of charts Part I. YouTube.
+
+Dougherty, J., & Ilyankou, I. (2025). Chapter 6: Chart Your Data. In hands-on data visualization. https://handsondataviz.org/chart.html
+
+Krause, J. (2014). Color for designers: Ninety-five things you need to know when choosing and using colors for layouts and illustrations. New Riders.
+
+Munzner, T. (2021). Color (Ch 10), Visualization Analysis & Design. YouTube.
+
+Storytelling with Data. (2021). Ten considerations when designing a graph. YouTube.
+
+Subotin, S. (n.d.). Dashboard design best practices. Toptal. https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices
+
+Wexler, S., Shaffer, J., & Cotgreave, A. (2018). The big book of dashboards: Visualizing your data using real-world business scenarios (1st ed.). Wiley.
+
+<img width="962" height="224" alt="image" src="https://github.com/user-attachments/assets/133798f2-7186-4131-ad4d-68ea1bdcde0b" />
+
+
 # How Analytics Shapes Decision Making: From Descriptive to Cognitive by Krishna Damarla 
 
 Descriptive analytics (what happened) summarizes historical data to answer the question "what happened," giving numerical statistical insights into past business performance. It can be based on a sample (part of the population), or a census (the entire population). For example, in examining the average age of 100 randomly selected Trine University students (AbdulHussein, 2022), the average age is a statistic for the sample, and the mean age of all Trine University students is a parameter of the entire population.
