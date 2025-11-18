@@ -1,4 +1,4 @@
-# Best Practices and Frameworns for Charts and Color Choices in Data Visualizations
+# Best Practices and Frameworks for Data Visualization
 by Krishna Damarla - Wednesday, November 12, 2025, 7:11 PM
 
 **Takeaways**
