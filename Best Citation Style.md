@@ -4,6 +4,7 @@ It wasn't until today, during a seminar on academic writing and citation standar
 
 This realization made me reflect on the various citation standards used across disciplines. Below is a curated list of major citation styles:
 
+```
 IEEE - Unmatched in STEM fields
 Chicago (Author-Date) - Most versatile across disciplines
 APA 7th - Dominates social sciences, psychology, education
@@ -14,3 +15,4 @@ Engineering Schools (MIT, Caltech): IEEE
 Business Schools (Wharton, Harvard Business): APA, Chicago
 Medical Schools (Johns Hopkins, UCSF): Vancouver, AMA
 Law Schools (Yale, Harvard): Bluebook exclusively
+```
