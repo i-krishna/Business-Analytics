@@ -4,6 +4,12 @@ It wasn't until today, during a webinar on academic writing and citation standar
 
 This realization made me reflect on the various citation standards used across disciplines and countries. Below is a curated list of major citation styles:
 
+IEEE BibTeX (LaTeX package)
+<img width="630" height="70" alt="image" src="https://github.com/user-attachments/assets/44f67cf8-4a5c-4f5d-aaac-c420e25a5205" />
+
+MLA, APA, Chicago, Harvard, Vancouver
+<img width="571" height="551" alt="image" src="https://github.com/user-attachments/assets/03558428-0087-4cd9-adf0-885b4105398f" />
+
 ```
 Engineering Schools (MIT, Caltech): IEEE
 Business Schools (Wharton, Harvard Business): APA, Chicago
