@@ -5,16 +5,16 @@ It wasn't until today, during a webinar on academic writing and citation standar
 This realization made me reflect on the various citation standards used across disciplines and countries. Below is a curated list of major citation styles:
 
 ```
+Engineering Schools (MIT, Caltech): IEEE
+Business Schools (Wharton, Harvard Business): APA, Chicago
+Medical Schools (Johns Hopkins, UCSF): Vancouver, AMA
+Law Schools (Yale, Harvard): Bluebook exclusively
+
 IEEE - Unmatched in STEM fields
 Chicago (Author-Date) - Most versatile across disciplines
 APA 7th - Dominates social sciences, psychology, education
 Harvard - International recognition, simple to use
 Vancouver - Medical/biomedical gold standard
-
-Engineering Schools (MIT, Caltech): IEEE
-Business Schools (Wharton, Harvard Business): APA, Chicago
-Medical Schools (Johns Hopkins, UCSF): Vancouver, AMA
-Law Schools (Yale, Harvard): Bluebook exclusively
 ```
 
 Others 
