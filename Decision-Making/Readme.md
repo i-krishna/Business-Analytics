@@ -13,7 +13,7 @@ Before designing my dashboards that track patients' information across U.S. stat
 
 For any chart I build where applicable, I make sure it comprises 10 essential elements discussed in Storytelling with Data (2021), such as axis lines, axis labels, axis titles, graph titles, data lines, data markers, data labels, reference lines, legends, and annotations. Further, I would make my charts interactive and user-friendly while answering the five questions I stated as my business problem. I will use my cleaned dataset from Week 3, which already eliminated cluttered variables not essential for answering my questions or creating appropriate charts. In this project, I am planning to use line charts for predicting future events from historical time-series data, horizontal bar charts for data with comparisons, stacked bar charts for revealing peaks within data, scatter plots for identifying correlations between variables and maps for geographical density information.
 
-Although Tableau Public and certain enterprise BI tools do not offer advanced interactive visualization features such as linking and brushing or zoom and pan on high-volume data for selecting and exporting specific data points, charts created using custom WebGL JavaScript scripts can be integrated into these tools to enable such techniques. For example, I implemented these advanced interactive visualization features across all the aforementioned chart types in my thesis (Schulz et al., 2017). In the future, charts may not require manual brushing and linking. Instead, graph areas where the human eye focuses for longer durations could automatically export data for further analysis, adding a new layer to interactive visual analytics and Human-Computer Interaction (HCI).
+Although Tableau Public and certain enterprise BI tools do not offer advanced interactive visualization features such as linking and brushing or zoom and pan on high-volume data for selecting and exporting specific data points, charts created using custom WebGL JavaScript scripts can be integrated into these tools to enable such techniques. For example, I implemented these advanced interactive visualization features across all the aforementioned chart types in my thesis (SRDH17). In the future, charts may not require manual brushing and linking. Instead, graph areas where the human eye focuses for longer durations could automatically export data for further analysis, adding a new layer to interactive visual analytics and Human-Computer Interaction (HCI).
 
 For my charts' color choices, I will use sequential light-to-dark blue for ordered data with no rainbows, as they lack perceptual uniformity. For trends, I will apply diverging blue-gray-red colors. I plan to use three to four categorical colors that showcase high contrast and remain colorblind-safe. Saturated red will be used for highlighting important data points, while other, less important data will appear as pale gray, following Schaffer's framework (Wexler et al., 2018). I will also test all color palettes using ColorBrewer to ensure perceptual uniformity.
 
@@ -27,7 +27,10 @@ Krause, J. (2014). Color for designers: Ninety-five things you need to know when
 
 Munzner, T. (2021). Color (Ch 10), Visualization Analysis & Design. YouTube.
 
-Schulz, C., Rodrigues, N., Damarla, K., Henicke, A., & Weiskopf, D. (2017). Visual exploration of mainframe workloads. In Proceedings of the SIGGRAPH Asia Symposium on Visualization (SA ’17). ACM. https://doi.org/10.1145/3139295.3139312 
+[SRDH17]  C. Schulz, N. Rodrigues, K. Damarla, A. Henicke, D. Weiskopf. 
+          Visual Exploration of Mainframe Workloads. SIGGRAPH Asia 2017 
+          Symp. Vis. Art. no. 4, pp. 1-7. Association for Computing 
+          Machinery, Incorporated, 2017. (cit. on pp. 3, 5).
  
 Storytelling with Data. (2021). Ten considerations when designing a graph. YouTube.
 
