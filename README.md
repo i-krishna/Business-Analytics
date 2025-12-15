@@ -1,4 +1,4 @@
-# MSBAN Program Reflection
+# Master of Science in Business Analytics Program Reflection
 by Krishna Damarla - Wednesday, December 10, 2025, 6:02 PM
 
 **Solutions to Problems**
