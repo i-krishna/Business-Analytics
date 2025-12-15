@@ -1,3 +1,36 @@
+# MSBAN Program Reflection
+by Krishna Damarla - Wednesday, December 10, 2025, 6:02 PM
+
+**Solutions to Problems**
+
+The Master of Science in Business Analytics program transformed how I approach business problems, moving from technical analysis to strategic solutions. For example, my COVID-19 capstone project, an interactive Tableau storyboard enhanced by AI assistants during data cleaning and Tableau agents during visual analysis, demonstrated how thoughtful design, combined with project management principles, enables effective team coordination and management (Few, 2013).
+
+The capstone's meticulous eight week design, starting with business problem definition, iterating through data cleaning, visualization design, Gestalt principles application with interactive filters and analytical insights, revealed crucial steps often skipped under tight deadlines in real world projects. This iterative approach added immense value, and I'll apply these learnings by giving teams three different projects or problems over eight weeks rather than one project in two weeks, as ideas need time to iterate on each new project.
+
+**Skills Acquired**
+
+The program equipped me with strong technical capabilities across various domains. Data driven decision making and data mining courses improved my analytics foundation from KNIME machine learning workflows to fune-tuning LLMs and building AI Agents (Juice Analytics, 2022). Statistics and big data science courses improved my proficiency in statistical validation, hypothesis testing, regression analysis, Python and R programming.
+
+Operations analytics taught me optimization techniques in real industries. For example, my comprehensive report on Instacart's grocery delivery innovation balanced the firm’s current operations with futuristic technological recommendations for firm’s supply chain operations. Financial modeling course taught me to read SEC filings confidently to guide the company’s investment decisions. The corporate finance course taught me how to build financial models such as retirement planning, loan default calculation and forecasting models. During this process, I attained proficiency in various advanced software analytics & tools (VanderPlas, 2016).
+
+**Communicating Findings**
+
+The program's greatest gift was developing my soft skills alongside technical expertise. I can now present complex ideas through simple language and interactive visuals, essential for influencing organizational decisions. For example, during my finance and analytics classes, I communicated the findings from my assignments and research reports by creating high quality video presentations and oral explanations that executives can act on (Damarla, 2025). This written and oral communication improved my style of expressing complex ideas clearly and re-shaped my analytical thinking slowly and steadily (Dykes, 2016).
+
+Most importantly, ten experienced instructors from renowned universities—including the University of Michigan and Wayne State University—and working professionals from IBM, GE, and TIAA provided invaluable feedback across ten courses and consistently guided my progress in the right direction. Furthermore, interactions with a diverse community of 300+ students enriched my learning through their comments on submissions and collaborative group projects, fostering meaningful two-way communication. Overall, this master's program has strengthened my skills in three key dimensions: business solution delivery, technical skill application, and effective communication, positioning me for immediate contribution in analytical (or AI) leadership roles. 
+
+**References**
+
+Damarla, K. (2025). Retirement planning financial model case analysis. Trine University FIN 5823 Course Project.
+
+Dykes, B. (2016). Data storytelling: How to use data and analytics to tell powerful and persuasive stories. Forbes.
+
+Few, S. (2013). Information dashboard design: Displaying data for at-a-glance monitoring (2nd ed.). Analytics Press.
+
+Juice Analytics. (2022). 20 Best storytelling examples. https://www.juiceanalytics.com/writing/20-best-data-storytelling-examples
+
+VanderPlas, J. (2016). Python data science handbook. O'Reilly Media.
+
 # GenBI: Revolutionizing BI with GenAI, JS and Apple’s Design Principles
 by Krishna Damarla - Wednesday, December 4, 2024, 10:18 PM
 
