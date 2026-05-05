@@ -159,9 +159,9 @@ While these actions are widely used, they are limited in scope. For more complex
 
 One example that follows this advanced action is Interactive Catchment Explorer (ICE), a web-based interactive data visualization framework (Walker et al., 2020). 
 
-# ICE (Interactive Catchment Explorer) Usecase
+# ICE Usecase
 
-ICE is designed to help decision-makers explore complex geospatial environmental datasets and model predictions. The framework is built on Shneiderman's Mantra, allowing users to first gain a broad overview, zoom in for filtering, and then drill down into specific details. 
+ICE (Interactive Catchment Explorer) is designed to help decision-makers explore complex geospatial environmental datasets and model predictions. The framework is built on Shneiderman's Mantra, allowing users to first gain a broad overview, zoom in for filtering, and then drill down into specific details. 
 
 Key Components of ICE:
 
