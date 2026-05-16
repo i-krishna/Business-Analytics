@@ -2,11 +2,44 @@
 Data Compute vs AI Compute
 
 Data compute (Spark, Trino, Snowflake) moves data through CPUs to answer queries. The bottleneck here is moving data — from disk to memory to CPU and back (I/O-bound work). The CPU cores are doing relatively simple operations (comparisons, additions, string matches) but on billions of rows. The parallelism is horizontal — you add more machines to handle more data. Each machine has regular CPUs (like Intel Xeon or AMD EPYC). The work is sequential per row but distributed across thousands of rows simultaneously.
+
 AI compute (A100, H100, L40) moves numbers through thousands of GPU cores simultaneously to train or run models. Training a neural network or running inference is a completely different kind of work. At its core, everything in AI reduces to one operation repeated billions of times: matrix multiplication.
 A simple neural network layer does this:
 output = input_matrix × weight_matrix + bias
 Where input_matrix might be shape [batch_size=512, features=4096] and weight_matrix is [4096, 4096]. That's 512 × 4096 × 4096 = 8.5 billion multiply-and-add operations — for a single layer, for a single forward pass.
 A CPU does this sequentially across its 16-64 cores. An A100 GPU has 6,912 CUDA cores all running simultaneously, specifically designed to do matrix math in parallel. That's why the same operation takes seconds on a CPU and milliseconds on a GPU.
+
+In a modern ML platform, both compute types are used, at different stages of the same pipeline:
+
+Raw events (S3)
+      │
+      ▼
+Spark cluster (CPU compute)
+- reads 10TB of user behaviour data
+- runs feature engineering (joins, aggregations, normalisation)
+- writes feature table to Silver Delta table
+      │
+      ▼
+Feature table (S3, Parquet)
+      │
+      ▼
+GPU cluster — A100s (AI compute)
+- reads feature table into GPU memory
+- runs matrix multiplications for training
+- gradient descent, backpropagation
+- saves model weights to S3
+      │
+      ▼
+Trained model (S3)
+      │
+      ▼
+Inference server — L40 GPUs (AI compute)
+- loads model weights
+- serves predictions in real time
+- e.g. fraud score for each transaction
+      │
+      ▼
+Predictions written back to Gold Delta table (CPU/Spark)
 
 Below matrix multiplication is solution to problem stated by HA lab's professor of msu https://hal.cse.msu.edu/team/vishnu-boddeti/ 
 https://github.com/i-krishna/Business-Analytics/blob/main/Hackathons/LeetCode/MatrixOps_Solution_Krishna.pdf 
