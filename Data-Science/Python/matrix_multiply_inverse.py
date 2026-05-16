@@ -9,6 +9,7 @@ Where input_matrix might be shape [batch_size=512, features=4096] and weight_mat
 A CPU does this sequentially across its 16-64 cores. An A100 GPU has 6,912 CUDA cores all running simultaneously, specifically designed to do matrix math in parallel. That's why the same operation takes seconds on a CPU and milliseconds on a GPU.
 
 Below matrix multiplication is solution to problem stated by HA lab's professor of msu https://hal.cse.msu.edu/team/vishnu-boddeti/ 
+https://github.com/i-krishna/Business-Analytics/blob/main/Hackathons/LeetCode/MatrixOps_Solution_Krishna.pdf 
 """
 import numpy as np
 
