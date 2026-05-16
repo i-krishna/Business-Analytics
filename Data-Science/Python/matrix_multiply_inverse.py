@@ -7,6 +7,8 @@ A simple neural network layer does this:
 output = input_matrix × weight_matrix + bias
 Where input_matrix might be shape [batch_size=512, features=4096] and weight_matrix is [4096, 4096]. That's 512 × 4096 × 4096 = 8.5 billion multiply-and-add operations — for a single layer, for a single forward pass.
 A CPU does this sequentially across its 16-64 cores. An A100 GPU has 6,912 CUDA cores all running simultaneously, specifically designed to do matrix math in parallel. That's why the same operation takes seconds on a CPU and milliseconds on a GPU.
+
+Below matrix multiplication is solution to problem stated by HA lab's professor of msu https://hal.cse.msu.edu/team/vishnu-boddeti/ 
 """
 import numpy as np
 
