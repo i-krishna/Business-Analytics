@@ -1,4 +1,6 @@
 """
+Data Compute vs AI Compute
+
 Data compute (Spark, Trino, Snowflake) moves data through CPUs to answer queries. The bottleneck here is moving data — from disk to memory to CPU and back (I/O-bound work). The CPU cores are doing relatively simple operations (comparisons, additions, string matches) but on billions of rows. The parallelism is horizontal — you add more machines to handle more data. Each machine has regular CPUs (like Intel Xeon or AMD EPYC). The work is sequential per row but distributed across thousands of rows simultaneously.
 AI compute (A100, H100, L40) moves numbers through thousands of GPU cores simultaneously to train or run models. Training a neural network or running inference is a completely different kind of work. At its core, everything in AI reduces to one operation repeated billions of times: matrix multiplication.
 A simple neural network layer does this:
