@@ -16,15 +16,15 @@
    -  [Slides](https://github.com/i-krishna/Business-Analytics/blob/main/Financial%20Modeling/Retirement-Planning-Project.pdf)
      
 ## 4. Crypto Ponzi Global Scheme Analysis
-    - [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf)
-    - [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
+   - [Report](/Financial%20Modeling/Crypto%20Ponzi%20Scheme.pdf)
+   - [Team Brainstorm Slides](/Financial%20Modeling/Crypto%20Fraud%20Team%20Presentation.pdf)
 
 ## 5. Bank Loan Payment Model
    - [Future Projections in Excel](/Financial%20Modeling/LoanPayment_Calculator_Krishna.xlsx)
      
 ## 6. Financial Model_PGA (Professional Golfers' Association of America)
-    - [Summary](https://youtu.be/ZtsnfTPaGPg)
-    - [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) 
+   - [Summary](https://youtu.be/ZtsnfTPaGPg)
+   - [Slides](/Financial%20Modeling/PGA_Digital%20Transformation%20Strategy.pptx) 
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/32c5e84b-a8df-4198-b318-8113c1223c55" />
 
