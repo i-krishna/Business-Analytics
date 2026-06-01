@@ -1,9 +1,8 @@
 # Tableau Storyboard
 
-Interactive dashboard — explore the full storyboard on Tableau Public (in full-screen mode): [View the interactive storyboard](https://public.tableau.com/views/TableauStoryboard_Final_V1/Storyboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+[View the interactive storyboard](https://public.tableau.com/views/TableauStoryboard_Final_V1/Storyboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ) - explore the full storyboard on Tableau Public (in full-screen mode).
 
-Project walkthrough — narrative documentation of the dashboards, design choices, and underlying analysis:
-[Read the walkthrough (PDF)](https://github.com/i-krishna/Business-Analytics/blob/main/Decision-Making/Tableau%20Project.pdf)
+[Read the walkthrough](https://github.com/i-krishna/Business-Analytics/blob/main/Decision-Making/Tableau%20Project.pdf) — narrative documentation of the dashboards, design choices, and underlying analysis of above storyboard.
 
 # Best Practices and Frameworks for Data Visualization
 by Krishna Damarla - Wednesday, November 12, 2025, 7:11 PM
